@@ -1,0 +1,386 @@
+{
+  "original_receptor": "data\\original_receptor.pdb",
+  "trimming_parameters": {
+    "hotspot_threshold": 5,
+    "expansion_radius": 8.0,
+    "min_fragment_size": 15,
+    "gap_bridge_distance": 10
+  },
+  "statistics": {
+    "original_residue_count": 475,
+    "trimmed_residue_count": 382,
+    "size_reduction_percent": 19.57894736842105,
+    "num_fragments": 3,
+    "fragment_sizes": [
+      180,
+      173,
+      29
+    ]
+  },
+  "fragments": {
+    "A": [
+      [
+        28,
+        207,
+        180
+      ],
+      [
+        219,
+        391,
+        173
+      ],
+      [
+        462,
+        490,
+        29
+      ]
+    ]
+  },
+  "high_frequency_residues": [
+    {
+      "chain": "A",
+      "residue": 42,
+      "frequency": 6.0
+    },
+    {
+      "chain": "A",
+      "residue": 45,
+      "frequency": 19.0
+    },
+    {
+      "chain": "A",
+      "residue": 46,
+      "frequency": 6.0
+    },
+    {
+      "chain": "A",
+      "residue": 48,
+      "frequency": 12.0
+    },
+    {
+      "chain": "A",
+      "residue": 49,
+      "frequency": 15.0
+    },
+    {
+      "chain": "A",
+      "residue": 52,
+      "frequency": 16.0
+    },
+    {
+      "chain": "A",
+      "residue": 53,
+      "frequency": 9.0
+    },
+    {
+      "chain": "A",
+      "residue": 54,
+      "frequency": 20.0
+    },
+    {
+      "chain": "A",
+      "residue": 55,
+      "frequency": 17.0
+    },
+    {
+      "chain": "A",
+      "residue": 56,
+      "frequency": 11.0
+    },
+    {
+      "chain": "A",
+      "residue": 57,
+      "frequency": 16.0
+    },
+    {
+      "chain": "A",
+      "residue": 58,
+      "frequency": 20.0
+    },
+    {
+      "chain": "A",
+      "residue": 61,
+      "frequency": 19.0
+    },
+    {
+      "chain": "A",
+      "residue": 62,
+      "frequency": 17.0
+    },
+    {
+      "chain": "A",
+      "residue": 64,
+      "frequency": 14.0
+    },
+    {
+      "chain": "A",
+      "residue": 65,
+      "frequency": 18.0
+    },
+    {
+      "chain": "A",
+      "residue": 66,
+      "frequency": 9.0
+    },
+    {
+      "chain": "A",
+      "residue": 67,
+      "frequency": 20.0
+    },
+    {
+      "chain": "A",
+      "residue": 68,
+      "frequency": 10.0
+    },
+    {
+      "chain": "A",
+      "residue": 71,
+      "frequency": 10.0
+    },
+    {
+      "chain": "A",
+      "residue": 72,
+      "frequency": 13.0
+    },
+    {
+      "chain": "A",
+      "residue": 73,
+      "frequency": 14.0
+    },
+    {
+      "chain": "A",
+      "residue": 74,
+      "frequency": 13.0
+    },
+    {
+      "chain": "A",
+      "residue": 75,
+      "frequency": 12.0
+    },
+    {
+      "chain": "A",
+      "residue": 86,
+      "frequency": 5.0
+    },
+    {
+      "chain": "A",
+      "residue": 88,
+      "frequency": 11.0
+    },
+    {
+      "chain": "A",
+      "residue": 90,
+      "frequency": 10.0
+    },
+    {
+      "chain": "A",
+      "residue": 93,
+      "frequency": 9.0
+    },
+    {
+      "chain": "A",
+      "residue": 117,
+      "frequency": 8.0
+    },
+    {
+      "chain": "A",
+      "residue": 120,
+      "frequency": 12.0
+    },
+    {
+      "chain": "A",
+      "residue": 124,
+      "frequency": 18.0
+    },
+    {
+      "chain": "A",
+      "residue": 127,
+      "frequency": 5.0
+    },
+    {
+      "chain": "A",
+      "residue": 128,
+      "frequency": 15.0
+    },
+    {
+      "chain": "A",
+      "residue": 129,
+      "frequency": 11.0
+    },
+    {
+      "chain": "A",
+      "residue": 130,
+      "frequency": 16.0
+    },
+    {
+      "chain": "A",
+      "residue": 131,
+      "frequency": 11.0
+    },
+    {
+      "chain": "A",
+      "residue": 132,
+      "frequency": 18.0
+    },
+    {
+      "chain": "A",
+      "residue": 133,
+      "frequency": 16.0
+    },
+    {
+      "chain": "A",
+      "residue": 135,
+      "frequency": 6.0
+    },
+    {
+      "chain": "A",
+      "residue": 136,
+      "frequency": 20.0
+    },
+    {
+      "chain": "A",
+      "residue": 137,
+      "frequency": 7.0
+    },
+    {
+      "chain": "A",
+      "residue": 150,
+      "frequency": 11.0
+    },
+    {
+      "chain": "A",
+      "residue": 151,
+      "frequency": 18.0
+    },
+    {
+      "chain": "A",
+      "residue": 152,
+      "frequency": 12.0
+    },
+    {
+      "chain": "A",
+      "residue": 153,
+      "frequency": 18.0
+    },
+    {
+      "chain": "A",
+      "residue": 154,
+      "frequency": 19.0
+    },
+    {
+      "chain": "A",
+      "residue": 155,
+      "frequency": 12.0
+    },
+    {
+      "chain": "A",
+      "residue": 171,
+      "frequency": 13.0
+    },
+    {
+      "chain": "A",
+      "residue": 172,
+      "frequency": 9.0
+    },
+    {
+      "chain": "A",
+      "residue": 175,
+      "frequency": 20.0
+    },
+    {
+      "chain": "A",
+      "residue": 176,
+      "frequency": 7.0
+    },
+    {
+      "chain": "A",
+      "residue": 178,
+      "frequency": 14.0
+    },
+    {
+      "chain": "A",
+      "residue": 179,
+      "frequency": 20.0
+    },
+    {
+      "chain": "A",
+      "residue": 182,
+      "frequency": 14.0
+    },
+    {
+      "chain": "A",
+      "residue": 183,
+      "frequency": 11.0
+    },
+    {
+      "chain": "A",
+      "residue": 185,
+      "frequency": 6.0
+    },
+    {
+      "chain": "A",
+      "residue": 186,
+      "frequency": 13.0
+    },
+    {
+      "chain": "A",
+      "residue": 191,
+      "frequency": 9.0
+    },
+    {
+      "chain": "A",
+      "residue": 194,
+      "frequency": 7.0
+    },
+    {
+      "chain": "A",
+      "residue": 195,
+      "frequency": 8.0
+    },
+    {
+      "chain": "A",
+      "residue": 198,
+      "frequency": 5.0
+    },
+    {
+      "chain": "A",
+      "residue": 335,
+      "frequency": 5.0
+    },
+    {
+      "chain": "A",
+      "residue": 341,
+      "frequency": 11.0
+    },
+    {
+      "chain": "A",
+      "residue": 344,
+      "frequency": 15.0
+    },
+    {
+      "chain": "A",
+      "residue": 345,
+      "frequency": 14.0
+    },
+    {
+      "chain": "A",
+      "residue": 346,
+      "frequency": 14.0
+    },
+    {
+      "chain": "A",
+      "residue": 347,
+      "frequency": 15.0
+    },
+    {
+      "chain": "A",
+      "residue": 348,
+      "frequency": 15.0
+    },
+    {
+      "chain": "A",
+      "residue": 349,
+      "frequency": 8.0
+    }
+  ]
+}
