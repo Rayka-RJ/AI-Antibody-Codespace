@@ -1,0 +1,1128 @@
+{
+  "original_receptor": "data\\original_receptor.pdb",
+  "original_residue_count": 475,
+  "candidates": {
+    "aggressive": {
+      "trimming_parameters": {
+        "hotspot_threshold": 0.984372021703613,
+        "ss_threshold_factor": 0.1,
+        "gap_bridge_distance": 25,
+        "preserve_context": 2
+      },
+      "statistics": {
+        "trimmed_residue_count": 189,
+        "retention_rate": 0.39789473684210525,
+        "size_reduction_percent": 60.21052631578947
+      },
+      "secondary_structure_preservation": {
+        "A": {
+          "helices": {
+            "total": 17,
+            "kept": 8,
+            "kept_details": [
+              {
+                "start": 23,
+                "end": 44,
+                "length": 22,
+                "avg_hotspot_score": 0.45454545454545453,
+                "max_hotspot_score": 6.0
+              },
+              {
+                "start": 57,
+                "end": 70,
+                "length": 14,
+                "avg_hotspot_score": 11.285714285714286,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 115,
+                "end": 123,
+                "length": 9,
+                "avg_hotspot_score": 3.3333333333333335,
+                "max_hotspot_score": 12.0
+              },
+              {
+                "start": 130,
+                "end": 147,
+                "length": 18,
+                "avg_hotspot_score": 5.666666666666667,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 152,
+                "end": 156,
+                "length": 5,
+                "avg_hotspot_score": 12.8,
+                "max_hotspot_score": 19.0
+              },
+              {
+                "start": 178,
+                "end": 183,
+                "length": 6,
+                "avg_hotspot_score": 10.666666666666666,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 186,
+                "end": 201,
+                "length": 16,
+                "avg_hotspot_score": 3.0,
+                "max_hotspot_score": 13.0
+              },
+              {
+                "start": 341,
+                "end": 348,
+                "length": 8,
+                "avg_hotspot_score": 10.875,
+                "max_hotspot_score": 15.0
+              }
+            ],
+            "removed_details": [
+              {
+                "start": 81,
+                "end": 84,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 210,
+                "end": 229,
+                "length": 20,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 233,
+                "end": 244,
+                "length": 12,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 250,
+                "end": 262,
+                "length": 13,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 278,
+                "end": 286,
+                "length": 9,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 302,
+                "end": 308,
+                "length": 7,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 322,
+                "end": 333,
+                "length": 12,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 422,
+                "end": 427,
+                "length": 6,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 438,
+                "end": 450,
+                "length": 13,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              }
+            ]
+          },
+          "strands": {
+            "total": 4,
+            "kept": 1,
+            "kept_details": [
+              {
+                "start": 94,
+                "end": 99,
+                "length": 6,
+                "avg_hotspot_score": 0.3333333333333333,
+                "max_hotspot_score": 2.0
+              }
+            ],
+            "removed_details": [
+              {
+                "start": 104,
+                "end": 109,
+                "length": 6,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 313,
+                "end": 316,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 375,
+                "end": 378,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              }
+            ]
+          },
+          "high_scoring_loops": [
+            {
+              "residue": 45,
+              "hotspot_score": 19.0
+            },
+            {
+              "residue": 46,
+              "hotspot_score": 6.0
+            },
+            {
+              "residue": 47,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 48,
+              "hotspot_score": 12.0
+            },
+            {
+              "residue": 49,
+              "hotspot_score": 15.0
+            },
+            {
+              "residue": 50,
+              "hotspot_score": 3.0
+            },
+            {
+              "residue": 51,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 52,
+              "hotspot_score": 16.0
+            },
+            {
+              "residue": 71,
+              "hotspot_score": 10.0
+            },
+            {
+              "residue": 72,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 73,
+              "hotspot_score": 14.0
+            },
+            {
+              "residue": 74,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 75,
+              "hotspot_score": 12.0
+            },
+            {
+              "residue": 76,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 77,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 86,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 87,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 88,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 89,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 90,
+              "hotspot_score": 10.0
+            },
+            {
+              "residue": 93,
+              "hotspot_score": 9.0
+            },
+            {
+              "residue": 113,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 114,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 124,
+              "hotspot_score": 18.0
+            },
+            {
+              "residue": 125,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 127,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 128,
+              "hotspot_score": 15.0
+            },
+            {
+              "residue": 129,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 150,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 151,
+              "hotspot_score": 18.0
+            },
+            {
+              "residue": 157,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 168,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 171,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 172,
+              "hotspot_score": 9.0
+            },
+            {
+              "residue": 173,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 174,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 175,
+              "hotspot_score": 20.0
+            },
+            {
+              "residue": 176,
+              "hotspot_score": 7.0
+            },
+            {
+              "residue": 184,
+              "hotspot_score": 3.0
+            },
+            {
+              "residue": 185,
+              "hotspot_score": 6.0
+            },
+            {
+              "residue": 202,
+              "hotspot_score": 4.0
+            },
+            {
+              "residue": 205,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 297,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 335,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 336,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 349,
+              "hotspot_score": 8.0
+            },
+            {
+              "residue": 350,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 472,
+              "hotspot_score": 1.0
+            }
+          ]
+        }
+      }
+    },
+    "moderate": {
+      "trimming_parameters": {
+        "hotspot_threshold": 0.984372021703613,
+        "ss_threshold_factor": 0.1,
+        "gap_bridge_distance": 25,
+        "preserve_context": 2
+      },
+      "statistics": {
+        "trimmed_residue_count": 189,
+        "retention_rate": 0.39789473684210525,
+        "size_reduction_percent": 60.21052631578947
+      },
+      "secondary_structure_preservation": {
+        "A": {
+          "helices": {
+            "total": 17,
+            "kept": 8,
+            "kept_details": [
+              {
+                "start": 23,
+                "end": 44,
+                "length": 22,
+                "avg_hotspot_score": 0.45454545454545453,
+                "max_hotspot_score": 6.0
+              },
+              {
+                "start": 57,
+                "end": 70,
+                "length": 14,
+                "avg_hotspot_score": 11.285714285714286,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 115,
+                "end": 123,
+                "length": 9,
+                "avg_hotspot_score": 3.3333333333333335,
+                "max_hotspot_score": 12.0
+              },
+              {
+                "start": 130,
+                "end": 147,
+                "length": 18,
+                "avg_hotspot_score": 5.666666666666667,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 152,
+                "end": 156,
+                "length": 5,
+                "avg_hotspot_score": 12.8,
+                "max_hotspot_score": 19.0
+              },
+              {
+                "start": 178,
+                "end": 183,
+                "length": 6,
+                "avg_hotspot_score": 10.666666666666666,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 186,
+                "end": 201,
+                "length": 16,
+                "avg_hotspot_score": 3.0,
+                "max_hotspot_score": 13.0
+              },
+              {
+                "start": 341,
+                "end": 348,
+                "length": 8,
+                "avg_hotspot_score": 10.875,
+                "max_hotspot_score": 15.0
+              }
+            ],
+            "removed_details": [
+              {
+                "start": 81,
+                "end": 84,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 210,
+                "end": 229,
+                "length": 20,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 233,
+                "end": 244,
+                "length": 12,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 250,
+                "end": 262,
+                "length": 13,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 278,
+                "end": 286,
+                "length": 9,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 302,
+                "end": 308,
+                "length": 7,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 322,
+                "end": 333,
+                "length": 12,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 422,
+                "end": 427,
+                "length": 6,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 438,
+                "end": 450,
+                "length": 13,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              }
+            ]
+          },
+          "strands": {
+            "total": 4,
+            "kept": 1,
+            "kept_details": [
+              {
+                "start": 94,
+                "end": 99,
+                "length": 6,
+                "avg_hotspot_score": 0.3333333333333333,
+                "max_hotspot_score": 2.0
+              }
+            ],
+            "removed_details": [
+              {
+                "start": 104,
+                "end": 109,
+                "length": 6,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 313,
+                "end": 316,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 375,
+                "end": 378,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              }
+            ]
+          },
+          "high_scoring_loops": [
+            {
+              "residue": 45,
+              "hotspot_score": 19.0
+            },
+            {
+              "residue": 46,
+              "hotspot_score": 6.0
+            },
+            {
+              "residue": 47,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 48,
+              "hotspot_score": 12.0
+            },
+            {
+              "residue": 49,
+              "hotspot_score": 15.0
+            },
+            {
+              "residue": 50,
+              "hotspot_score": 3.0
+            },
+            {
+              "residue": 51,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 52,
+              "hotspot_score": 16.0
+            },
+            {
+              "residue": 71,
+              "hotspot_score": 10.0
+            },
+            {
+              "residue": 72,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 73,
+              "hotspot_score": 14.0
+            },
+            {
+              "residue": 74,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 75,
+              "hotspot_score": 12.0
+            },
+            {
+              "residue": 76,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 77,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 86,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 87,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 88,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 89,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 90,
+              "hotspot_score": 10.0
+            },
+            {
+              "residue": 93,
+              "hotspot_score": 9.0
+            },
+            {
+              "residue": 113,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 114,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 124,
+              "hotspot_score": 18.0
+            },
+            {
+              "residue": 125,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 127,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 128,
+              "hotspot_score": 15.0
+            },
+            {
+              "residue": 129,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 150,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 151,
+              "hotspot_score": 18.0
+            },
+            {
+              "residue": 157,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 168,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 171,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 172,
+              "hotspot_score": 9.0
+            },
+            {
+              "residue": 173,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 174,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 175,
+              "hotspot_score": 20.0
+            },
+            {
+              "residue": 176,
+              "hotspot_score": 7.0
+            },
+            {
+              "residue": 184,
+              "hotspot_score": 3.0
+            },
+            {
+              "residue": 185,
+              "hotspot_score": 6.0
+            },
+            {
+              "residue": 202,
+              "hotspot_score": 4.0
+            },
+            {
+              "residue": 205,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 297,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 335,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 336,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 349,
+              "hotspot_score": 8.0
+            },
+            {
+              "residue": 350,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 472,
+              "hotspot_score": 1.0
+            }
+          ]
+        }
+      }
+    },
+    "conservative": {
+      "trimming_parameters": {
+        "hotspot_threshold": 0.984372021703613,
+        "ss_threshold_factor": 0.1,
+        "gap_bridge_distance": 25,
+        "preserve_context": 2
+      },
+      "statistics": {
+        "trimmed_residue_count": 189,
+        "retention_rate": 0.39789473684210525,
+        "size_reduction_percent": 60.21052631578947
+      },
+      "secondary_structure_preservation": {
+        "A": {
+          "helices": {
+            "total": 17,
+            "kept": 8,
+            "kept_details": [
+              {
+                "start": 23,
+                "end": 44,
+                "length": 22,
+                "avg_hotspot_score": 0.45454545454545453,
+                "max_hotspot_score": 6.0
+              },
+              {
+                "start": 57,
+                "end": 70,
+                "length": 14,
+                "avg_hotspot_score": 11.285714285714286,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 115,
+                "end": 123,
+                "length": 9,
+                "avg_hotspot_score": 3.3333333333333335,
+                "max_hotspot_score": 12.0
+              },
+              {
+                "start": 130,
+                "end": 147,
+                "length": 18,
+                "avg_hotspot_score": 5.666666666666667,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 152,
+                "end": 156,
+                "length": 5,
+                "avg_hotspot_score": 12.8,
+                "max_hotspot_score": 19.0
+              },
+              {
+                "start": 178,
+                "end": 183,
+                "length": 6,
+                "avg_hotspot_score": 10.666666666666666,
+                "max_hotspot_score": 20.0
+              },
+              {
+                "start": 186,
+                "end": 201,
+                "length": 16,
+                "avg_hotspot_score": 3.0,
+                "max_hotspot_score": 13.0
+              },
+              {
+                "start": 341,
+                "end": 348,
+                "length": 8,
+                "avg_hotspot_score": 10.875,
+                "max_hotspot_score": 15.0
+              }
+            ],
+            "removed_details": [
+              {
+                "start": 81,
+                "end": 84,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 210,
+                "end": 229,
+                "length": 20,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 233,
+                "end": 244,
+                "length": 12,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 250,
+                "end": 262,
+                "length": 13,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 278,
+                "end": 286,
+                "length": 9,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 302,
+                "end": 308,
+                "length": 7,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 322,
+                "end": 333,
+                "length": 12,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 422,
+                "end": 427,
+                "length": 6,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 438,
+                "end": 450,
+                "length": 13,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              }
+            ]
+          },
+          "strands": {
+            "total": 4,
+            "kept": 1,
+            "kept_details": [
+              {
+                "start": 94,
+                "end": 99,
+                "length": 6,
+                "avg_hotspot_score": 0.3333333333333333,
+                "max_hotspot_score": 2.0
+              }
+            ],
+            "removed_details": [
+              {
+                "start": 104,
+                "end": 109,
+                "length": 6,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 313,
+                "end": 316,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              },
+              {
+                "start": 375,
+                "end": 378,
+                "length": 4,
+                "avg_hotspot_score": 0.0,
+                "max_hotspot_score": 0.0
+              }
+            ]
+          },
+          "high_scoring_loops": [
+            {
+              "residue": 45,
+              "hotspot_score": 19.0
+            },
+            {
+              "residue": 46,
+              "hotspot_score": 6.0
+            },
+            {
+              "residue": 47,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 48,
+              "hotspot_score": 12.0
+            },
+            {
+              "residue": 49,
+              "hotspot_score": 15.0
+            },
+            {
+              "residue": 50,
+              "hotspot_score": 3.0
+            },
+            {
+              "residue": 51,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 52,
+              "hotspot_score": 16.0
+            },
+            {
+              "residue": 71,
+              "hotspot_score": 10.0
+            },
+            {
+              "residue": 72,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 73,
+              "hotspot_score": 14.0
+            },
+            {
+              "residue": 74,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 75,
+              "hotspot_score": 12.0
+            },
+            {
+              "residue": 76,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 77,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 86,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 87,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 88,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 89,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 90,
+              "hotspot_score": 10.0
+            },
+            {
+              "residue": 93,
+              "hotspot_score": 9.0
+            },
+            {
+              "residue": 113,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 114,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 124,
+              "hotspot_score": 18.0
+            },
+            {
+              "residue": 125,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 127,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 128,
+              "hotspot_score": 15.0
+            },
+            {
+              "residue": 129,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 150,
+              "hotspot_score": 11.0
+            },
+            {
+              "residue": 151,
+              "hotspot_score": 18.0
+            },
+            {
+              "residue": 157,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 168,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 171,
+              "hotspot_score": 13.0
+            },
+            {
+              "residue": 172,
+              "hotspot_score": 9.0
+            },
+            {
+              "residue": 173,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 174,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 175,
+              "hotspot_score": 20.0
+            },
+            {
+              "residue": 176,
+              "hotspot_score": 7.0
+            },
+            {
+              "residue": 184,
+              "hotspot_score": 3.0
+            },
+            {
+              "residue": 185,
+              "hotspot_score": 6.0
+            },
+            {
+              "residue": 202,
+              "hotspot_score": 4.0
+            },
+            {
+              "residue": 205,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 297,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 335,
+              "hotspot_score": 5.0
+            },
+            {
+              "residue": 336,
+              "hotspot_score": 1.0
+            },
+            {
+              "residue": 349,
+              "hotspot_score": 8.0
+            },
+            {
+              "residue": 350,
+              "hotspot_score": 2.0
+            },
+            {
+              "residue": 472,
+              "hotspot_score": 1.0
+            }
+          ]
+        }
+      }
+    }
+  }
+}

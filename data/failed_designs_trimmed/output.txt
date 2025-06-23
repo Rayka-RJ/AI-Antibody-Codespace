@@ -1,0 +1,1086 @@
+Sampled trajectories: 1
+Accepted designs: 0
+Starting trajectory: 2q06_trimmed_moderate_l99_s377962
+Stage 1: Test Logits
+1 models [1] recycles 1 hard 0 soft 0.02 temp 1 loss 12.44 helix 2.04 pae 0.90 i_pae 0.92 con 4.93 i_con 5.13 plddt 0.23 ptm 0.74 i_ptm 0.12 rg 8.08
+2 models [4] recycles 1 hard 0 soft 0.04 temp 1 loss 10.80 helix 1.21 pae 0.84 i_pae 0.86 con 4.75 i_con 4.65 plddt 0.27 ptm 0.74 i_ptm 0.17 rg 4.10
+3 models [3] recycles 1 hard 0 soft 0.05 temp 1 loss 12.08 helix 1.26 pae 0.88 i_pae 0.90 con 4.55 i_con 4.89 plddt 0.27 ptm 0.74 i_ptm 0.13 rg 8.18
+4 models [3] recycles 1 hard 0 soft 0.07 temp 1 loss 10.01 helix 0.83 pae 0.82 i_pae 0.86 con 4.32 i_con 5.00 plddt 0.33 ptm 0.72 i_ptm 0.17 rg 1.37
+5 models [3] recycles 1 hard 0 soft 0.09 temp 1 loss 9.98 helix 0.64 pae 0.81 i_pae 0.87 con 4.14 i_con 4.78 plddt 0.36 ptm 0.74 i_ptm 0.17 rg 2.46
+6 models [0] recycles 1 hard 0 soft 0.11 temp 1 loss 10.25 helix 0.57 pae 0.77 i_pae 0.81 con 4.33 i_con 4.54 plddt 0.42 ptm 0.74 i_ptm 0.27 rg 3.57
+7 models [2] recycles 1 hard 0 soft 0.13 temp 1 loss 9.50 helix 0.63 pae 0.79 i_pae 0.83 con 4.17 i_con 4.53 plddt 0.38 ptm 0.74 i_ptm 0.22 rg 1.61
+8 models [4] recycles 1 hard 0 soft 0.14 temp 1 loss 8.97 helix 0.64 pae 0.76 i_pae 0.82 con 3.92 i_con 4.45 plddt 0.40 ptm 0.75 i_ptm 0.23 rg 1.01
+9 models [1] recycles 1 hard 0 soft 0.16 temp 1 loss 9.38 helix 0.72 pae 0.75 i_pae 0.80 con 3.96 i_con 4.41 plddt 0.43 ptm 0.76 i_ptm 0.25 rg 2.49
+10 models [2] recycles 1 hard 0 soft 0.18 temp 1 loss 9.01 helix 0.82 pae 0.79 i_pae 0.85 con 3.84 i_con 4.72 plddt 0.40 ptm 0.72 i_ptm 0.18 rg 0.65
+11 models [1] recycles 1 hard 0 soft 0.20 temp 1 loss 8.44 helix 0.65 pae 0.70 i_pae 0.78 con 3.23 i_con 4.47 plddt 0.51 ptm 0.75 i_ptm 0.26 rg 1.62
+12 models [2] recycles 1 hard 0 soft 0.22 temp 1 loss 8.16 helix 0.65 pae 0.71 i_pae 0.80 con 3.00 i_con 4.50 plddt 0.55 ptm 0.73 i_ptm 0.23 rg 1.37
+13 models [0] recycles 1 hard 0 soft 0.23 temp 1 loss 7.10 helix 0.72 pae 0.47 i_pae 0.52 con 2.64 i_con 3.55 plddt 0.69 ptm 0.80 i_ptm 0.57 rg 2.79
+14 models [4] recycles 1 hard 0 soft 0.25 temp 1 loss 8.08 helix 0.67 pae 0.69 i_pae 0.78 con 2.90 i_con 4.37 plddt 0.56 ptm 0.75 i_ptm 0.26 rg 1.95
+15 models [3] recycles 1 hard 0 soft 0.27 temp 1 loss 6.85 helix 0.71 pae 0.48 i_pae 0.54 con 2.58 i_con 3.46 plddt 0.68 ptm 0.81 i_ptm 0.58 rg 2.41
+16 models [0] recycles 1 hard 0 soft 0.29 temp 1 loss 6.57 helix 0.78 pae 0.40 i_pae 0.44 con 2.58 i_con 3.21 plddt 0.72 ptm 0.83 i_ptm 0.70 rg 2.56
+17 models [0] recycles 1 hard 0 soft 0.31 temp 1 loss 6.13 helix 0.75 pae 0.38 i_pae 0.41 con 2.52 i_con 2.87 plddt 0.72 ptm 0.85 i_ptm 0.76 rg 2.45
+18 models [0] recycles 1 hard 0 soft 0.32 temp 1 loss 5.76 helix 0.69 pae 0.32 i_pae 0.35 con 2.35 i_con 2.69 plddt 0.80 ptm 0.85 i_ptm 0.83 rg 2.47
+19 models [4] recycles 1 hard 0 soft 0.34 temp 1 loss 5.24 helix 0.76 pae 0.29 i_pae 0.33 con 2.01 i_con 2.57 plddt 0.85 ptm 0.86 i_ptm 0.85 rg 2.40
+20 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 5.34 helix 0.69 pae 0.28 i_pae 0.31 con 2.10 i_con 2.49 plddt 0.85 ptm 0.88 i_ptm 0.88 rg 2.60
+21 models [0] recycles 1 hard 0 soft 0.38 temp 1 loss 5.15 helix 0.77 pae 0.28 i_pae 0.32 con 1.91 i_con 2.54 plddt 0.87 ptm 0.86 i_ptm 0.86 rg 2.53
+22 models [4] recycles 1 hard 0 soft 0.40 temp 1 loss 5.30 helix 0.73 pae 0.30 i_pae 0.33 con 2.01 i_con 2.56 plddt 0.85 ptm 0.86 i_ptm 0.86 rg 2.58
+23 models [4] recycles 1 hard 0 soft 0.41 temp 1 loss 5.10 helix 0.77 pae 0.29 i_pae 0.33 con 1.88 i_con 2.52 plddt 0.86 ptm 0.86 i_ptm 0.86 rg 2.54
+24 models [2] recycles 1 hard 0 soft 0.43 temp 1 loss 5.13 helix 0.75 pae 0.31 i_pae 0.35 con 1.92 i_con 2.50 plddt 0.86 ptm 0.83 i_ptm 0.86 rg 2.52
+25 models [2] recycles 1 hard 0 soft 0.45 temp 1 loss 5.23 helix 0.75 pae 0.32 i_pae 0.36 con 1.87 i_con 2.62 plddt 0.86 ptm 0.84 i_ptm 0.83 rg 2.61
+26 models [1] recycles 1 hard 0 soft 0.47 temp 1 loss 4.68 helix 0.80 pae 0.25 i_pae 0.28 con 1.72 i_con 2.32 plddt 0.89 ptm 0.88 i_ptm 0.89 rg 2.44
+27 models [3] recycles 1 hard 0 soft 0.49 temp 1 loss 4.84 helix 0.75 pae 0.26 i_pae 0.30 con 1.80 i_con 2.37 plddt 0.88 ptm 0.88 i_ptm 0.88 rg 2.48
+28 models [0] recycles 1 hard 0 soft 0.50 temp 1 loss 4.53 helix 0.82 pae 0.25 i_pae 0.29 con 1.66 i_con 2.26 plddt 0.90 ptm 0.86 i_ptm 0.90 rg 2.38
+29 models [0] recycles 1 hard 0 soft 0.52 temp 1 loss 4.65 helix 0.88 pae 0.26 i_pae 0.30 con 1.65 i_con 2.41 plddt 0.89 ptm 0.86 i_ptm 0.87 rg 2.33
+30 models [1] recycles 1 hard 0 soft 0.54 temp 1 loss 4.52 helix 0.90 pae 0.25 i_pae 0.28 con 1.66 i_con 2.26 plddt 0.90 ptm 0.87 i_ptm 0.90 rg 2.41
+31 models [1] recycles 1 hard 0 soft 0.56 temp 1 loss 4.66 helix 0.98 pae 0.25 i_pae 0.28 con 1.70 i_con 2.39 plddt 0.90 ptm 0.88 i_ptm 0.87 rg 2.39
+32 models [4] recycles 1 hard 0 soft 0.58 temp 1 loss 4.88 helix 0.86 pae 0.27 i_pae 0.31 con 1.80 i_con 2.50 plddt 0.88 ptm 0.86 i_ptm 0.85 rg 2.23
+33 models [0] recycles 1 hard 0 soft 0.59 temp 1 loss 4.48 helix 0.97 pae 0.25 i_pae 0.28 con 1.70 i_con 2.23 plddt 0.90 ptm 0.87 i_ptm 0.90 rg 2.29
+34 models [3] recycles 1 hard 0 soft 0.61 temp 1 loss 4.91 helix 0.93 pae 0.27 i_pae 0.31 con 1.86 i_con 2.48 plddt 0.88 ptm 0.86 i_ptm 0.86 rg 2.29
+35 models [4] recycles 1 hard 0 soft 0.63 temp 1 loss 4.58 helix 0.92 pae 0.26 i_pae 0.30 con 1.67 i_con 2.31 plddt 0.91 ptm 0.86 i_ptm 0.89 rg 2.43
+36 models [1] recycles 1 hard 0 soft 0.65 temp 1 loss 4.62 helix 0.97 pae 0.24 i_pae 0.27 con 1.75 i_con 2.31 plddt 0.90 ptm 0.88 i_ptm 0.90 rg 2.37
+37 models [4] recycles 1 hard 0 soft 0.67 temp 1 loss 4.63 helix 0.94 pae 0.27 i_pae 0.30 con 1.81 i_con 2.25 plddt 0.89 ptm 0.86 i_ptm 0.90 rg 2.34
+38 models [2] recycles 1 hard 0 soft 0.68 temp 1 loss 5.19 helix 0.97 pae 0.37 i_pae 0.43 con 1.75 i_con 2.87 plddt 0.86 ptm 0.82 i_ptm 0.72 rg 2.13
+39 models [0] recycles 1 hard 0 soft 0.70 temp 1 loss 4.54 helix 0.93 pae 0.25 i_pae 0.29 con 1.69 i_con 2.28 plddt 0.90 ptm 0.87 i_ptm 0.89 rg 2.33
+40 models [3] recycles 1 hard 0 soft 0.72 temp 1 loss 4.46 helix 0.92 pae 0.25 i_pae 0.28 con 1.67 i_con 2.23 plddt 0.91 ptm 0.87 i_ptm 0.89 rg 2.31
+41 models [3] recycles 1 hard 0 soft 0.74 temp 1 loss 4.30 helix 1.00 pae 0.23 i_pae 0.27 con 1.65 i_con 2.14 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.26
+42 models [1] recycles 1 hard 0 soft 0.76 temp 1 loss 4.24 helix 1.13 pae 0.23 i_pae 0.27 con 1.65 i_con 2.13 plddt 0.91 ptm 0.87 i_ptm 0.91 rg 2.20
+43 models [4] recycles 1 hard 0 soft 0.77 temp 1 loss 4.40 helix 1.00 pae 0.26 i_pae 0.30 con 1.62 i_con 2.22 plddt 0.91 ptm 0.85 i_ptm 0.90 rg 2.35
+44 models [3] recycles 1 hard 0 soft 0.79 temp 1 loss 4.49 helix 0.99 pae 0.26 i_pae 0.30 con 1.72 i_con 2.23 plddt 0.91 ptm 0.86 i_ptm 0.90 rg 2.30
+45 models [4] recycles 1 hard 0 soft 0.81 temp 1 loss 4.29 helix 1.05 pae 0.24 i_pae 0.28 con 1.62 i_con 2.13 plddt 0.92 ptm 0.87 i_ptm 0.91 rg 2.39
+46 models [3] recycles 1 hard 0 soft 0.83 temp 1 loss 4.14 helix 1.10 pae 0.23 i_pae 0.26 con 1.58 i_con 2.07 plddt 0.93 ptm 0.88 i_ptm 0.92 rg 2.30
+47 models [1] recycles 1 hard 0 soft 0.85 temp 1 loss 4.21 helix 1.06 pae 0.23 i_pae 0.27 con 1.60 i_con 2.12 plddt 0.92 ptm 0.87 i_ptm 0.91 rg 2.29
+48 models [3] recycles 1 hard 0 soft 0.86 temp 1 loss 4.60 helix 1.06 pae 0.26 i_pae 0.29 con 1.86 i_con 2.24 plddt 0.89 ptm 0.87 i_ptm 0.91 rg 2.24
+49 models [1] recycles 1 hard 0 soft 0.88 temp 1 loss 4.24 helix 1.05 pae 0.23 i_pae 0.27 con 1.60 i_con 2.15 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.25
+50 models [4] recycles 1 hard 0 soft 0.90 temp 1 loss 4.60 helix 1.00 pae 0.27 i_pae 0.31 con 1.74 i_con 2.32 plddt 0.89 ptm 0.86 i_ptm 0.88 rg 2.30
+Initial trajectory pLDDT good, continuing: 0.93
+Stage 1: Additional Logits Optimisation
+51 models [0] recycles 1 hard 0 soft 0.04 temp 1 loss 4.86 helix 1.00 pae 0.28 i_pae 0.32 con 1.91 i_con 2.43 plddt 0.87 ptm 0.86 i_ptm 0.87 rg 2.22
+52 models [3] recycles 1 hard 0 soft 0.08 temp 1 loss 11.18 helix 2.25 pae 0.95 i_pae 0.99 con 4.48 i_con 5.26 plddt 0.18 ptm 0.26 i_ptm 0.08 rg 5.02
+53 models [4] recycles 1 hard 0 soft 0.12 temp 1 loss 8.91 helix 1.61 pae 0.84 i_pae 0.88 con 4.25 i_con 4.88 plddt 0.22 ptm 0.73 i_ptm 0.17 rg -0.97
+54 models [3] recycles 1 hard 0 soft 0.16 temp 1 loss 4.48 helix 1.04 pae 0.25 i_pae 0.28 con 1.79 i_con 2.20 plddt 0.89 ptm 0.88 i_ptm 0.90 rg 2.20
+55 models [3] recycles 1 hard 0 soft 0.20 temp 1 loss 5.37 helix 1.06 pae 0.40 i_pae 0.47 con 1.77 i_con 3.07 plddt 0.83 ptm 0.81 i_ptm 0.66 rg 2.01
+56 models [0] recycles 1 hard 0 soft 0.24 temp 1 loss 3.89 helix 1.28 pae 0.22 i_pae 0.25 con 1.49 i_con 2.02 plddt 0.94 ptm 0.87 i_ptm 0.91 rg 2.17
+57 models [3] recycles 1 hard 0 soft 0.28 temp 1 loss 3.90 helix 1.32 pae 0.21 i_pae 0.25 con 1.50 i_con 2.04 plddt 0.94 ptm 0.88 i_ptm 0.91 rg 2.13
+58 models [1] recycles 1 hard 0 soft 0.32 temp 1 loss 3.95 helix 1.32 pae 0.22 i_pae 0.25 con 1.49 i_con 2.08 plddt 0.93 ptm 0.88 i_ptm 0.91 rg 2.17
+59 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 3.74 helix 1.29 pae 0.21 i_pae 0.25 con 1.46 i_con 1.89 plddt 0.94 ptm 0.88 i_ptm 0.93 rg 2.18
+60 models [4] recycles 1 hard 0 soft 0.40 temp 1 loss 4.04 helix 1.22 pae 0.23 i_pae 0.26 con 1.54 i_con 2.07 plddt 0.93 ptm 0.87 i_ptm 0.91 rg 2.23
+61 models [4] recycles 1 hard 0 soft 0.44 temp 1 loss 3.86 helix 1.32 pae 0.22 i_pae 0.26 con 1.46 i_con 2.01 plddt 0.94 ptm 0.87 i_ptm 0.92 rg 2.21
+62 models [1] recycles 1 hard 0 soft 0.48 temp 1 loss 3.80 helix 1.30 pae 0.21 i_pae 0.24 con 1.46 i_con 1.95 plddt 0.94 ptm 0.89 i_ptm 0.92 rg 2.20
+63 models [3] recycles 1 hard 0 soft 0.52 temp 1 loss 3.73 helix 1.31 pae 0.21 i_pae 0.24 con 1.44 i_con 1.90 plddt 0.95 ptm 0.88 i_ptm 0.93 rg 2.23
+64 models [1] recycles 1 hard 0 soft 0.56 temp 1 loss 3.83 helix 1.32 pae 0.21 i_pae 0.24 con 1.47 i_con 1.98 plddt 0.94 ptm 0.89 i_ptm 0.92 rg 2.20
+65 models [4] recycles 1 hard 0 soft 0.60 temp 1 loss 3.99 helix 1.34 pae 0.22 i_pae 0.26 con 1.51 i_con 2.07 plddt 0.94 ptm 0.87 i_ptm 0.91 rg 2.28
+66 models [3] recycles 1 hard 0 soft 0.64 temp 1 loss 3.72 helix 1.33 pae 0.21 i_pae 0.24 con 1.44 i_con 1.89 plddt 0.95 ptm 0.88 i_ptm 0.93 rg 2.23
+67 models [2] recycles 1 hard 0 soft 0.68 temp 1 loss 4.09 helix 1.21 pae 0.24 i_pae 0.27 con 1.56 i_con 2.07 plddt 0.93 ptm 0.87 i_ptm 0.90 rg 2.32
+68 models [1] recycles 1 hard 0 soft 0.72 temp 1 loss 3.78 helix 1.42 pae 0.21 i_pae 0.24 con 1.48 i_con 1.95 plddt 0.94 ptm 0.88 i_ptm 0.93 rg 2.19
+69 models [4] recycles 1 hard 0 soft 0.76 temp 1 loss 4.00 helix 1.22 pae 0.23 i_pae 0.26 con 1.53 i_con 2.06 plddt 0.93 ptm 0.87 i_ptm 0.91 rg 2.17
+70 models [3] recycles 1 hard 0 soft 0.80 temp 1 loss 3.81 helix 1.36 pae 0.22 i_pae 0.25 con 1.49 i_con 1.96 plddt 0.94 ptm 0.88 i_ptm 0.93 rg 2.17
+71 models [4] recycles 1 hard 0 soft 0.84 temp 1 loss 4.64 helix 1.19 pae 0.25 i_pae 0.29 con 1.84 i_con 2.37 plddt 0.90 ptm 0.87 i_ptm 0.88 rg 2.14
+72 models [1] recycles 1 hard 0 soft 0.88 temp 1 loss 4.29 helix 1.19 pae 0.23 i_pae 0.27 con 1.65 i_con 2.20 plddt 0.91 ptm 0.88 i_ptm 0.90 rg 2.24
+73 models [3] recycles 1 hard 0 soft 0.92 temp 1 loss 4.14 helix 1.32 pae 0.23 i_pae 0.26 con 1.64 i_con 2.10 plddt 0.93 ptm 0.87 i_ptm 0.91 rg 2.19
+74 models [0] recycles 1 hard 0 soft 0.96 temp 1 loss 4.03 helix 1.29 pae 0.23 i_pae 0.26 con 1.55 i_con 2.07 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.25
+75 models [1] recycles 1 hard 0 soft 1 temp 1 loss 4.27 helix 1.29 pae 0.23 i_pae 0.27 con 1.68 i_con 2.19 plddt 0.91 ptm 0.88 i_ptm 0.91 rg 2.19
+Optimised logit trajectory pLDDT: 0.95
+Stage 2: Softmax Optimisation
+76 models [2] recycles 1 hard 0 soft 1 temp 0.96 loss 4.33 helix 1.23 pae 0.27 i_pae 0.31 con 1.68 i_con 2.22 plddt 0.91 ptm 0.84 i_ptm 0.89 rg 2.15
+77 models [3] recycles 1 hard 0 soft 1 temp 0.91 loss 4.20 helix 1.23 pae 0.25 i_pae 0.28 con 1.58 i_con 2.18 plddt 0.92 ptm 0.86 i_ptm 0.90 rg 2.24
+78 models [2] recycles 1 hard 0 soft 1 temp 0.87 loss 4.65 helix 1.08 pae 0.30 i_pae 0.34 con 1.74 i_con 2.39 plddt 0.90 ptm 0.84 i_ptm 0.84 rg 2.24
+79 models [1] recycles 1 hard 0 soft 1 temp 0.83 loss 3.99 helix 1.38 pae 0.23 i_pae 0.26 con 1.54 i_con 2.08 plddt 0.93 ptm 0.88 i_ptm 0.91 rg 2.19
+80 models [4] recycles 1 hard 0 soft 1 temp 0.79 loss 4.37 helix 1.16 pae 0.26 i_pae 0.30 con 1.64 i_con 2.25 plddt 0.90 ptm 0.86 i_ptm 0.89 rg 2.28
+81 models [0] recycles 1 hard 0 soft 1 temp 0.75 loss 4.24 helix 1.31 pae 0.24 i_pae 0.28 con 1.67 i_con 2.15 plddt 0.91 ptm 0.87 i_ptm 0.90 rg 2.22
+82 models [1] recycles 1 hard 0 soft 1 temp 0.72 loss 6.63 helix 1.28 pae 0.65 i_pae 0.79 con 1.67 i_con 4.43 plddt 0.80 ptm 0.75 i_ptm 0.23 rg 1.76
+83 models [0] recycles 1 hard 0 soft 1 temp 0.68 loss 4.47 helix 1.27 pae 0.25 i_pae 0.28 con 1.81 i_con 2.24 plddt 0.89 ptm 0.87 i_ptm 0.89 rg 2.19
+84 models [4] recycles 1 hard 0 soft 1 temp 0.64 loss 6.96 helix 1.11 pae 0.68 i_pae 0.82 con 1.90 i_con 4.45 plddt 0.76 ptm 0.74 i_ptm 0.19 rg 1.75
+85 models [3] recycles 1 hard 0 soft 1 temp 0.61 loss 4.19 helix 1.29 pae 0.23 i_pae 0.26 con 1.64 i_con 2.13 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.26
+86 models [3] recycles 1 hard 0 soft 1 temp 0.58 loss 4.01 helix 1.41 pae 0.22 i_pae 0.25 con 1.58 i_con 2.03 plddt 0.93 ptm 0.89 i_ptm 0.92 rg 2.35
+87 models [3] recycles 1 hard 0 soft 1 temp 0.54 loss 4.05 helix 1.33 pae 0.23 i_pae 0.26 con 1.59 i_con 2.08 plddt 0.93 ptm 0.88 i_ptm 0.92 rg 2.14
+88 models [3] recycles 1 hard 0 soft 1 temp 0.51 loss 4.14 helix 1.32 pae 0.22 i_pae 0.26 con 1.67 i_con 2.07 plddt 0.92 ptm 0.88 i_ptm 0.92 rg 2.23
+89 models [3] recycles 1 hard 0 soft 1 temp 0.48 loss 3.90 helix 1.42 pae 0.22 i_pae 0.25 con 1.54 i_con 1.98 plddt 0.93 ptm 0.88 i_ptm 0.93 rg 2.29
+90 models [4] recycles 1 hard 0 soft 1 temp 0.45 loss 8.86 helix 0.88 pae 0.81 i_pae 0.88 con 3.66 i_con 4.81 plddt 0.39 ptm 0.73 i_ptm 0.16 rg 0.43
+91 models [0] recycles 1 hard 0 soft 1 temp 0.42 loss 8.91 helix 0.83 pae 0.76 i_pae 0.83 con 3.44 i_con 4.67 plddt 0.42 ptm 0.74 i_ptm 0.19 rg 1.84
+92 models [4] recycles 1 hard 0 soft 1 temp 0.39 loss 8.64 helix 0.84 pae 0.77 i_pae 0.86 con 3.24 i_con 4.80 plddt 0.48 ptm 0.75 i_ptm 0.17 rg 1.20
+93 models [4] recycles 1 hard 0 soft 1 temp 0.37 loss 9.09 helix 0.82 pae 0.79 i_pae 0.86 con 3.71 i_con 4.74 plddt 0.40 ptm 0.75 i_ptm 0.18 rg 1.28
+94 models [4] recycles 1 hard 0 soft 1 temp 0.34 loss 8.60 helix 0.85 pae 0.76 i_pae 0.83 con 3.48 i_con 4.53 plddt 0.43 ptm 0.74 i_ptm 0.21 rg 1.19
+95 models [1] recycles 1 hard 0 soft 1 temp 0.32 loss 8.70 helix 0.81 pae 0.75 i_pae 0.81 con 3.68 i_con 4.50 plddt 0.39 ptm 0.75 i_ptm 0.23 rg 0.93
+96 models [2] recycles 1 hard 0 soft 1 temp 0.29 loss 8.56 helix 0.96 pae 0.79 i_pae 0.85 con 3.51 i_con 4.71 plddt 0.41 ptm 0.74 i_ptm 0.18 rg 0.43
+97 models [0] recycles 1 hard 0 soft 1 temp 0.27 loss 8.43 helix 0.84 pae 0.74 i_pae 0.80 con 3.39 i_con 4.52 plddt 0.43 ptm 0.75 i_ptm 0.22 rg 0.99
+98 models [0] recycles 1 hard 0 soft 1 temp 0.25 loss 5.98 helix 0.96 pae 0.34 i_pae 0.37 con 2.55 i_con 2.80 plddt 0.75 ptm 0.86 i_ptm 0.80 rg 2.34
+99 models [2] recycles 1 hard 0 soft 1 temp 0.23 loss 8.87 helix 0.88 pae 0.80 i_pae 0.87 con 3.68 i_con 4.74 plddt 0.40 ptm 0.73 i_ptm 0.17 rg 0.65
+100 models [4] recycles 1 hard 0 soft 1 temp 0.21 loss 8.69 helix 0.86 pae 0.78 i_pae 0.85 con 3.57 i_con 4.61 plddt 0.40 ptm 0.75 i_ptm 0.20 rg 0.90
+101 models [2] recycles 1 hard 0 soft 1 temp 0.19 loss 8.73 helix 0.88 pae 0.81 i_pae 0.88 con 3.56 i_con 4.79 plddt 0.40 ptm 0.72 i_ptm 0.16 rg 0.46
+102 models [1] recycles 1 hard 0 soft 1 temp 0.17 loss 8.53 helix 0.96 pae 0.72 i_pae 0.79 con 3.25 i_con 4.40 plddt 0.46 ptm 0.76 i_ptm 0.24 rg 2.34
+103 models [4] recycles 1 hard 0 soft 1 temp 0.15 loss 8.40 helix 0.89 pae 0.76 i_pae 0.82 con 3.45 i_con 4.46 plddt 0.41 ptm 0.75 i_ptm 0.22 rg 0.90
+104 models [1] recycles 1 hard 0 soft 1 temp 0.14 loss 8.54 helix 0.97 pae 0.74 i_pae 0.80 con 3.30 i_con 4.43 plddt 0.45 ptm 0.76 i_ptm 0.24 rg 2.12
+105 models [2] recycles 1 hard 0 soft 1 temp 0.12 loss 8.59 helix 0.95 pae 0.78 i_pae 0.84 con 3.37 i_con 4.65 plddt 0.44 ptm 0.75 i_ptm 0.19 rg 1.22
+106 models [3] recycles 1 hard 0 soft 1 temp 0.11 loss 7.79 helix 0.88 pae 0.59 i_pae 0.62 con 3.32 i_con 3.76 plddt 0.52 ptm 0.80 i_ptm 0.53 rg 2.02
+107 models [1] recycles 1 hard 0 soft 1 temp 0.09 loss 8.55 helix 0.93 pae 0.73 i_pae 0.80 con 3.25 i_con 4.48 plddt 0.48 ptm 0.76 i_ptm 0.23 rg 2.12
+108 models [4] recycles 1 hard 0 soft 1 temp 0.08 loss 8.46 helix 0.93 pae 0.74 i_pae 0.80 con 3.44 i_con 4.40 plddt 0.43 ptm 0.76 i_ptm 0.25 rg 1.42
+109 models [4] recycles 1 hard 0 soft 1 temp 0.07 loss 8.11 helix 0.95 pae 0.67 i_pae 0.71 con 3.39 i_con 4.07 plddt 0.48 ptm 0.78 i_ptm 0.36 rg 1.73
+110 models [3] recycles 1 hard 0 soft 1 temp 0.06 loss 8.73 helix 1.07 pae 0.72 i_pae 0.75 con 3.81 i_con 4.25 plddt 0.41 ptm 0.78 i_ptm 0.31 rg 1.80
+111 models [4] recycles 1 hard 0 soft 1 temp 0.05 loss 8.47 helix 1.10 pae 0.69 i_pae 0.72 con 3.76 i_con 4.06 plddt 0.42 ptm 0.78 i_ptm 0.44 rg 1.82
+112 models [4] recycles 1 hard 0 soft 1 temp 0.04 loss 8.21 helix 1.04 pae 0.66 i_pae 0.68 con 3.77 i_con 3.93 plddt 0.45 ptm 0.79 i_ptm 0.54 rg 1.40
+113 models [1] recycles 1 hard 0 soft 1 temp 0.03 loss 8.81 helix 1.09 pae 0.69 i_pae 0.72 con 3.82 i_con 4.11 plddt 0.42 ptm 0.78 i_ptm 0.37 rg 2.57
+114 models [2] recycles 1 hard 0 soft 1 temp 0.03 loss 8.43 helix 1.07 pae 0.75 i_pae 0.80 con 3.62 i_con 4.41 plddt 0.42 ptm 0.76 i_ptm 0.24 rg 0.81
+115 models [2] recycles 1 hard 0 soft 1 temp 0.02 loss 8.44 helix 1.06 pae 0.74 i_pae 0.79 con 3.67 i_con 4.39 plddt 0.43 ptm 0.76 i_ptm 0.27 rg 0.73
+116 models [2] recycles 1 hard 0 soft 1 temp 0.02 loss 8.47 helix 1.07 pae 0.79 i_pae 0.85 con 3.69 i_con 4.67 plddt 0.38 ptm 0.75 i_ptm 0.19 rg -0.24
+117 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.61 helix 1.03 pae 0.80 i_pae 0.85 con 3.77 i_con 4.66 plddt 0.39 ptm 0.74 i_ptm 0.19 rg -0.05
+118 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.17 helix 1.06 pae 0.69 i_pae 0.72 con 3.75 i_con 4.11 plddt 0.44 ptm 0.78 i_ptm 0.37 rg 0.63
+119 models [4] recycles 1 hard 0 soft 1 temp 0.01 loss 8.74 helix 1.07 pae 0.69 i_pae 0.73 con 3.71 i_con 4.09 plddt 0.42 ptm 0.77 i_ptm 0.33 rg 2.74
+120 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.45 helix 1.05 pae 0.72 i_pae 0.76 con 3.71 i_con 4.29 plddt 0.43 ptm 0.77 i_ptm 0.29 rg 1.06
+Softmax trajectory pLDDT good, continuing: 0.93
+Stage 3: One-hot Optimisation
+121 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 8.94 helix 1.06 pae 0.71 i_pae 0.74 con 3.69 i_con 4.27 plddt 0.38 ptm 0.76 i_ptm 0.29 rg 2.81
+122 models [3] recycles 1 hard 1 soft 1 temp 0.01 loss 8.45 helix 1.02 pae 0.66 i_pae 0.69 con 3.62 i_con 4.05 plddt 0.42 ptm 0.79 i_ptm 0.44 rg 2.21
+123 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 8.94 helix 1.06 pae 0.71 i_pae 0.74 con 3.69 i_con 4.27 plddt 0.38 ptm 0.76 i_ptm 0.29 rg 2.81
+124 models [2] recycles 1 hard 1 soft 1 temp 0.01 loss 8.79 helix 1.07 pae 0.74 i_pae 0.80 con 3.54 i_con 4.39 plddt 0.38 ptm 0.75 i_ptm 0.25 rg 2.34
+125 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 8.38 helix 1.08 pae 0.67 i_pae 0.69 con 3.71 i_con 3.95 plddt 0.39 ptm 0.78 i_ptm 0.51 rg 2.05
+One-hot trajectory pLDDT too low to continue: 0.39
+Severe clashes detected, skipping analysis and MPNN optimisation
+
+Starting trajectory took: 0 hours, 34 minutes, 53 seconds
+
+Starting trajectory: 2q06_trimmed_moderate_l81_s908541
+Stage 1: Test Logits
+1 models [3] recycles 1 hard 0 soft 0.02 temp 1 loss 16.74 helix 2.14 pae 0.92 i_pae 0.94 con 4.85 i_con 4.90 plddt 0.21 ptm 0.76 i_ptm 0.11 rg 23.50
+2 models [1] recycles 1 hard 0 soft 0.04 temp 1 loss 12.47 helix 1.73 pae 0.78 i_pae 0.80 con 5.02 i_con 4.35 plddt 0.33 ptm 0.79 i_ptm 0.29 rg 10.39
+3 models [1] recycles 1 hard 0 soft 0.05 temp 1 loss 10.97 helix 1.82 pae 0.81 i_pae 0.82 con 4.75 i_con 4.63 plddt 0.25 ptm 0.78 i_ptm 0.21 rg 5.37
+4 models [4] recycles 1 hard 0 soft 0.07 temp 1 loss 10.30 helix 1.56 pae 0.83 i_pae 0.85 con 4.70 i_con 4.60 plddt 0.23 ptm 0.78 i_ptm 0.19 rg 3.12
+5 models [4] recycles 1 hard 0 soft 0.09 temp 1 loss 9.14 helix 0.95 pae 0.81 i_pae 0.84 con 4.43 i_con 4.61 plddt 0.29 ptm 0.76 i_ptm 0.19 rg -0.46
+6 models [1] recycles 1 hard 0 soft 0.11 temp 1 loss 10.56 helix 1.07 pae 0.79 i_pae 0.81 con 4.54 i_con 4.40 plddt 0.32 ptm 0.77 i_ptm 0.21 rg 4.77
+7 models [2] recycles 1 hard 0 soft 0.13 temp 1 loss 9.11 helix 0.87 pae 0.79 i_pae 0.84 con 3.96 i_con 4.95 plddt 0.36 ptm 0.74 i_ptm 0.19 rg -0.15
+8 models [0] recycles 1 hard 0 soft 0.14 temp 1 loss 9.90 helix 0.92 pae 0.81 i_pae 0.85 con 3.95 i_con 4.68 plddt 0.33 ptm 0.74 i_ptm 0.16 rg 3.45
+9 models [4] recycles 1 hard 0 soft 0.16 temp 1 loss 9.14 helix 0.81 pae 0.80 i_pae 0.86 con 3.79 i_con 4.77 plddt 0.37 ptm 0.73 i_ptm 0.16 rg 1.02
+10 models [1] recycles 1 hard 0 soft 0.18 temp 1 loss 8.64 helix 0.81 pae 0.73 i_pae 0.80 con 3.28 i_con 4.88 plddt 0.46 ptm 0.77 i_ptm 0.23 rg 0.87
+11 models [3] recycles 1 hard 0 soft 0.20 temp 1 loss 8.60 helix 0.77 pae 0.76 i_pae 0.85 con 3.10 i_con 4.84 plddt 0.47 ptm 0.76 i_ptm 0.17 rg 1.37
+12 models [4] recycles 1 hard 0 soft 0.22 temp 1 loss 8.53 helix 0.75 pae 0.71 i_pae 0.80 con 2.83 i_con 4.93 plddt 0.57 ptm 0.76 i_ptm 0.22 rg 1.81
+13 models [1] recycles 1 hard 0 soft 0.23 temp 1 loss 8.32 helix 0.77 pae 0.74 i_pae 0.84 con 2.85 i_con 4.95 plddt 0.51 ptm 0.76 i_ptm 0.18 rg 0.93
+14 models [3] recycles 1 hard 0 soft 0.25 temp 1 loss 7.98 helix 0.80 pae 0.73 i_pae 0.82 con 2.73 i_con 4.78 plddt 0.53 ptm 0.77 i_ptm 0.21 rg 0.85
+15 models [1] recycles 1 hard 0 soft 0.27 temp 1 loss 8.05 helix 0.92 pae 0.74 i_pae 0.80 con 3.33 i_con 4.68 plddt 0.40 ptm 0.78 i_ptm 0.22 rg -0.51
+16 models [1] recycles 1 hard 0 soft 0.29 temp 1 loss 7.91 helix 0.90 pae 0.70 i_pae 0.76 con 2.84 i_con 4.66 plddt 0.48 ptm 0.79 i_ptm 0.27 rg 0.79
+17 models [3] recycles 1 hard 0 soft 0.31 temp 1 loss 7.51 helix 1.01 pae 0.71 i_pae 0.76 con 2.87 i_con 4.60 plddt 0.46 ptm 0.78 i_ptm 0.26 rg -0.36
+18 models [2] recycles 1 hard 0 soft 0.32 temp 1 loss 7.67 helix 0.94 pae 0.71 i_pae 0.77 con 2.92 i_con 4.68 plddt 0.49 ptm 0.76 i_ptm 0.24 rg -0.33
+19 models [4] recycles 1 hard 0 soft 0.34 temp 1 loss 7.46 helix 1.00 pae 0.72 i_pae 0.78 con 2.79 i_con 4.65 plddt 0.47 ptm 0.77 i_ptm 0.24 rg -0.47
+20 models [2] recycles 1 hard 0 soft 0.36 temp 1 loss 7.20 helix 1.12 pae 0.68 i_pae 0.74 con 2.80 i_con 4.50 plddt 0.50 ptm 0.76 i_ptm 0.27 rg -0.67
+21 models [3] recycles 1 hard 0 soft 0.38 temp 1 loss 7.33 helix 1.11 pae 0.69 i_pae 0.74 con 3.00 i_con 4.45 plddt 0.44 ptm 0.79 i_ptm 0.29 rg -0.80
+22 models [1] recycles 1 hard 0 soft 0.40 temp 1 loss 7.56 helix 1.02 pae 0.68 i_pae 0.74 con 2.75 i_con 4.58 plddt 0.52 ptm 0.78 i_ptm 0.27 rg 0.36
+23 models [3] recycles 1 hard 0 soft 0.41 temp 1 loss 7.07 helix 1.09 pae 0.65 i_pae 0.71 con 2.68 i_con 4.40 plddt 0.54 ptm 0.79 i_ptm 0.31 rg -0.32
+24 models [3] recycles 1 hard 0 soft 0.43 temp 1 loss 7.33 helix 1.07 pae 0.67 i_pae 0.73 con 2.69 i_con 4.52 plddt 0.52 ptm 0.79 i_ptm 0.28 rg 0.09
+25 models [4] recycles 1 hard 0 soft 0.45 temp 1 loss 6.99 helix 1.00 pae 0.62 i_pae 0.68 con 2.63 i_con 4.35 plddt 0.56 ptm 0.79 i_ptm 0.36 rg -0.27
+26 models [0] recycles 1 hard 0 soft 0.47 temp 1 loss 6.91 helix 0.92 pae 0.58 i_pae 0.63 con 2.79 i_con 4.11 plddt 0.53 ptm 0.79 i_ptm 0.39 rg -0.29
+27 models [2] recycles 1 hard 0 soft 0.49 temp 1 loss 6.87 helix 1.04 pae 0.58 i_pae 0.64 con 2.78 i_con 4.11 plddt 0.59 ptm 0.80 i_ptm 0.40 rg -0.24
+28 models [3] recycles 1 hard 0 soft 0.50 temp 1 loss 6.68 helix 0.99 pae 0.57 i_pae 0.62 con 2.60 i_con 4.05 plddt 0.59 ptm 0.82 i_ptm 0.42 rg -0.13
+29 models [0] recycles 1 hard 0 soft 0.52 temp 1 loss 6.83 helix 0.97 pae 0.58 i_pae 0.64 con 2.61 i_con 4.12 plddt 0.59 ptm 0.79 i_ptm 0.39 rg 0.06
+30 models [1] recycles 1 hard 0 soft 0.54 temp 1 loss 6.61 helix 1.05 pae 0.53 i_pae 0.58 con 2.56 i_con 3.92 plddt 0.62 ptm 0.81 i_ptm 0.44 rg 0.37
+31 models [3] recycles 1 hard 0 soft 0.56 temp 1 loss 6.42 helix 1.11 pae 0.51 i_pae 0.56 con 2.59 i_con 3.81 plddt 0.62 ptm 0.83 i_ptm 0.47 rg 0.11
+32 models [2] recycles 1 hard 0 soft 0.58 temp 1 loss 6.41 helix 1.06 pae 0.52 i_pae 0.56 con 2.63 i_con 3.77 plddt 0.63 ptm 0.82 i_ptm 0.48 rg -0.03
+33 models [2] recycles 1 hard 0 soft 0.59 temp 1 loss 6.25 helix 1.07 pae 0.52 i_pae 0.56 con 2.56 i_con 3.70 plddt 0.63 ptm 0.82 i_ptm 0.49 rg -0.06
+34 models [3] recycles 1 hard 0 soft 0.61 temp 1 loss 6.09 helix 1.02 pae 0.50 i_pae 0.54 con 2.52 i_con 3.60 plddt 0.61 ptm 0.82 i_ptm 0.52 rg -0.15
+35 models [4] recycles 1 hard 0 soft 0.63 temp 1 loss 7.31 helix 0.98 pae 0.68 i_pae 0.74 con 2.80 i_con 4.53 plddt 0.50 ptm 0.78 i_ptm 0.29 rg -0.51
+36 models [2] recycles 1 hard 0 soft 0.65 temp 1 loss 6.43 helix 1.15 pae 0.56 i_pae 0.61 con 2.58 i_con 3.90 plddt 0.61 ptm 0.79 i_ptm 0.43 rg -0.20
+37 models [2] recycles 1 hard 0 soft 0.67 temp 1 loss 6.21 helix 1.03 pae 0.47 i_pae 0.50 con 2.76 i_con 3.51 plddt 0.62 ptm 0.83 i_ptm 0.57 rg -0.13
+38 models [1] recycles 1 hard 0 soft 0.68 temp 1 loss 5.68 helix 1.02 pae 0.39 i_pae 0.42 con 2.60 i_con 3.19 plddt 0.65 ptm 0.86 i_ptm 0.68 rg -0.16
+39 models [0] recycles 1 hard 0 soft 0.70 temp 1 loss 5.95 helix 1.05 pae 0.41 i_pae 0.43 con 2.72 i_con 3.32 plddt 0.62 ptm 0.84 i_ptm 0.65 rg -0.12
+40 models [0] recycles 1 hard 0 soft 0.72 temp 1 loss 6.19 helix 1.01 pae 0.44 i_pae 0.46 con 2.85 i_con 3.41 plddt 0.59 ptm 0.84 i_ptm 0.62 rg -0.16
+41 models [0] recycles 1 hard 0 soft 0.74 temp 1 loss 8.41 helix 0.97 pae 0.72 i_pae 0.76 con 3.81 i_con 4.54 plddt 0.36 ptm 0.77 i_ptm 0.25 rg -0.37
+42 models [3] recycles 1 hard 0 soft 0.76 temp 1 loss 5.90 helix 1.03 pae 0.42 i_pae 0.44 con 2.67 i_con 3.28 plddt 0.62 ptm 0.86 i_ptm 0.65 rg -0.03
+43 models [3] recycles 1 hard 0 soft 0.77 temp 1 loss 5.65 helix 1.00 pae 0.39 i_pae 0.43 con 2.39 i_con 3.31 plddt 0.69 ptm 0.86 i_ptm 0.64 rg 0.01
+44 models [2] recycles 1 hard 0 soft 0.79 temp 1 loss 5.65 helix 1.06 pae 0.41 i_pae 0.44 con 2.48 i_con 3.23 plddt 0.68 ptm 0.84 i_ptm 0.66 rg 0.01
+45 models [1] recycles 1 hard 0 soft 0.81 temp 1 loss 7.13 helix 1.02 pae 0.63 i_pae 0.69 con 2.77 i_con 4.37 plddt 0.52 ptm 0.80 i_ptm 0.33 rg -0.33
+46 models [3] recycles 1 hard 0 soft 0.83 temp 1 loss 5.56 helix 1.07 pae 0.38 i_pae 0.41 con 2.47 i_con 3.14 plddt 0.68 ptm 0.86 i_ptm 0.69 rg 0.11
+47 models [1] recycles 1 hard 0 soft 0.85 temp 1 loss 6.80 helix 1.02 pae 0.54 i_pae 0.60 con 2.81 i_con 3.95 plddt 0.56 ptm 0.82 i_ptm 0.45 rg -0.02
+48 models [2] recycles 1 hard 0 soft 0.86 temp 1 loss 6.72 helix 0.96 pae 0.58 i_pae 0.64 con 2.68 i_con 4.06 plddt 0.61 ptm 0.80 i_ptm 0.39 rg -0.32
+49 models [2] recycles 1 hard 0 soft 0.88 temp 1 loss 5.64 helix 0.97 pae 0.42 i_pae 0.45 con 2.40 i_con 3.23 plddt 0.70 ptm 0.83 i_ptm 0.65 rg 0.16
+50 models [2] recycles 1 hard 0 soft 0.90 temp 1 loss 6.81 helix 1.05 pae 0.60 i_pae 0.67 con 2.67 i_con 4.18 plddt 0.59 ptm 0.79 i_ptm 0.36 rg -0.37
+Initial trajectory pLDDT good, continuing: 0.68
+Stage 1: Additional Logits Optimisation
+51 models [4] recycles 1 hard 0 soft 0.04 temp 1 loss 6.29 helix 1.09 pae 0.55 i_pae 0.62 con 2.22 i_con 4.12 plddt 0.66 ptm 0.80 i_ptm 0.40 rg -0.20
+52 models [0] recycles 1 hard 0 soft 0.08 temp 1 loss 5.35 helix 1.17 pae 0.36 i_pae 0.39 con 2.29 i_con 3.17 plddt 0.69 ptm 0.85 i_ptm 0.68 rg 0.02
+53 models [3] recycles 1 hard 0 soft 0.12 temp 1 loss 6.59 helix 1.10 pae 0.62 i_pae 0.69 con 2.38 i_con 4.33 plddt 0.58 ptm 0.80 i_ptm 0.32 rg -0.58
+54 models [1] recycles 1 hard 0 soft 0.16 temp 1 loss 5.24 helix 1.19 pae 0.34 i_pae 0.37 con 2.33 i_con 3.03 plddt 0.70 ptm 0.87 i_ptm 0.72 rg 0.06
+55 models [0] recycles 1 hard 0 soft 0.20 temp 1 loss 4.96 helix 1.24 pae 0.33 i_pae 0.35 con 2.23 i_con 2.91 plddt 0.71 ptm 0.86 i_ptm 0.75 rg -0.04
+56 models [1] recycles 1 hard 0 soft 0.24 temp 1 loss 4.96 helix 1.32 pae 0.33 i_pae 0.35 con 2.17 i_con 2.99 plddt 0.71 ptm 0.87 i_ptm 0.75 rg -0.07
+57 models [3] recycles 1 hard 0 soft 0.28 temp 1 loss 4.64 helix 1.28 pae 0.30 i_pae 0.31 con 2.20 i_con 2.65 plddt 0.74 ptm 0.89 i_ptm 0.80 rg 0.00
+58 models [1] recycles 1 hard 0 soft 0.32 temp 1 loss 4.56 helix 1.23 pae 0.29 i_pae 0.30 con 2.12 i_con 2.61 plddt 0.75 ptm 0.89 i_ptm 0.81 rg 0.03
+59 models [0] recycles 1 hard 0 soft 0.36 temp 1 loss 4.77 helix 1.21 pae 0.30 i_pae 0.32 con 2.26 i_con 2.69 plddt 0.72 ptm 0.87 i_ptm 0.79 rg -0.03
+60 models [0] recycles 1 hard 0 soft 0.40 temp 1 loss 5.13 helix 1.29 pae 0.34 i_pae 0.37 con 2.27 i_con 3.05 plddt 0.70 ptm 0.85 i_ptm 0.72 rg -0.07
+61 models [0] recycles 1 hard 0 soft 0.44 temp 1 loss 5.03 helix 1.33 pae 0.31 i_pae 0.33 con 2.42 i_con 2.83 plddt 0.71 ptm 0.87 i_ptm 0.78 rg -0.05
+62 models [2] recycles 1 hard 0 soft 0.48 temp 1 loss 4.52 helix 1.37 pae 0.28 i_pae 0.30 con 2.18 i_con 2.58 plddt 0.76 ptm 0.89 i_ptm 0.82 rg -0.00
+63 models [2] recycles 1 hard 0 soft 0.52 temp 1 loss 5.71 helix 1.38 pae 0.43 i_pae 0.48 con 2.22 i_con 3.69 plddt 0.71 ptm 0.83 i_ptm 0.55 rg -0.17
+64 models [4] recycles 1 hard 0 soft 0.56 temp 1 loss 4.29 helix 1.41 pae 0.28 i_pae 0.29 con 2.05 i_con 2.53 plddt 0.77 ptm 0.88 i_ptm 0.82 rg -0.11
+65 models [3] recycles 1 hard 0 soft 0.60 temp 1 loss 4.36 helix 1.50 pae 0.27 i_pae 0.29 con 2.09 i_con 2.57 plddt 0.76 ptm 0.90 i_ptm 0.82 rg -0.07
+66 models [4] recycles 1 hard 0 soft 0.64 temp 1 loss 4.54 helix 1.43 pae 0.29 i_pae 0.31 con 2.11 i_con 2.72 plddt 0.75 ptm 0.88 i_ptm 0.81 rg -0.14
+67 models [3] recycles 1 hard 0 soft 0.68 temp 1 loss 4.58 helix 1.24 pae 0.29 i_pae 0.31 con 2.10 i_con 2.60 plddt 0.75 ptm 0.89 i_ptm 0.80 rg 0.19
+68 models [4] recycles 1 hard 0 soft 0.72 temp 1 loss 6.49 helix 1.12 pae 0.48 i_pae 0.50 con 2.98 i_con 3.61 plddt 0.56 ptm 0.84 i_ptm 0.56 rg -0.23
+69 models [3] recycles 1 hard 0 soft 0.76 temp 1 loss 4.07 helix 1.56 pae 0.25 i_pae 0.27 con 1.95 i_con 2.43 plddt 0.79 ptm 0.90 i_ptm 0.85 rg 0.01
+70 models [4] recycles 1 hard 0 soft 0.80 temp 1 loss 7.65 helix 1.06 pae 0.68 i_pae 0.72 con 3.28 i_con 4.44 plddt 0.40 ptm 0.79 i_ptm 0.30 rg -0.64
+71 models [0] recycles 1 hard 0 soft 0.84 temp 1 loss 8.17 helix 0.98 pae 0.70 i_pae 0.74 con 3.60 i_con 4.60 plddt 0.39 ptm 0.78 i_ptm 0.28 rg -0.64
+72 models [1] recycles 1 hard 0 soft 0.88 temp 1 loss 8.84 helix 1.28 pae 0.73 i_pae 0.75 con 4.17 i_con 4.50 plddt 0.33 ptm 0.79 i_ptm 0.28 rg 0.28
+73 models [0] recycles 1 hard 0 soft 0.92 temp 1 loss 8.83 helix 1.09 pae 0.77 i_pae 0.81 con 3.77 i_con 4.52 plddt 0.37 ptm 0.76 i_ptm 0.21 rg 1.26
+74 models [2] recycles 1 hard 0 soft 0.96 temp 1 loss 8.47 helix 1.16 pae 0.74 i_pae 0.77 con 3.95 i_con 4.55 plddt 0.34 ptm 0.77 i_ptm 0.26 rg -0.53
+75 models [0] recycles 1 hard 0 soft 1 temp 1 loss 8.59 helix 1.08 pae 0.74 i_pae 0.78 con 3.91 i_con 4.72 plddt 0.35 ptm 0.76 i_ptm 0.24 rg -0.64
+Optimised logit trajectory pLDDT: 0.79
+Stage 2: Softmax Optimisation
+76 models [0] recycles 1 hard 0 soft 1 temp 0.96 loss 6.69 helix 1.09 pae 0.55 i_pae 0.60 con 2.84 i_con 3.90 plddt 0.55 ptm 0.80 i_ptm 0.45 rg -0.28
+77 models [1] recycles 1 hard 0 soft 1 temp 0.91 loss 8.66 helix 1.28 pae 0.75 i_pae 0.77 con 4.13 i_con 4.57 plddt 0.31 ptm 0.78 i_ptm 0.26 rg -0.47
+78 models [0] recycles 1 hard 0 soft 1 temp 0.87 loss 8.36 helix 1.15 pae 0.75 i_pae 0.80 con 3.67 i_con 4.74 plddt 0.36 ptm 0.75 i_ptm 0.22 rg -0.61
+79 models [1] recycles 1 hard 0 soft 1 temp 0.83 loss 6.87 helix 1.15 pae 0.60 i_pae 0.65 con 2.69 i_con 4.24 plddt 0.55 ptm 0.80 i_ptm 0.37 rg -0.33
+80 models [3] recycles 1 hard 0 soft 1 temp 0.79 loss 6.67 helix 1.13 pae 0.48 i_pae 0.51 con 3.07 i_con 3.62 plddt 0.56 ptm 0.85 i_ptm 0.57 rg 0.04
+81 models [4] recycles 1 hard 0 soft 1 temp 0.75 loss 6.17 helix 1.18 pae 0.49 i_pae 0.53 con 2.62 i_con 3.68 plddt 0.61 ptm 0.82 i_ptm 0.51 rg -0.29
+82 models [0] recycles 1 hard 0 soft 1 temp 0.72 loss 6.77 helix 1.17 pae 0.60 i_pae 0.67 con 2.58 i_con 4.29 plddt 0.56 ptm 0.79 i_ptm 0.34 rg -0.48
+83 models [1] recycles 1 hard 0 soft 1 temp 0.68 loss 5.58 helix 1.13 pae 0.40 i_pae 0.43 con 2.46 i_con 3.24 plddt 0.66 ptm 0.85 i_ptm 0.66 rg -0.12
+84 models [3] recycles 1 hard 0 soft 1 temp 0.64 loss 5.33 helix 1.26 pae 0.37 i_pae 0.39 con 2.35 i_con 3.14 plddt 0.70 ptm 0.87 i_ptm 0.70 rg -0.01
+85 models [2] recycles 1 hard 0 soft 1 temp 0.61 loss 5.58 helix 1.21 pae 0.42 i_pae 0.45 con 2.41 i_con 3.27 plddt 0.68 ptm 0.84 i_ptm 0.62 rg -0.02
+86 models [3] recycles 1 hard 0 soft 1 temp 0.58 loss 4.97 helix 1.36 pae 0.32 i_pae 0.34 con 2.21 i_con 2.95 plddt 0.74 ptm 0.87 i_ptm 0.75 rg 0.09
+87 models [3] recycles 1 hard 0 soft 1 temp 0.54 loss 5.60 helix 1.27 pae 0.39 i_pae 0.41 con 2.43 i_con 3.21 plddt 0.68 ptm 0.86 i_ptm 0.67 rg 0.31
+88 models [3] recycles 1 hard 0 soft 1 temp 0.51 loss 5.03 helix 1.35 pae 0.32 i_pae 0.34 con 2.24 i_con 3.03 plddt 0.73 ptm 0.88 i_ptm 0.74 rg -0.10
+89 models [4] recycles 1 hard 0 soft 1 temp 0.48 loss 5.39 helix 1.28 pae 0.37 i_pae 0.40 con 2.40 i_con 3.14 plddt 0.68 ptm 0.86 i_ptm 0.69 rg -0.01
+90 models [3] recycles 1 hard 0 soft 1 temp 0.45 loss 5.08 helix 1.35 pae 0.34 i_pae 0.37 con 2.29 i_con 3.00 plddt 0.71 ptm 0.87 i_ptm 0.73 rg -0.06
+91 models [2] recycles 1 hard 0 soft 1 temp 0.42 loss 5.82 helix 1.28 pae 0.38 i_pae 0.41 con 2.79 i_con 3.15 plddt 0.66 ptm 0.85 i_ptm 0.70 rg 0.07
+92 models [4] recycles 1 hard 0 soft 1 temp 0.39 loss 5.18 helix 1.41 pae 0.37 i_pae 0.40 con 2.24 i_con 3.17 plddt 0.71 ptm 0.85 i_ptm 0.68 rg -0.14
+93 models [2] recycles 1 hard 0 soft 1 temp 0.37 loss 5.23 helix 1.32 pae 0.35 i_pae 0.37 con 2.41 i_con 2.98 plddt 0.70 ptm 0.87 i_ptm 0.74 rg 0.05
+94 models [4] recycles 1 hard 0 soft 1 temp 0.34 loss 5.04 helix 1.40 pae 0.35 i_pae 0.38 con 2.23 i_con 3.06 plddt 0.72 ptm 0.86 i_ptm 0.71 rg -0.17
+95 models [4] recycles 1 hard 0 soft 1 temp 0.32 loss 4.91 helix 1.41 pae 0.32 i_pae 0.34 con 2.23 i_con 2.92 plddt 0.73 ptm 0.87 i_ptm 0.76 rg -0.06
+96 models [3] recycles 1 hard 0 soft 1 temp 0.29 loss 5.18 helix 1.36 pae 0.34 i_pae 0.36 con 2.32 i_con 2.99 plddt 0.72 ptm 0.88 i_ptm 0.74 rg 0.20
+97 models [0] recycles 1 hard 0 soft 1 temp 0.27 loss 6.73 helix 1.32 pae 0.65 i_pae 0.73 con 2.41 i_con 4.44 plddt 0.57 ptm 0.77 i_ptm 0.26 rg -0.47
+98 models [1] recycles 1 hard 0 soft 1 temp 0.25 loss 6.78 helix 1.38 pae 0.65 i_pae 0.74 con 2.40 i_con 4.56 plddt 0.59 ptm 0.79 i_ptm 0.28 rg -0.59
+99 models [2] recycles 1 hard 0 soft 1 temp 0.23 loss 7.25 helix 1.33 pae 0.68 i_pae 0.73 con 2.91 i_con 4.51 plddt 0.50 ptm 0.78 i_ptm 0.29 rg -0.68
+100 models [0] recycles 1 hard 0 soft 1 temp 0.21 loss 6.03 helix 1.30 pae 0.50 i_pae 0.54 con 2.58 i_con 3.60 plddt 0.60 ptm 0.82 i_ptm 0.51 rg -0.29
+101 models [4] recycles 1 hard 0 soft 1 temp 0.19 loss 6.90 helix 1.26 pae 0.64 i_pae 0.71 con 2.63 i_con 4.39 plddt 0.55 ptm 0.79 i_ptm 0.30 rg -0.52
+102 models [1] recycles 1 hard 0 soft 1 temp 0.17 loss 5.49 helix 1.33 pae 0.37 i_pae 0.39 con 2.41 i_con 3.14 plddt 0.68 ptm 0.87 i_ptm 0.69 rg 0.37
+103 models [0] recycles 1 hard 0 soft 1 temp 0.15 loss 5.57 helix 1.31 pae 0.37 i_pae 0.40 con 2.47 i_con 3.25 plddt 0.67 ptm 0.86 i_ptm 0.68 rg 0.04
+104 models [3] recycles 1 hard 0 soft 1 temp 0.14 loss 4.92 helix 1.43 pae 0.32 i_pae 0.34 con 2.19 i_con 2.96 plddt 0.73 ptm 0.88 i_ptm 0.75 rg -0.04
+105 models [3] recycles 1 hard 0 soft 1 temp 0.12 loss 4.65 helix 1.41 pae 0.29 i_pae 0.30 con 2.16 i_con 2.72 plddt 0.75 ptm 0.89 i_ptm 0.81 rg 0.03
+106 models [1] recycles 1 hard 0 soft 1 temp 0.11 loss 7.36 helix 1.28 pae 0.67 i_pae 0.73 con 3.01 i_con 4.46 plddt 0.47 ptm 0.79 i_ptm 0.29 rg -0.51
+107 models [4] recycles 1 hard 0 soft 1 temp 0.09 loss 7.01 helix 1.20 pae 0.63 i_pae 0.68 con 2.77 i_con 4.35 plddt 0.54 ptm 0.80 i_ptm 0.33 rg -0.52
+108 models [0] recycles 1 hard 0 soft 1 temp 0.08 loss 8.22 helix 1.18 pae 0.74 i_pae 0.79 con 3.58 i_con 4.62 plddt 0.38 ptm 0.77 i_ptm 0.23 rg -0.32
+109 models [2] recycles 1 hard 0 soft 1 temp 0.07 loss 7.11 helix 1.29 pae 0.65 i_pae 0.71 con 2.85 i_con 4.43 plddt 0.54 ptm 0.78 i_ptm 0.29 rg -0.65
+110 models [2] recycles 1 hard 0 soft 1 temp 0.06 loss 7.07 helix 1.30 pae 0.66 i_pae 0.71 con 2.77 i_con 4.46 plddt 0.54 ptm 0.78 i_ptm 0.30 rg -0.59
+111 models [1] recycles 1 hard 0 soft 1 temp 0.05 loss 6.82 helix 1.19 pae 0.59 i_pae 0.64 con 2.67 i_con 4.15 plddt 0.56 ptm 0.81 i_ptm 0.38 rg -0.05
+112 models [3] recycles 1 hard 0 soft 1 temp 0.04 loss 5.29 helix 1.38 pae 0.36 i_pae 0.38 con 2.33 i_con 3.15 plddt 0.71 ptm 0.87 i_ptm 0.69 rg -0.00
+113 models [1] recycles 1 hard 0 soft 1 temp 0.03 loss 5.05 helix 1.35 pae 0.32 i_pae 0.34 con 2.29 i_con 2.91 plddt 0.71 ptm 0.88 i_ptm 0.77 rg 0.16
+114 models [0] recycles 1 hard 0 soft 1 temp 0.03 loss 8.74 helix 1.25 pae 0.79 i_pae 0.84 con 3.82 i_con 4.71 plddt 0.32 ptm 0.76 i_ptm 0.17 rg 0.26
+115 models [4] recycles 1 hard 0 soft 1 temp 0.02 loss 7.02 helix 1.22 pae 0.64 i_pae 0.69 con 2.85 i_con 4.30 plddt 0.50 ptm 0.79 i_ptm 0.32 rg -0.57
+116 models [2] recycles 1 hard 0 soft 1 temp 0.02 loss 7.00 helix 1.21 pae 0.65 i_pae 0.70 con 2.74 i_con 4.38 plddt 0.55 ptm 0.78 i_ptm 0.30 rg -0.56
+117 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.15 helix 1.23 pae 0.71 i_pae 0.74 con 3.75 i_con 4.47 plddt 0.37 ptm 0.78 i_ptm 0.27 rg -0.55
+118 models [1] recycles 1 hard 0 soft 1 temp 0.01 loss 5.57 helix 1.30 pae 0.41 i_pae 0.44 con 2.37 i_con 3.35 plddt 0.66 ptm 0.85 i_ptm 0.64 rg -0.04
+119 models [0] recycles 1 hard 0 soft 1 temp 0.01 loss 7.23 helix 1.22 pae 0.68 i_pae 0.76 con 2.63 i_con 4.66 plddt 0.53 ptm 0.77 i_ptm 0.24 rg -0.43
+120 models [3] recycles 1 hard 0 soft 1 temp 0.01 loss 5.62 helix 1.27 pae 0.42 i_pae 0.45 con 2.47 i_con 3.31 plddt 0.66 ptm 0.86 i_ptm 0.64 rg -0.15
+Softmax trajectory pLDDT good, continuing: 0.75
+Stage 3: One-hot Optimisation
+121 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 5.60 helix 1.41 pae 0.40 i_pae 0.43 con 2.45 i_con 3.27 plddt 0.62 ptm 0.86 i_ptm 0.66 rg 0.15
+122 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 5.60 helix 1.41 pae 0.40 i_pae 0.43 con 2.45 i_con 3.27 plddt 0.62 ptm 0.86 i_ptm 0.66 rg 0.15
+123 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 5.61 helix 1.25 pae 0.39 i_pae 0.41 con 2.47 i_con 3.24 plddt 0.62 ptm 0.85 i_ptm 0.67 rg 0.08
+124 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 6.97 helix 1.21 pae 0.63 i_pae 0.68 con 2.70 i_con 4.28 plddt 0.50 ptm 0.79 i_ptm 0.33 rg -0.19
+125 models [2] recycles 1 hard 1 soft 1 temp 0.01 loss 5.50 helix 1.26 pae 0.39 i_pae 0.41 con 2.51 i_con 3.07 plddt 0.64 ptm 0.86 i_ptm 0.70 rg 0.18
+One-hot trajectory pLDDT too low to continue: 0.64
+Trajectory starting confidence low, skipping analysis and MPNN optimisation
+
+Starting trajectory took: 0 hours, 32 minutes, 4 seconds
+
+Starting trajectory: 2q06_trimmed_moderate_l99_s377962
+Stage 1: Test Logits
+1 models [1] recycles 1 hard 0 soft 0.02 temp 1 loss 12.44 helix 2.04 pae 0.90 i_pae 0.92 con 4.93 i_con 5.13 plddt 0.23 ptm 0.74 i_ptm 0.12 rg 8.08
+2 models [4] recycles 1 hard 0 soft 0.04 temp 1 loss 10.80 helix 1.21 pae 0.84 i_pae 0.86 con 4.75 i_con 4.65 plddt 0.27 ptm 0.74 i_ptm 0.17 rg 4.10
+3 models [3] recycles 1 hard 0 soft 0.05 temp 1 loss 12.08 helix 1.26 pae 0.88 i_pae 0.90 con 4.55 i_con 4.89 plddt 0.27 ptm 0.74 i_ptm 0.13 rg 8.18
+4 models [3] recycles 1 hard 0 soft 0.07 temp 1 loss 10.01 helix 0.83 pae 0.82 i_pae 0.86 con 4.32 i_con 5.00 plddt 0.33 ptm 0.72 i_ptm 0.17 rg 1.37
+5 models [3] recycles 1 hard 0 soft 0.09 temp 1 loss 9.98 helix 0.64 pae 0.81 i_pae 0.87 con 4.14 i_con 4.78 plddt 0.36 ptm 0.74 i_ptm 0.17 rg 2.46
+6 models [0] recycles 1 hard 0 soft 0.11 temp 1 loss 10.25 helix 0.57 pae 0.77 i_pae 0.81 con 4.33 i_con 4.54 plddt 0.42 ptm 0.74 i_ptm 0.27 rg 3.57
+7 models [2] recycles 1 hard 0 soft 0.13 temp 1 loss 9.50 helix 0.63 pae 0.79 i_pae 0.83 con 4.17 i_con 4.53 plddt 0.38 ptm 0.74 i_ptm 0.22 rg 1.61
+8 models [4] recycles 1 hard 0 soft 0.14 temp 1 loss 8.97 helix 0.64 pae 0.76 i_pae 0.82 con 3.92 i_con 4.45 plddt 0.40 ptm 0.75 i_ptm 0.23 rg 1.01
+9 models [1] recycles 1 hard 0 soft 0.16 temp 1 loss 9.38 helix 0.72 pae 0.75 i_pae 0.80 con 3.96 i_con 4.41 plddt 0.43 ptm 0.76 i_ptm 0.25 rg 2.49
+10 models [2] recycles 1 hard 0 soft 0.18 temp 1 loss 9.01 helix 0.82 pae 0.79 i_pae 0.85 con 3.84 i_con 4.72 plddt 0.40 ptm 0.72 i_ptm 0.18 rg 0.65
+11 models [1] recycles 1 hard 0 soft 0.20 temp 1 loss 8.44 helix 0.65 pae 0.70 i_pae 0.78 con 3.23 i_con 4.47 plddt 0.51 ptm 0.75 i_ptm 0.26 rg 1.62
+12 models [2] recycles 1 hard 0 soft 0.22 temp 1 loss 8.16 helix 0.65 pae 0.71 i_pae 0.80 con 3.00 i_con 4.50 plddt 0.55 ptm 0.73 i_ptm 0.23 rg 1.37
+13 models [0] recycles 1 hard 0 soft 0.23 temp 1 loss 7.10 helix 0.72 pae 0.47 i_pae 0.52 con 2.64 i_con 3.55 plddt 0.69 ptm 0.80 i_ptm 0.57 rg 2.79
+14 models [4] recycles 1 hard 0 soft 0.25 temp 1 loss 8.08 helix 0.67 pae 0.69 i_pae 0.78 con 2.90 i_con 4.37 plddt 0.56 ptm 0.75 i_ptm 0.26 rg 1.95
+15 models [3] recycles 1 hard 0 soft 0.27 temp 1 loss 6.85 helix 0.71 pae 0.48 i_pae 0.54 con 2.58 i_con 3.46 plddt 0.68 ptm 0.81 i_ptm 0.58 rg 2.41
+16 models [0] recycles 1 hard 0 soft 0.29 temp 1 loss 6.57 helix 0.78 pae 0.40 i_pae 0.44 con 2.58 i_con 3.21 plddt 0.72 ptm 0.83 i_ptm 0.70 rg 2.56
+17 models [0] recycles 1 hard 0 soft 0.31 temp 1 loss 6.13 helix 0.75 pae 0.38 i_pae 0.41 con 2.52 i_con 2.87 plddt 0.72 ptm 0.85 i_ptm 0.76 rg 2.45
+18 models [0] recycles 1 hard 0 soft 0.32 temp 1 loss 5.76 helix 0.69 pae 0.32 i_pae 0.35 con 2.35 i_con 2.69 plddt 0.80 ptm 0.85 i_ptm 0.83 rg 2.47
+19 models [4] recycles 1 hard 0 soft 0.34 temp 1 loss 5.24 helix 0.76 pae 0.29 i_pae 0.33 con 2.01 i_con 2.57 plddt 0.85 ptm 0.86 i_ptm 0.85 rg 2.40
+20 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 5.34 helix 0.69 pae 0.28 i_pae 0.31 con 2.10 i_con 2.49 plddt 0.85 ptm 0.88 i_ptm 0.88 rg 2.60
+21 models [0] recycles 1 hard 0 soft 0.38 temp 1 loss 5.15 helix 0.77 pae 0.28 i_pae 0.32 con 1.91 i_con 2.54 plddt 0.87 ptm 0.86 i_ptm 0.86 rg 2.53
+22 models [4] recycles 1 hard 0 soft 0.40 temp 1 loss 5.30 helix 0.73 pae 0.30 i_pae 0.33 con 2.01 i_con 2.56 plddt 0.85 ptm 0.86 i_ptm 0.86 rg 2.58
+23 models [4] recycles 1 hard 0 soft 0.41 temp 1 loss 5.10 helix 0.77 pae 0.29 i_pae 0.33 con 1.88 i_con 2.52 plddt 0.86 ptm 0.86 i_ptm 0.86 rg 2.54
+24 models [2] recycles 1 hard 0 soft 0.43 temp 1 loss 5.13 helix 0.75 pae 0.31 i_pae 0.35 con 1.92 i_con 2.50 plddt 0.86 ptm 0.83 i_ptm 0.86 rg 2.52
+25 models [2] recycles 1 hard 0 soft 0.45 temp 1 loss 5.23 helix 0.75 pae 0.32 i_pae 0.36 con 1.87 i_con 2.62 plddt 0.86 ptm 0.84 i_ptm 0.83 rg 2.61
+26 models [1] recycles 1 hard 0 soft 0.47 temp 1 loss 4.68 helix 0.80 pae 0.25 i_pae 0.28 con 1.72 i_con 2.32 plddt 0.89 ptm 0.88 i_ptm 0.89 rg 2.44
+27 models [3] recycles 1 hard 0 soft 0.49 temp 1 loss 4.84 helix 0.75 pae 0.26 i_pae 0.30 con 1.80 i_con 2.37 plddt 0.88 ptm 0.88 i_ptm 0.88 rg 2.48
+28 models [0] recycles 1 hard 0 soft 0.50 temp 1 loss 4.53 helix 0.82 pae 0.25 i_pae 0.29 con 1.66 i_con 2.26 plddt 0.90 ptm 0.86 i_ptm 0.90 rg 2.38
+29 models [0] recycles 1 hard 0 soft 0.52 temp 1 loss 4.65 helix 0.88 pae 0.26 i_pae 0.30 con 1.65 i_con 2.41 plddt 0.89 ptm 0.86 i_ptm 0.87 rg 2.33
+30 models [1] recycles 1 hard 0 soft 0.54 temp 1 loss 4.52 helix 0.90 pae 0.25 i_pae 0.28 con 1.66 i_con 2.26 plddt 0.90 ptm 0.87 i_ptm 0.90 rg 2.41
+31 models [1] recycles 1 hard 0 soft 0.56 temp 1 loss 4.66 helix 0.98 pae 0.25 i_pae 0.28 con 1.70 i_con 2.39 plddt 0.90 ptm 0.88 i_ptm 0.87 rg 2.39
+32 models [4] recycles 1 hard 0 soft 0.58 temp 1 loss 4.88 helix 0.86 pae 0.27 i_pae 0.31 con 1.80 i_con 2.50 plddt 0.88 ptm 0.86 i_ptm 0.85 rg 2.23
+33 models [0] recycles 1 hard 0 soft 0.59 temp 1 loss 4.48 helix 0.97 pae 0.25 i_pae 0.28 con 1.70 i_con 2.23 plddt 0.90 ptm 0.87 i_ptm 0.90 rg 2.29
+34 models [3] recycles 1 hard 0 soft 0.61 temp 1 loss 4.91 helix 0.93 pae 0.27 i_pae 0.31 con 1.86 i_con 2.48 plddt 0.88 ptm 0.86 i_ptm 0.86 rg 2.29
+35 models [4] recycles 1 hard 0 soft 0.63 temp 1 loss 4.58 helix 0.92 pae 0.26 i_pae 0.30 con 1.67 i_con 2.31 plddt 0.91 ptm 0.86 i_ptm 0.89 rg 2.43
+36 models [1] recycles 1 hard 0 soft 0.65 temp 1 loss 4.62 helix 0.97 pae 0.24 i_pae 0.27 con 1.75 i_con 2.31 plddt 0.90 ptm 0.88 i_ptm 0.90 rg 2.37
+37 models [4] recycles 1 hard 0 soft 0.67 temp 1 loss 4.63 helix 0.94 pae 0.27 i_pae 0.30 con 1.81 i_con 2.25 plddt 0.89 ptm 0.86 i_ptm 0.90 rg 2.34
+38 models [2] recycles 1 hard 0 soft 0.68 temp 1 loss 5.19 helix 0.97 pae 0.37 i_pae 0.43 con 1.75 i_con 2.87 plddt 0.86 ptm 0.82 i_ptm 0.72 rg 2.13
+39 models [0] recycles 1 hard 0 soft 0.70 temp 1 loss 4.54 helix 0.93 pae 0.25 i_pae 0.29 con 1.69 i_con 2.28 plddt 0.90 ptm 0.87 i_ptm 0.89 rg 2.33
+40 models [3] recycles 1 hard 0 soft 0.72 temp 1 loss 4.46 helix 0.92 pae 0.25 i_pae 0.28 con 1.67 i_con 2.23 plddt 0.91 ptm 0.87 i_ptm 0.89 rg 2.31
+41 models [3] recycles 1 hard 0 soft 0.74 temp 1 loss 4.30 helix 1.00 pae 0.23 i_pae 0.27 con 1.65 i_con 2.14 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.26
+42 models [1] recycles 1 hard 0 soft 0.76 temp 1 loss 4.24 helix 1.13 pae 0.23 i_pae 0.27 con 1.65 i_con 2.13 plddt 0.91 ptm 0.87 i_ptm 0.91 rg 2.20
+43 models [4] recycles 1 hard 0 soft 0.77 temp 1 loss 4.40 helix 1.00 pae 0.26 i_pae 0.30 con 1.62 i_con 2.22 plddt 0.91 ptm 0.85 i_ptm 0.90 rg 2.35
+44 models [3] recycles 1 hard 0 soft 0.79 temp 1 loss 4.49 helix 0.99 pae 0.26 i_pae 0.30 con 1.72 i_con 2.23 plddt 0.91 ptm 0.86 i_ptm 0.90 rg 2.30
+45 models [4] recycles 1 hard 0 soft 0.81 temp 1 loss 4.29 helix 1.05 pae 0.24 i_pae 0.28 con 1.62 i_con 2.13 plddt 0.92 ptm 0.87 i_ptm 0.91 rg 2.39
+46 models [3] recycles 1 hard 0 soft 0.83 temp 1 loss 4.14 helix 1.10 pae 0.23 i_pae 0.26 con 1.58 i_con 2.07 plddt 0.93 ptm 0.88 i_ptm 0.92 rg 2.30
+47 models [1] recycles 1 hard 0 soft 0.85 temp 1 loss 4.21 helix 1.06 pae 0.23 i_pae 0.27 con 1.60 i_con 2.12 plddt 0.92 ptm 0.87 i_ptm 0.91 rg 2.29
+48 models [3] recycles 1 hard 0 soft 0.86 temp 1 loss 4.60 helix 1.06 pae 0.26 i_pae 0.29 con 1.86 i_con 2.24 plddt 0.89 ptm 0.87 i_ptm 0.91 rg 2.24
+49 models [1] recycles 1 hard 0 soft 0.88 temp 1 loss 4.24 helix 1.05 pae 0.23 i_pae 0.27 con 1.60 i_con 2.15 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.25
+50 models [4] recycles 1 hard 0 soft 0.90 temp 1 loss 4.60 helix 1.00 pae 0.27 i_pae 0.31 con 1.74 i_con 2.32 plddt 0.89 ptm 0.86 i_ptm 0.88 rg 2.30
+Initial trajectory pLDDT good, continuing: 0.93
+Stage 1: Additional Logits Optimisation
+51 models [0] recycles 1 hard 0 soft 0.04 temp 1 loss 4.86 helix 1.00 pae 0.28 i_pae 0.32 con 1.91 i_con 2.43 plddt 0.87 ptm 0.86 i_ptm 0.87 rg 2.22
+52 models [3] recycles 1 hard 0 soft 0.08 temp 1 loss 11.18 helix 2.25 pae 0.95 i_pae 0.99 con 4.48 i_con 5.26 plddt 0.18 ptm 0.26 i_ptm 0.08 rg 5.02
+53 models [4] recycles 1 hard 0 soft 0.12 temp 1 loss 8.91 helix 1.61 pae 0.84 i_pae 0.88 con 4.25 i_con 4.88 plddt 0.22 ptm 0.73 i_ptm 0.17 rg -0.97
+54 models [3] recycles 1 hard 0 soft 0.16 temp 1 loss 4.48 helix 1.04 pae 0.25 i_pae 0.28 con 1.79 i_con 2.20 plddt 0.89 ptm 0.88 i_ptm 0.90 rg 2.20
+55 models [3] recycles 1 hard 0 soft 0.20 temp 1 loss 5.37 helix 1.06 pae 0.40 i_pae 0.47 con 1.77 i_con 3.07 plddt 0.83 ptm 0.81 i_ptm 0.66 rg 2.01
+56 models [0] recycles 1 hard 0 soft 0.24 temp 1 loss 3.89 helix 1.28 pae 0.22 i_pae 0.25 con 1.49 i_con 2.02 plddt 0.94 ptm 0.87 i_ptm 0.91 rg 2.17
+57 models [3] recycles 1 hard 0 soft 0.28 temp 1 loss 3.90 helix 1.32 pae 0.21 i_pae 0.25 con 1.50 i_con 2.04 plddt 0.94 ptm 0.88 i_ptm 0.91 rg 2.13
+58 models [1] recycles 1 hard 0 soft 0.32 temp 1 loss 3.95 helix 1.32 pae 0.22 i_pae 0.25 con 1.49 i_con 2.08 plddt 0.93 ptm 0.88 i_ptm 0.91 rg 2.17
+59 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 3.74 helix 1.29 pae 0.21 i_pae 0.25 con 1.46 i_con 1.89 plddt 0.94 ptm 0.88 i_ptm 0.93 rg 2.18
+60 models [4] recycles 1 hard 0 soft 0.40 temp 1 loss 4.04 helix 1.22 pae 0.23 i_pae 0.26 con 1.54 i_con 2.07 plddt 0.93 ptm 0.87 i_ptm 0.91 rg 2.23
+61 models [4] recycles 1 hard 0 soft 0.44 temp 1 loss 3.86 helix 1.32 pae 0.22 i_pae 0.26 con 1.46 i_con 2.01 plddt 0.94 ptm 0.87 i_ptm 0.92 rg 2.21
+62 models [1] recycles 1 hard 0 soft 0.48 temp 1 loss 3.80 helix 1.30 pae 0.21 i_pae 0.24 con 1.46 i_con 1.95 plddt 0.94 ptm 0.89 i_ptm 0.92 rg 2.20
+63 models [3] recycles 1 hard 0 soft 0.52 temp 1 loss 3.73 helix 1.31 pae 0.21 i_pae 0.24 con 1.44 i_con 1.90 plddt 0.95 ptm 0.88 i_ptm 0.93 rg 2.23
+64 models [1] recycles 1 hard 0 soft 0.56 temp 1 loss 3.83 helix 1.32 pae 0.21 i_pae 0.24 con 1.47 i_con 1.98 plddt 0.94 ptm 0.89 i_ptm 0.92 rg 2.20
+65 models [4] recycles 1 hard 0 soft 0.60 temp 1 loss 3.99 helix 1.34 pae 0.22 i_pae 0.26 con 1.51 i_con 2.07 plddt 0.94 ptm 0.87 i_ptm 0.91 rg 2.28
+66 models [3] recycles 1 hard 0 soft 0.64 temp 1 loss 3.72 helix 1.33 pae 0.21 i_pae 0.24 con 1.44 i_con 1.89 plddt 0.95 ptm 0.88 i_ptm 0.93 rg 2.23
+67 models [2] recycles 1 hard 0 soft 0.68 temp 1 loss 4.09 helix 1.21 pae 0.24 i_pae 0.27 con 1.56 i_con 2.07 plddt 0.93 ptm 0.87 i_ptm 0.90 rg 2.32
+68 models [1] recycles 1 hard 0 soft 0.72 temp 1 loss 3.78 helix 1.42 pae 0.21 i_pae 0.24 con 1.48 i_con 1.95 plddt 0.94 ptm 0.88 i_ptm 0.93 rg 2.19
+69 models [4] recycles 1 hard 0 soft 0.76 temp 1 loss 4.00 helix 1.22 pae 0.23 i_pae 0.26 con 1.53 i_con 2.06 plddt 0.93 ptm 0.87 i_ptm 0.91 rg 2.17
+70 models [3] recycles 1 hard 0 soft 0.80 temp 1 loss 3.81 helix 1.36 pae 0.22 i_pae 0.25 con 1.49 i_con 1.96 plddt 0.94 ptm 0.88 i_ptm 0.93 rg 2.17
+71 models [4] recycles 1 hard 0 soft 0.84 temp 1 loss 4.64 helix 1.19 pae 0.25 i_pae 0.29 con 1.84 i_con 2.37 plddt 0.90 ptm 0.87 i_ptm 0.88 rg 2.14
+72 models [1] recycles 1 hard 0 soft 0.88 temp 1 loss 4.29 helix 1.19 pae 0.23 i_pae 0.27 con 1.65 i_con 2.20 plddt 0.91 ptm 0.88 i_ptm 0.90 rg 2.24
+73 models [3] recycles 1 hard 0 soft 0.92 temp 1 loss 4.14 helix 1.32 pae 0.23 i_pae 0.26 con 1.64 i_con 2.10 plddt 0.93 ptm 0.87 i_ptm 0.91 rg 2.19
+74 models [0] recycles 1 hard 0 soft 0.96 temp 1 loss 4.03 helix 1.29 pae 0.23 i_pae 0.26 con 1.55 i_con 2.07 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.25
+75 models [1] recycles 1 hard 0 soft 1 temp 1 loss 4.27 helix 1.29 pae 0.23 i_pae 0.27 con 1.68 i_con 2.19 plddt 0.91 ptm 0.88 i_ptm 0.91 rg 2.19
+Optimised logit trajectory pLDDT: 0.95
+Stage 2: Softmax Optimisation
+76 models [2] recycles 1 hard 0 soft 1 temp 0.96 loss 4.33 helix 1.23 pae 0.27 i_pae 0.31 con 1.68 i_con 2.22 plddt 0.91 ptm 0.84 i_ptm 0.89 rg 2.15
+77 models [3] recycles 1 hard 0 soft 1 temp 0.91 loss 4.20 helix 1.23 pae 0.25 i_pae 0.28 con 1.58 i_con 2.18 plddt 0.92 ptm 0.86 i_ptm 0.90 rg 2.24
+78 models [2] recycles 1 hard 0 soft 1 temp 0.87 loss 4.65 helix 1.08 pae 0.30 i_pae 0.34 con 1.74 i_con 2.39 plddt 0.90 ptm 0.84 i_ptm 0.84 rg 2.24
+79 models [1] recycles 1 hard 0 soft 1 temp 0.83 loss 3.99 helix 1.38 pae 0.23 i_pae 0.26 con 1.54 i_con 2.08 plddt 0.93 ptm 0.88 i_ptm 0.91 rg 2.19
+80 models [4] recycles 1 hard 0 soft 1 temp 0.79 loss 4.37 helix 1.16 pae 0.26 i_pae 0.30 con 1.64 i_con 2.25 plddt 0.90 ptm 0.86 i_ptm 0.89 rg 2.28
+81 models [0] recycles 1 hard 0 soft 1 temp 0.75 loss 4.24 helix 1.31 pae 0.24 i_pae 0.28 con 1.67 i_con 2.15 plddt 0.91 ptm 0.87 i_ptm 0.90 rg 2.22
+82 models [1] recycles 1 hard 0 soft 1 temp 0.72 loss 6.63 helix 1.28 pae 0.65 i_pae 0.79 con 1.67 i_con 4.43 plddt 0.80 ptm 0.75 i_ptm 0.23 rg 1.76
+83 models [0] recycles 1 hard 0 soft 1 temp 0.68 loss 4.47 helix 1.27 pae 0.25 i_pae 0.28 con 1.81 i_con 2.24 plddt 0.89 ptm 0.87 i_ptm 0.89 rg 2.19
+84 models [4] recycles 1 hard 0 soft 1 temp 0.64 loss 6.96 helix 1.11 pae 0.68 i_pae 0.82 con 1.90 i_con 4.45 plddt 0.76 ptm 0.74 i_ptm 0.19 rg 1.75
+85 models [3] recycles 1 hard 0 soft 1 temp 0.61 loss 4.19 helix 1.29 pae 0.23 i_pae 0.26 con 1.64 i_con 2.13 plddt 0.92 ptm 0.88 i_ptm 0.91 rg 2.26
+86 models [3] recycles 1 hard 0 soft 1 temp 0.58 loss 4.01 helix 1.41 pae 0.22 i_pae 0.25 con 1.58 i_con 2.03 plddt 0.93 ptm 0.89 i_ptm 0.92 rg 2.35
+87 models [3] recycles 1 hard 0 soft 1 temp 0.54 loss 4.05 helix 1.33 pae 0.23 i_pae 0.26 con 1.59 i_con 2.08 plddt 0.93 ptm 0.88 i_ptm 0.92 rg 2.14
+88 models [3] recycles 1 hard 0 soft 1 temp 0.51 loss 4.14 helix 1.32 pae 0.22 i_pae 0.26 con 1.67 i_con 2.07 plddt 0.92 ptm 0.88 i_ptm 0.92 rg 2.23
+89 models [3] recycles 1 hard 0 soft 1 temp 0.48 loss 3.90 helix 1.42 pae 0.22 i_pae 0.25 con 1.54 i_con 1.98 plddt 0.93 ptm 0.88 i_ptm 0.93 rg 2.29
+90 models [4] recycles 1 hard 0 soft 1 temp 0.45 loss 8.86 helix 0.88 pae 0.81 i_pae 0.88 con 3.66 i_con 4.81 plddt 0.39 ptm 0.73 i_ptm 0.16 rg 0.43
+91 models [0] recycles 1 hard 0 soft 1 temp 0.42 loss 8.91 helix 0.83 pae 0.76 i_pae 0.83 con 3.44 i_con 4.67 plddt 0.42 ptm 0.74 i_ptm 0.19 rg 1.84
+92 models [4] recycles 1 hard 0 soft 1 temp 0.39 loss 8.64 helix 0.84 pae 0.77 i_pae 0.86 con 3.24 i_con 4.80 plddt 0.48 ptm 0.75 i_ptm 0.17 rg 1.20
+93 models [4] recycles 1 hard 0 soft 1 temp 0.37 loss 9.09 helix 0.82 pae 0.79 i_pae 0.86 con 3.71 i_con 4.74 plddt 0.40 ptm 0.75 i_ptm 0.18 rg 1.28
+94 models [4] recycles 1 hard 0 soft 1 temp 0.34 loss 8.60 helix 0.85 pae 0.76 i_pae 0.83 con 3.48 i_con 4.53 plddt 0.43 ptm 0.74 i_ptm 0.21 rg 1.19
+95 models [1] recycles 1 hard 0 soft 1 temp 0.32 loss 8.70 helix 0.81 pae 0.75 i_pae 0.81 con 3.68 i_con 4.50 plddt 0.39 ptm 0.75 i_ptm 0.23 rg 0.93
+96 models [2] recycles 1 hard 0 soft 1 temp 0.29 loss 8.56 helix 0.96 pae 0.79 i_pae 0.85 con 3.51 i_con 4.71 plddt 0.41 ptm 0.74 i_ptm 0.18 rg 0.43
+97 models [0] recycles 1 hard 0 soft 1 temp 0.27 loss 8.43 helix 0.84 pae 0.74 i_pae 0.80 con 3.39 i_con 4.52 plddt 0.43 ptm 0.75 i_ptm 0.22 rg 0.99
+98 models [0] recycles 1 hard 0 soft 1 temp 0.25 loss 5.98 helix 0.96 pae 0.34 i_pae 0.37 con 2.55 i_con 2.80 plddt 0.75 ptm 0.86 i_ptm 0.80 rg 2.34
+99 models [2] recycles 1 hard 0 soft 1 temp 0.23 loss 8.87 helix 0.88 pae 0.80 i_pae 0.87 con 3.68 i_con 4.74 plddt 0.40 ptm 0.73 i_ptm 0.17 rg 0.65
+100 models [4] recycles 1 hard 0 soft 1 temp 0.21 loss 8.69 helix 0.86 pae 0.78 i_pae 0.85 con 3.57 i_con 4.61 plddt 0.40 ptm 0.75 i_ptm 0.20 rg 0.90
+101 models [2] recycles 1 hard 0 soft 1 temp 0.19 loss 8.73 helix 0.88 pae 0.81 i_pae 0.88 con 3.56 i_con 4.79 plddt 0.40 ptm 0.72 i_ptm 0.16 rg 0.46
+102 models [1] recycles 1 hard 0 soft 1 temp 0.17 loss 8.53 helix 0.96 pae 0.72 i_pae 0.79 con 3.25 i_con 4.40 plddt 0.46 ptm 0.76 i_ptm 0.24 rg 2.34
+103 models [4] recycles 1 hard 0 soft 1 temp 0.15 loss 8.40 helix 0.89 pae 0.76 i_pae 0.82 con 3.45 i_con 4.46 plddt 0.41 ptm 0.75 i_ptm 0.22 rg 0.90
+104 models [1] recycles 1 hard 0 soft 1 temp 0.14 loss 8.54 helix 0.97 pae 0.74 i_pae 0.80 con 3.30 i_con 4.43 plddt 0.45 ptm 0.76 i_ptm 0.24 rg 2.12
+105 models [2] recycles 1 hard 0 soft 1 temp 0.12 loss 8.59 helix 0.95 pae 0.78 i_pae 0.84 con 3.37 i_con 4.65 plddt 0.44 ptm 0.75 i_ptm 0.19 rg 1.22
+106 models [3] recycles 1 hard 0 soft 1 temp 0.11 loss 7.79 helix 0.88 pae 0.59 i_pae 0.62 con 3.32 i_con 3.76 plddt 0.52 ptm 0.80 i_ptm 0.53 rg 2.02
+107 models [1] recycles 1 hard 0 soft 1 temp 0.09 loss 8.55 helix 0.93 pae 0.73 i_pae 0.80 con 3.25 i_con 4.48 plddt 0.48 ptm 0.76 i_ptm 0.23 rg 2.12
+108 models [4] recycles 1 hard 0 soft 1 temp 0.08 loss 8.46 helix 0.93 pae 0.74 i_pae 0.80 con 3.44 i_con 4.40 plddt 0.43 ptm 0.76 i_ptm 0.25 rg 1.42
+109 models [4] recycles 1 hard 0 soft 1 temp 0.07 loss 8.11 helix 0.95 pae 0.67 i_pae 0.71 con 3.39 i_con 4.07 plddt 0.48 ptm 0.78 i_ptm 0.36 rg 1.73
+110 models [3] recycles 1 hard 0 soft 1 temp 0.06 loss 8.73 helix 1.07 pae 0.72 i_pae 0.75 con 3.81 i_con 4.25 plddt 0.41 ptm 0.78 i_ptm 0.31 rg 1.80
+111 models [4] recycles 1 hard 0 soft 1 temp 0.05 loss 8.47 helix 1.10 pae 0.69 i_pae 0.72 con 3.76 i_con 4.06 plddt 0.42 ptm 0.78 i_ptm 0.44 rg 1.82
+112 models [4] recycles 1 hard 0 soft 1 temp 0.04 loss 8.21 helix 1.04 pae 0.66 i_pae 0.68 con 3.77 i_con 3.93 plddt 0.45 ptm 0.79 i_ptm 0.54 rg 1.40
+113 models [1] recycles 1 hard 0 soft 1 temp 0.03 loss 8.81 helix 1.09 pae 0.69 i_pae 0.72 con 3.82 i_con 4.11 plddt 0.42 ptm 0.78 i_ptm 0.37 rg 2.57
+114 models [2] recycles 1 hard 0 soft 1 temp 0.03 loss 8.43 helix 1.07 pae 0.75 i_pae 0.80 con 3.62 i_con 4.41 plddt 0.42 ptm 0.76 i_ptm 0.24 rg 0.81
+115 models [2] recycles 1 hard 0 soft 1 temp 0.02 loss 8.44 helix 1.06 pae 0.74 i_pae 0.79 con 3.67 i_con 4.39 plddt 0.43 ptm 0.76 i_ptm 0.27 rg 0.73
+116 models [2] recycles 1 hard 0 soft 1 temp 0.02 loss 8.47 helix 1.07 pae 0.79 i_pae 0.85 con 3.69 i_con 4.67 plddt 0.38 ptm 0.75 i_ptm 0.19 rg -0.24
+117 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.61 helix 1.03 pae 0.80 i_pae 0.85 con 3.77 i_con 4.66 plddt 0.39 ptm 0.74 i_ptm 0.19 rg -0.05
+118 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.17 helix 1.06 pae 0.69 i_pae 0.72 con 3.75 i_con 4.11 plddt 0.44 ptm 0.78 i_ptm 0.37 rg 0.63
+119 models [4] recycles 1 hard 0 soft 1 temp 0.01 loss 8.74 helix 1.07 pae 0.69 i_pae 0.73 con 3.71 i_con 4.09 plddt 0.42 ptm 0.77 i_ptm 0.33 rg 2.74
+120 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.45 helix 1.05 pae 0.72 i_pae 0.76 con 3.71 i_con 4.29 plddt 0.43 ptm 0.77 i_ptm 0.29 rg 1.06
+Softmax trajectory pLDDT good, continuing: 0.93
+Stage 3: One-hot Optimisation
+121 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 8.94 helix 1.06 pae 0.71 i_pae 0.74 con 3.69 i_con 4.27 plddt 0.38 ptm 0.76 i_ptm 0.29 rg 2.81
+122 models [3] recycles 1 hard 1 soft 1 temp 0.01 loss 8.45 helix 1.02 pae 0.66 i_pae 0.69 con 3.62 i_con 4.05 plddt 0.42 ptm 0.79 i_ptm 0.44 rg 2.21
+123 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 8.94 helix 1.06 pae 0.71 i_pae 0.74 con 3.69 i_con 4.27 plddt 0.38 ptm 0.76 i_ptm 0.29 rg 2.81
+124 models [2] recycles 1 hard 1 soft 1 temp 0.01 loss 8.79 helix 1.07 pae 0.74 i_pae 0.80 con 3.54 i_con 4.39 plddt 0.38 ptm 0.75 i_ptm 0.25 rg 2.34
+125 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 8.38 helix 1.08 pae 0.67 i_pae 0.69 con 3.71 i_con 3.95 plddt 0.39 ptm 0.78 i_ptm 0.51 rg 2.05
+One-hot trajectory pLDDT too low to continue: 0.39
+Severe clashes detected, skipping analysis and MPNN optimisation
+
+Starting trajectory took: 0 hours, 34 minutes, 53 seconds
+
+Starting trajectory: 2q06_trimmed_moderate_l81_s908541
+Stage 1: Test Logits
+1 models [3] recycles 1 hard 0 soft 0.02 temp 1 loss 16.74 helix 2.14 pae 0.92 i_pae 0.94 con 4.85 i_con 4.90 plddt 0.21 ptm 0.76 i_ptm 0.11 rg 23.50
+2 models [1] recycles 1 hard 0 soft 0.04 temp 1 loss 12.47 helix 1.73 pae 0.78 i_pae 0.80 con 5.02 i_con 4.35 plddt 0.33 ptm 0.79 i_ptm 0.29 rg 10.39
+3 models [1] recycles 1 hard 0 soft 0.05 temp 1 loss 10.97 helix 1.82 pae 0.81 i_pae 0.82 con 4.75 i_con 4.63 plddt 0.25 ptm 0.78 i_ptm 0.21 rg 5.37
+4 models [4] recycles 1 hard 0 soft 0.07 temp 1 loss 10.30 helix 1.56 pae 0.83 i_pae 0.85 con 4.70 i_con 4.60 plddt 0.23 ptm 0.78 i_ptm 0.19 rg 3.12
+5 models [4] recycles 1 hard 0 soft 0.09 temp 1 loss 9.14 helix 0.95 pae 0.81 i_pae 0.84 con 4.43 i_con 4.61 plddt 0.29 ptm 0.76 i_ptm 0.19 rg -0.46
+6 models [1] recycles 1 hard 0 soft 0.11 temp 1 loss 10.56 helix 1.07 pae 0.79 i_pae 0.81 con 4.54 i_con 4.40 plddt 0.32 ptm 0.77 i_ptm 0.21 rg 4.77
+7 models [2] recycles 1 hard 0 soft 0.13 temp 1 loss 9.11 helix 0.87 pae 0.79 i_pae 0.84 con 3.96 i_con 4.95 plddt 0.36 ptm 0.74 i_ptm 0.19 rg -0.15
+8 models [0] recycles 1 hard 0 soft 0.14 temp 1 loss 9.90 helix 0.92 pae 0.81 i_pae 0.85 con 3.95 i_con 4.68 plddt 0.33 ptm 0.74 i_ptm 0.16 rg 3.45
+9 models [4] recycles 1 hard 0 soft 0.16 temp 1 loss 9.14 helix 0.81 pae 0.80 i_pae 0.86 con 3.79 i_con 4.77 plddt 0.37 ptm 0.73 i_ptm 0.16 rg 1.02
+10 models [1] recycles 1 hard 0 soft 0.18 temp 1 loss 8.64 helix 0.81 pae 0.73 i_pae 0.80 con 3.28 i_con 4.88 plddt 0.46 ptm 0.77 i_ptm 0.23 rg 0.87
+11 models [3] recycles 1 hard 0 soft 0.20 temp 1 loss 8.60 helix 0.77 pae 0.76 i_pae 0.85 con 3.10 i_con 4.84 plddt 0.47 ptm 0.76 i_ptm 0.17 rg 1.37
+12 models [4] recycles 1 hard 0 soft 0.22 temp 1 loss 8.53 helix 0.75 pae 0.71 i_pae 0.80 con 2.83 i_con 4.93 plddt 0.57 ptm 0.76 i_ptm 0.22 rg 1.81
+13 models [1] recycles 1 hard 0 soft 0.23 temp 1 loss 8.32 helix 0.77 pae 0.74 i_pae 0.84 con 2.85 i_con 4.95 plddt 0.51 ptm 0.76 i_ptm 0.18 rg 0.93
+14 models [3] recycles 1 hard 0 soft 0.25 temp 1 loss 7.98 helix 0.80 pae 0.73 i_pae 0.82 con 2.73 i_con 4.78 plddt 0.53 ptm 0.77 i_ptm 0.21 rg 0.85
+15 models [1] recycles 1 hard 0 soft 0.27 temp 1 loss 8.05 helix 0.92 pae 0.74 i_pae 0.80 con 3.33 i_con 4.68 plddt 0.40 ptm 0.78 i_ptm 0.22 rg -0.51
+16 models [1] recycles 1 hard 0 soft 0.29 temp 1 loss 7.91 helix 0.90 pae 0.70 i_pae 0.76 con 2.84 i_con 4.66 plddt 0.48 ptm 0.79 i_ptm 0.27 rg 0.79
+17 models [3] recycles 1 hard 0 soft 0.31 temp 1 loss 7.51 helix 1.01 pae 0.71 i_pae 0.76 con 2.87 i_con 4.60 plddt 0.46 ptm 0.78 i_ptm 0.26 rg -0.36
+18 models [2] recycles 1 hard 0 soft 0.32 temp 1 loss 7.67 helix 0.94 pae 0.71 i_pae 0.77 con 2.92 i_con 4.68 plddt 0.49 ptm 0.76 i_ptm 0.24 rg -0.33
+19 models [4] recycles 1 hard 0 soft 0.34 temp 1 loss 7.46 helix 1.00 pae 0.72 i_pae 0.78 con 2.79 i_con 4.65 plddt 0.47 ptm 0.77 i_ptm 0.24 rg -0.47
+20 models [2] recycles 1 hard 0 soft 0.36 temp 1 loss 7.20 helix 1.12 pae 0.68 i_pae 0.74 con 2.80 i_con 4.50 plddt 0.50 ptm 0.76 i_ptm 0.27 rg -0.67
+21 models [3] recycles 1 hard 0 soft 0.38 temp 1 loss 7.33 helix 1.11 pae 0.69 i_pae 0.74 con 3.00 i_con 4.45 plddt 0.44 ptm 0.79 i_ptm 0.29 rg -0.80
+22 models [1] recycles 1 hard 0 soft 0.40 temp 1 loss 7.56 helix 1.02 pae 0.68 i_pae 0.74 con 2.75 i_con 4.58 plddt 0.52 ptm 0.78 i_ptm 0.27 rg 0.36
+23 models [3] recycles 1 hard 0 soft 0.41 temp 1 loss 7.07 helix 1.09 pae 0.65 i_pae 0.71 con 2.68 i_con 4.40 plddt 0.54 ptm 0.79 i_ptm 0.31 rg -0.32
+24 models [3] recycles 1 hard 0 soft 0.43 temp 1 loss 7.33 helix 1.07 pae 0.67 i_pae 0.73 con 2.69 i_con 4.52 plddt 0.52 ptm 0.79 i_ptm 0.28 rg 0.09
+25 models [4] recycles 1 hard 0 soft 0.45 temp 1 loss 6.99 helix 1.00 pae 0.62 i_pae 0.68 con 2.63 i_con 4.35 plddt 0.56 ptm 0.79 i_ptm 0.36 rg -0.27
+26 models [0] recycles 1 hard 0 soft 0.47 temp 1 loss 6.91 helix 0.92 pae 0.58 i_pae 0.63 con 2.79 i_con 4.11 plddt 0.53 ptm 0.79 i_ptm 0.39 rg -0.29
+27 models [2] recycles 1 hard 0 soft 0.49 temp 1 loss 6.87 helix 1.04 pae 0.58 i_pae 0.64 con 2.78 i_con 4.11 plddt 0.59 ptm 0.80 i_ptm 0.40 rg -0.24
+28 models [3] recycles 1 hard 0 soft 0.50 temp 1 loss 6.68 helix 0.99 pae 0.57 i_pae 0.62 con 2.60 i_con 4.05 plddt 0.59 ptm 0.82 i_ptm 0.42 rg -0.13
+29 models [0] recycles 1 hard 0 soft 0.52 temp 1 loss 6.83 helix 0.97 pae 0.58 i_pae 0.64 con 2.61 i_con 4.12 plddt 0.59 ptm 0.79 i_ptm 0.39 rg 0.06
+30 models [1] recycles 1 hard 0 soft 0.54 temp 1 loss 6.61 helix 1.05 pae 0.53 i_pae 0.58 con 2.56 i_con 3.92 plddt 0.62 ptm 0.81 i_ptm 0.44 rg 0.37
+31 models [3] recycles 1 hard 0 soft 0.56 temp 1 loss 6.42 helix 1.11 pae 0.51 i_pae 0.56 con 2.59 i_con 3.81 plddt 0.62 ptm 0.83 i_ptm 0.47 rg 0.11
+32 models [2] recycles 1 hard 0 soft 0.58 temp 1 loss 6.41 helix 1.06 pae 0.52 i_pae 0.56 con 2.63 i_con 3.77 plddt 0.63 ptm 0.82 i_ptm 0.48 rg -0.03
+33 models [2] recycles 1 hard 0 soft 0.59 temp 1 loss 6.25 helix 1.07 pae 0.52 i_pae 0.56 con 2.56 i_con 3.70 plddt 0.63 ptm 0.82 i_ptm 0.49 rg -0.06
+34 models [3] recycles 1 hard 0 soft 0.61 temp 1 loss 6.09 helix 1.02 pae 0.50 i_pae 0.54 con 2.52 i_con 3.60 plddt 0.61 ptm 0.82 i_ptm 0.52 rg -0.15
+35 models [4] recycles 1 hard 0 soft 0.63 temp 1 loss 7.31 helix 0.98 pae 0.68 i_pae 0.74 con 2.80 i_con 4.53 plddt 0.50 ptm 0.78 i_ptm 0.29 rg -0.51
+36 models [2] recycles 1 hard 0 soft 0.65 temp 1 loss 6.43 helix 1.15 pae 0.56 i_pae 0.61 con 2.58 i_con 3.90 plddt 0.61 ptm 0.79 i_ptm 0.43 rg -0.20
+37 models [2] recycles 1 hard 0 soft 0.67 temp 1 loss 6.21 helix 1.03 pae 0.47 i_pae 0.50 con 2.76 i_con 3.51 plddt 0.62 ptm 0.83 i_ptm 0.57 rg -0.13
+38 models [1] recycles 1 hard 0 soft 0.68 temp 1 loss 5.68 helix 1.02 pae 0.39 i_pae 0.42 con 2.60 i_con 3.19 plddt 0.65 ptm 0.86 i_ptm 0.68 rg -0.16
+39 models [0] recycles 1 hard 0 soft 0.70 temp 1 loss 5.95 helix 1.05 pae 0.41 i_pae 0.43 con 2.72 i_con 3.32 plddt 0.62 ptm 0.84 i_ptm 0.65 rg -0.12
+40 models [0] recycles 1 hard 0 soft 0.72 temp 1 loss 6.19 helix 1.01 pae 0.44 i_pae 0.46 con 2.85 i_con 3.41 plddt 0.59 ptm 0.84 i_ptm 0.62 rg -0.16
+41 models [0] recycles 1 hard 0 soft 0.74 temp 1 loss 8.41 helix 0.97 pae 0.72 i_pae 0.76 con 3.81 i_con 4.54 plddt 0.36 ptm 0.77 i_ptm 0.25 rg -0.37
+42 models [3] recycles 1 hard 0 soft 0.76 temp 1 loss 5.90 helix 1.03 pae 0.42 i_pae 0.44 con 2.67 i_con 3.28 plddt 0.62 ptm 0.86 i_ptm 0.65 rg -0.03
+43 models [3] recycles 1 hard 0 soft 0.77 temp 1 loss 5.65 helix 1.00 pae 0.39 i_pae 0.43 con 2.39 i_con 3.31 plddt 0.69 ptm 0.86 i_ptm 0.64 rg 0.01
+44 models [2] recycles 1 hard 0 soft 0.79 temp 1 loss 5.65 helix 1.06 pae 0.41 i_pae 0.44 con 2.48 i_con 3.23 plddt 0.68 ptm 0.84 i_ptm 0.66 rg 0.01
+45 models [1] recycles 1 hard 0 soft 0.81 temp 1 loss 7.13 helix 1.02 pae 0.63 i_pae 0.69 con 2.77 i_con 4.37 plddt 0.52 ptm 0.80 i_ptm 0.33 rg -0.33
+46 models [3] recycles 1 hard 0 soft 0.83 temp 1 loss 5.56 helix 1.07 pae 0.38 i_pae 0.41 con 2.47 i_con 3.14 plddt 0.68 ptm 0.86 i_ptm 0.69 rg 0.11
+47 models [1] recycles 1 hard 0 soft 0.85 temp 1 loss 6.80 helix 1.02 pae 0.54 i_pae 0.60 con 2.81 i_con 3.95 plddt 0.56 ptm 0.82 i_ptm 0.45 rg -0.02
+48 models [2] recycles 1 hard 0 soft 0.86 temp 1 loss 6.72 helix 0.96 pae 0.58 i_pae 0.64 con 2.68 i_con 4.06 plddt 0.61 ptm 0.80 i_ptm 0.39 rg -0.32
+49 models [2] recycles 1 hard 0 soft 0.88 temp 1 loss 5.64 helix 0.97 pae 0.42 i_pae 0.45 con 2.40 i_con 3.23 plddt 0.70 ptm 0.83 i_ptm 0.65 rg 0.16
+50 models [2] recycles 1 hard 0 soft 0.90 temp 1 loss 6.81 helix 1.05 pae 0.60 i_pae 0.67 con 2.67 i_con 4.18 plddt 0.59 ptm 0.79 i_ptm 0.36 rg -0.37
+Initial trajectory pLDDT good, continuing: 0.68
+Stage 1: Additional Logits Optimisation
+51 models [4] recycles 1 hard 0 soft 0.04 temp 1 loss 6.29 helix 1.09 pae 0.55 i_pae 0.62 con 2.22 i_con 4.12 plddt 0.66 ptm 0.80 i_ptm 0.40 rg -0.20
+52 models [0] recycles 1 hard 0 soft 0.08 temp 1 loss 5.35 helix 1.17 pae 0.36 i_pae 0.39 con 2.29 i_con 3.17 plddt 0.69 ptm 0.85 i_ptm 0.68 rg 0.02
+53 models [3] recycles 1 hard 0 soft 0.12 temp 1 loss 6.59 helix 1.10 pae 0.62 i_pae 0.69 con 2.38 i_con 4.33 plddt 0.58 ptm 0.80 i_ptm 0.32 rg -0.58
+54 models [1] recycles 1 hard 0 soft 0.16 temp 1 loss 5.24 helix 1.19 pae 0.34 i_pae 0.37 con 2.33 i_con 3.03 plddt 0.70 ptm 0.87 i_ptm 0.72 rg 0.06
+55 models [0] recycles 1 hard 0 soft 0.20 temp 1 loss 4.96 helix 1.24 pae 0.33 i_pae 0.35 con 2.23 i_con 2.91 plddt 0.71 ptm 0.86 i_ptm 0.75 rg -0.04
+56 models [1] recycles 1 hard 0 soft 0.24 temp 1 loss 4.96 helix 1.32 pae 0.33 i_pae 0.35 con 2.17 i_con 2.99 plddt 0.71 ptm 0.87 i_ptm 0.75 rg -0.07
+57 models [3] recycles 1 hard 0 soft 0.28 temp 1 loss 4.64 helix 1.28 pae 0.30 i_pae 0.31 con 2.20 i_con 2.65 plddt 0.74 ptm 0.89 i_ptm 0.80 rg 0.00
+58 models [1] recycles 1 hard 0 soft 0.32 temp 1 loss 4.56 helix 1.23 pae 0.29 i_pae 0.30 con 2.12 i_con 2.61 plddt 0.75 ptm 0.89 i_ptm 0.81 rg 0.03
+59 models [0] recycles 1 hard 0 soft 0.36 temp 1 loss 4.77 helix 1.21 pae 0.30 i_pae 0.32 con 2.26 i_con 2.69 plddt 0.72 ptm 0.87 i_ptm 0.79 rg -0.03
+60 models [0] recycles 1 hard 0 soft 0.40 temp 1 loss 5.13 helix 1.29 pae 0.34 i_pae 0.37 con 2.27 i_con 3.05 plddt 0.70 ptm 0.85 i_ptm 0.72 rg -0.07
+61 models [0] recycles 1 hard 0 soft 0.44 temp 1 loss 5.03 helix 1.33 pae 0.31 i_pae 0.33 con 2.42 i_con 2.83 plddt 0.71 ptm 0.87 i_ptm 0.78 rg -0.05
+62 models [2] recycles 1 hard 0 soft 0.48 temp 1 loss 4.52 helix 1.37 pae 0.28 i_pae 0.30 con 2.18 i_con 2.58 plddt 0.76 ptm 0.89 i_ptm 0.82 rg -0.00
+63 models [2] recycles 1 hard 0 soft 0.52 temp 1 loss 5.71 helix 1.38 pae 0.43 i_pae 0.48 con 2.22 i_con 3.69 plddt 0.71 ptm 0.83 i_ptm 0.55 rg -0.17
+64 models [4] recycles 1 hard 0 soft 0.56 temp 1 loss 4.29 helix 1.41 pae 0.28 i_pae 0.29 con 2.05 i_con 2.53 plddt 0.77 ptm 0.88 i_ptm 0.82 rg -0.11
+65 models [3] recycles 1 hard 0 soft 0.60 temp 1 loss 4.36 helix 1.50 pae 0.27 i_pae 0.29 con 2.09 i_con 2.57 plddt 0.76 ptm 0.90 i_ptm 0.82 rg -0.07
+66 models [4] recycles 1 hard 0 soft 0.64 temp 1 loss 4.54 helix 1.43 pae 0.29 i_pae 0.31 con 2.11 i_con 2.72 plddt 0.75 ptm 0.88 i_ptm 0.81 rg -0.14
+67 models [3] recycles 1 hard 0 soft 0.68 temp 1 loss 4.58 helix 1.24 pae 0.29 i_pae 0.31 con 2.10 i_con 2.60 plddt 0.75 ptm 0.89 i_ptm 0.80 rg 0.19
+68 models [4] recycles 1 hard 0 soft 0.72 temp 1 loss 6.49 helix 1.12 pae 0.48 i_pae 0.50 con 2.98 i_con 3.61 plddt 0.56 ptm 0.84 i_ptm 0.56 rg -0.23
+69 models [3] recycles 1 hard 0 soft 0.76 temp 1 loss 4.07 helix 1.56 pae 0.25 i_pae 0.27 con 1.95 i_con 2.43 plddt 0.79 ptm 0.90 i_ptm 0.85 rg 0.01
+70 models [4] recycles 1 hard 0 soft 0.80 temp 1 loss 7.65 helix 1.06 pae 0.68 i_pae 0.72 con 3.28 i_con 4.44 plddt 0.40 ptm 0.79 i_ptm 0.30 rg -0.64
+71 models [0] recycles 1 hard 0 soft 0.84 temp 1 loss 8.17 helix 0.98 pae 0.70 i_pae 0.74 con 3.60 i_con 4.60 plddt 0.39 ptm 0.78 i_ptm 0.28 rg -0.64
+72 models [1] recycles 1 hard 0 soft 0.88 temp 1 loss 8.84 helix 1.28 pae 0.73 i_pae 0.75 con 4.17 i_con 4.50 plddt 0.33 ptm 0.79 i_ptm 0.28 rg 0.28
+73 models [0] recycles 1 hard 0 soft 0.92 temp 1 loss 8.83 helix 1.09 pae 0.77 i_pae 0.81 con 3.77 i_con 4.52 plddt 0.37 ptm 0.76 i_ptm 0.21 rg 1.26
+74 models [2] recycles 1 hard 0 soft 0.96 temp 1 loss 8.47 helix 1.16 pae 0.74 i_pae 0.77 con 3.95 i_con 4.55 plddt 0.34 ptm 0.77 i_ptm 0.26 rg -0.53
+75 models [0] recycles 1 hard 0 soft 1 temp 1 loss 8.59 helix 1.08 pae 0.74 i_pae 0.78 con 3.91 i_con 4.72 plddt 0.35 ptm 0.76 i_ptm 0.24 rg -0.64
+Optimised logit trajectory pLDDT: 0.79
+Stage 2: Softmax Optimisation
+76 models [0] recycles 1 hard 0 soft 1 temp 0.96 loss 6.69 helix 1.09 pae 0.55 i_pae 0.60 con 2.84 i_con 3.90 plddt 0.55 ptm 0.80 i_ptm 0.45 rg -0.28
+77 models [1] recycles 1 hard 0 soft 1 temp 0.91 loss 8.66 helix 1.28 pae 0.75 i_pae 0.77 con 4.13 i_con 4.57 plddt 0.31 ptm 0.78 i_ptm 0.26 rg -0.47
+78 models [0] recycles 1 hard 0 soft 1 temp 0.87 loss 8.36 helix 1.15 pae 0.75 i_pae 0.80 con 3.67 i_con 4.74 plddt 0.36 ptm 0.75 i_ptm 0.22 rg -0.61
+79 models [1] recycles 1 hard 0 soft 1 temp 0.83 loss 6.87 helix 1.15 pae 0.60 i_pae 0.65 con 2.69 i_con 4.24 plddt 0.55 ptm 0.80 i_ptm 0.37 rg -0.33
+80 models [3] recycles 1 hard 0 soft 1 temp 0.79 loss 6.67 helix 1.13 pae 0.48 i_pae 0.51 con 3.07 i_con 3.62 plddt 0.56 ptm 0.85 i_ptm 0.57 rg 0.04
+81 models [4] recycles 1 hard 0 soft 1 temp 0.75 loss 6.17 helix 1.18 pae 0.49 i_pae 0.53 con 2.62 i_con 3.68 plddt 0.61 ptm 0.82 i_ptm 0.51 rg -0.29
+82 models [0] recycles 1 hard 0 soft 1 temp 0.72 loss 6.77 helix 1.17 pae 0.60 i_pae 0.67 con 2.58 i_con 4.29 plddt 0.56 ptm 0.79 i_ptm 0.34 rg -0.48
+83 models [1] recycles 1 hard 0 soft 1 temp 0.68 loss 5.58 helix 1.13 pae 0.40 i_pae 0.43 con 2.46 i_con 3.24 plddt 0.66 ptm 0.85 i_ptm 0.66 rg -0.12
+84 models [3] recycles 1 hard 0 soft 1 temp 0.64 loss 5.33 helix 1.26 pae 0.37 i_pae 0.39 con 2.35 i_con 3.14 plddt 0.70 ptm 0.87 i_ptm 0.70 rg -0.01
+85 models [2] recycles 1 hard 0 soft 1 temp 0.61 loss 5.58 helix 1.21 pae 0.42 i_pae 0.45 con 2.41 i_con 3.27 plddt 0.68 ptm 0.84 i_ptm 0.62 rg -0.02
+86 models [3] recycles 1 hard 0 soft 1 temp 0.58 loss 4.97 helix 1.36 pae 0.32 i_pae 0.34 con 2.21 i_con 2.95 plddt 0.74 ptm 0.87 i_ptm 0.75 rg 0.09
+87 models [3] recycles 1 hard 0 soft 1 temp 0.54 loss 5.60 helix 1.27 pae 0.39 i_pae 0.41 con 2.43 i_con 3.21 plddt 0.68 ptm 0.86 i_ptm 0.67 rg 0.31
+88 models [3] recycles 1 hard 0 soft 1 temp 0.51 loss 5.03 helix 1.35 pae 0.32 i_pae 0.34 con 2.24 i_con 3.03 plddt 0.73 ptm 0.88 i_ptm 0.74 rg -0.10
+89 models [4] recycles 1 hard 0 soft 1 temp 0.48 loss 5.39 helix 1.28 pae 0.37 i_pae 0.40 con 2.40 i_con 3.14 plddt 0.68 ptm 0.86 i_ptm 0.69 rg -0.01
+90 models [3] recycles 1 hard 0 soft 1 temp 0.45 loss 5.08 helix 1.35 pae 0.34 i_pae 0.37 con 2.29 i_con 3.00 plddt 0.71 ptm 0.87 i_ptm 0.73 rg -0.06
+91 models [2] recycles 1 hard 0 soft 1 temp 0.42 loss 5.82 helix 1.28 pae 0.38 i_pae 0.41 con 2.79 i_con 3.15 plddt 0.66 ptm 0.85 i_ptm 0.70 rg 0.07
+92 models [4] recycles 1 hard 0 soft 1 temp 0.39 loss 5.18 helix 1.41 pae 0.37 i_pae 0.40 con 2.24 i_con 3.17 plddt 0.71 ptm 0.85 i_ptm 0.68 rg -0.14
+93 models [2] recycles 1 hard 0 soft 1 temp 0.37 loss 5.23 helix 1.32 pae 0.35 i_pae 0.37 con 2.41 i_con 2.98 plddt 0.70 ptm 0.87 i_ptm 0.74 rg 0.05
+94 models [4] recycles 1 hard 0 soft 1 temp 0.34 loss 5.04 helix 1.40 pae 0.35 i_pae 0.38 con 2.23 i_con 3.06 plddt 0.72 ptm 0.86 i_ptm 0.71 rg -0.17
+95 models [4] recycles 1 hard 0 soft 1 temp 0.32 loss 4.91 helix 1.41 pae 0.32 i_pae 0.34 con 2.23 i_con 2.92 plddt 0.73 ptm 0.87 i_ptm 0.76 rg -0.06
+96 models [3] recycles 1 hard 0 soft 1 temp 0.29 loss 5.18 helix 1.36 pae 0.34 i_pae 0.36 con 2.32 i_con 2.99 plddt 0.72 ptm 0.88 i_ptm 0.74 rg 0.20
+97 models [0] recycles 1 hard 0 soft 1 temp 0.27 loss 6.73 helix 1.32 pae 0.65 i_pae 0.73 con 2.41 i_con 4.44 plddt 0.57 ptm 0.77 i_ptm 0.26 rg -0.47
+98 models [1] recycles 1 hard 0 soft 1 temp 0.25 loss 6.78 helix 1.38 pae 0.65 i_pae 0.74 con 2.40 i_con 4.56 plddt 0.59 ptm 0.79 i_ptm 0.28 rg -0.59
+99 models [2] recycles 1 hard 0 soft 1 temp 0.23 loss 7.25 helix 1.33 pae 0.68 i_pae 0.73 con 2.91 i_con 4.51 plddt 0.50 ptm 0.78 i_ptm 0.29 rg -0.68
+100 models [0] recycles 1 hard 0 soft 1 temp 0.21 loss 6.03 helix 1.30 pae 0.50 i_pae 0.54 con 2.58 i_con 3.60 plddt 0.60 ptm 0.82 i_ptm 0.51 rg -0.29
+101 models [4] recycles 1 hard 0 soft 1 temp 0.19 loss 6.90 helix 1.26 pae 0.64 i_pae 0.71 con 2.63 i_con 4.39 plddt 0.55 ptm 0.79 i_ptm 0.30 rg -0.52
+102 models [1] recycles 1 hard 0 soft 1 temp 0.17 loss 5.49 helix 1.33 pae 0.37 i_pae 0.39 con 2.41 i_con 3.14 plddt 0.68 ptm 0.87 i_ptm 0.69 rg 0.37
+103 models [0] recycles 1 hard 0 soft 1 temp 0.15 loss 5.57 helix 1.31 pae 0.37 i_pae 0.40 con 2.47 i_con 3.25 plddt 0.67 ptm 0.86 i_ptm 0.68 rg 0.04
+104 models [3] recycles 1 hard 0 soft 1 temp 0.14 loss 4.92 helix 1.43 pae 0.32 i_pae 0.34 con 2.19 i_con 2.96 plddt 0.73 ptm 0.88 i_ptm 0.75 rg -0.04
+105 models [3] recycles 1 hard 0 soft 1 temp 0.12 loss 4.65 helix 1.41 pae 0.29 i_pae 0.30 con 2.16 i_con 2.72 plddt 0.75 ptm 0.89 i_ptm 0.81 rg 0.03
+106 models [1] recycles 1 hard 0 soft 1 temp 0.11 loss 7.36 helix 1.28 pae 0.67 i_pae 0.73 con 3.01 i_con 4.46 plddt 0.47 ptm 0.79 i_ptm 0.29 rg -0.51
+107 models [4] recycles 1 hard 0 soft 1 temp 0.09 loss 7.01 helix 1.20 pae 0.63 i_pae 0.68 con 2.77 i_con 4.35 plddt 0.54 ptm 0.80 i_ptm 0.33 rg -0.52
+108 models [0] recycles 1 hard 0 soft 1 temp 0.08 loss 8.22 helix 1.18 pae 0.74 i_pae 0.79 con 3.58 i_con 4.62 plddt 0.38 ptm 0.77 i_ptm 0.23 rg -0.32
+109 models [2] recycles 1 hard 0 soft 1 temp 0.07 loss 7.11 helix 1.29 pae 0.65 i_pae 0.71 con 2.85 i_con 4.43 plddt 0.54 ptm 0.78 i_ptm 0.29 rg -0.65
+110 models [2] recycles 1 hard 0 soft 1 temp 0.06 loss 7.07 helix 1.30 pae 0.66 i_pae 0.71 con 2.77 i_con 4.46 plddt 0.54 ptm 0.78 i_ptm 0.30 rg -0.59
+111 models [1] recycles 1 hard 0 soft 1 temp 0.05 loss 6.82 helix 1.19 pae 0.59 i_pae 0.64 con 2.67 i_con 4.15 plddt 0.56 ptm 0.81 i_ptm 0.38 rg -0.05
+112 models [3] recycles 1 hard 0 soft 1 temp 0.04 loss 5.29 helix 1.38 pae 0.36 i_pae 0.38 con 2.33 i_con 3.15 plddt 0.71 ptm 0.87 i_ptm 0.69 rg -0.00
+113 models [1] recycles 1 hard 0 soft 1 temp 0.03 loss 5.05 helix 1.35 pae 0.32 i_pae 0.34 con 2.29 i_con 2.91 plddt 0.71 ptm 0.88 i_ptm 0.77 rg 0.16
+114 models [0] recycles 1 hard 0 soft 1 temp 0.03 loss 8.74 helix 1.25 pae 0.79 i_pae 0.84 con 3.82 i_con 4.71 plddt 0.32 ptm 0.76 i_ptm 0.17 rg 0.26
+115 models [4] recycles 1 hard 0 soft 1 temp 0.02 loss 7.02 helix 1.22 pae 0.64 i_pae 0.69 con 2.85 i_con 4.30 plddt 0.50 ptm 0.79 i_ptm 0.32 rg -0.57
+116 models [2] recycles 1 hard 0 soft 1 temp 0.02 loss 7.00 helix 1.21 pae 0.65 i_pae 0.70 con 2.74 i_con 4.38 plddt 0.55 ptm 0.78 i_ptm 0.30 rg -0.56
+117 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 8.15 helix 1.23 pae 0.71 i_pae 0.74 con 3.75 i_con 4.47 plddt 0.37 ptm 0.78 i_ptm 0.27 rg -0.55
+118 models [1] recycles 1 hard 0 soft 1 temp 0.01 loss 5.57 helix 1.30 pae 0.41 i_pae 0.44 con 2.37 i_con 3.35 plddt 0.66 ptm 0.85 i_ptm 0.64 rg -0.04
+119 models [0] recycles 1 hard 0 soft 1 temp 0.01 loss 7.23 helix 1.22 pae 0.68 i_pae 0.76 con 2.63 i_con 4.66 plddt 0.53 ptm 0.77 i_ptm 0.24 rg -0.43
+120 models [3] recycles 1 hard 0 soft 1 temp 0.01 loss 5.62 helix 1.27 pae 0.42 i_pae 0.45 con 2.47 i_con 3.31 plddt 0.66 ptm 0.86 i_ptm 0.64 rg -0.15
+Softmax trajectory pLDDT good, continuing: 0.75
+Stage 3: One-hot Optimisation
+121 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 5.60 helix 1.41 pae 0.40 i_pae 0.43 con 2.45 i_con 3.27 plddt 0.62 ptm 0.86 i_ptm 0.66 rg 0.15
+122 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 5.60 helix 1.41 pae 0.40 i_pae 0.43 con 2.45 i_con 3.27 plddt 0.62 ptm 0.86 i_ptm 0.66 rg 0.15
+123 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 5.61 helix 1.25 pae 0.39 i_pae 0.41 con 2.47 i_con 3.24 plddt 0.62 ptm 0.85 i_ptm 0.67 rg 0.08
+124 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 6.97 helix 1.21 pae 0.63 i_pae 0.68 con 2.70 i_con 4.28 plddt 0.50 ptm 0.79 i_ptm 0.33 rg -0.19
+125 models [2] recycles 1 hard 1 soft 1 temp 0.01 loss 5.50 helix 1.26 pae 0.39 i_pae 0.41 con 2.51 i_con 3.07 plddt 0.64 ptm 0.86 i_ptm 0.70 rg 0.18
+One-hot trajectory pLDDT too low to continue: 0.64
+Trajectory starting confidence low, skipping analysis and MPNN optimisation
+
+Starting trajectory took: 0 hours, 32 minutes, 4 seconds
+
+Starting trajectory: 2q06_trimmed_moderate_l143_s928677
+Stage 1: Test Logits
+1 models [3] recycles 1 hard 0 soft 0.02 temp 1 loss 15.46 helix 2.11 pae 0.94 i_pae 0.96 con 4.77 i_con 4.99 plddt 0.21 ptm 0.69 i_ptm 0.10 rg 19.16
+2 models [4] recycles 1 hard 0 soft 0.04 temp 1 loss 10.48 helix 1.02 pae 0.86 i_pae 0.89 con 4.53 i_con 4.93 plddt 0.26 ptm 0.69 i_ptm 0.16 rg 2.60
+3 models [4] recycles 1 hard 0 soft 0.05 temp 1 loss 10.34 helix 0.87 pae 0.86 i_pae 0.90 con 4.44 i_con 5.10 plddt 0.30 ptm 0.67 i_ptm 0.14 rg 1.73
+4 models [0] recycles 1 hard 0 soft 0.07 temp 1 loss 10.08 helix 0.79 pae 0.84 i_pae 0.91 con 3.91 i_con 5.36 plddt 0.35 ptm 0.66 i_ptm 0.14 rg 1.71
+5 models [2] recycles 1 hard 0 soft 0.09 temp 1 loss 9.45 helix 0.79 pae 0.84 i_pae 0.92 con 3.85 i_con 5.44 plddt 0.38 ptm 0.66 i_ptm 0.13 rg -0.45
+6 models [3] recycles 1 hard 0 soft 0.11 temp 1 loss 9.42 helix 0.92 pae 0.77 i_pae 0.84 con 3.84 i_con 5.08 plddt 0.36 ptm 0.71 i_ptm 0.21 rg 0.93
+7 models [4] recycles 1 hard 0 soft 0.13 temp 1 loss 9.29 helix 0.87 pae 0.78 i_pae 0.86 con 3.75 i_con 5.17 plddt 0.38 ptm 0.68 i_ptm 0.18 rg 0.44
+8 models [0] recycles 1 hard 0 soft 0.14 temp 1 loss 9.19 helix 0.83 pae 0.78 i_pae 0.87 con 3.59 i_con 5.43 plddt 0.42 ptm 0.67 i_ptm 0.17 rg -0.24
+9 models [3] recycles 1 hard 0 soft 0.16 temp 1 loss 8.59 helix 0.85 pae 0.72 i_pae 0.78 con 3.61 i_con 4.87 plddt 0.40 ptm 0.73 i_ptm 0.25 rg -0.33
+10 models [0] recycles 1 hard 0 soft 0.18 temp 1 loss 9.01 helix 0.80 pae 0.78 i_pae 0.85 con 3.72 i_con 5.19 plddt 0.38 ptm 0.68 i_ptm 0.18 rg -0.52
+11 models [3] recycles 1 hard 0 soft 0.20 temp 1 loss 8.85 helix 0.99 pae 0.76 i_pae 0.82 con 3.74 i_con 4.90 plddt 0.36 ptm 0.71 i_ptm 0.23 rg 0.06
+12 models [3] recycles 1 hard 0 soft 0.22 temp 1 loss 8.94 helix 1.07 pae 0.75 i_pae 0.79 con 3.90 i_con 4.76 plddt 0.35 ptm 0.72 i_ptm 0.25 rg 0.37
+13 models [4] recycles 1 hard 0 soft 0.23 temp 1 loss 8.34 helix 1.14 pae 0.71 i_pae 0.76 con 3.64 i_con 4.63 plddt 0.38 ptm 0.72 i_ptm 0.28 rg -0.17
+14 models [3] recycles 1 hard 0 soft 0.25 temp 1 loss 8.02 helix 1.18 pae 0.66 i_pae 0.71 con 3.46 i_con 4.48 plddt 0.43 ptm 0.74 i_ptm 0.33 rg 0.02
+15 models [0] recycles 1 hard 0 soft 0.27 temp 1 loss 8.33 helix 1.18 pae 0.73 i_pae 0.82 con 3.30 i_con 5.05 plddt 0.43 ptm 0.69 i_ptm 0.21 rg -0.46
+16 models [4] recycles 1 hard 0 soft 0.29 temp 1 loss 8.40 helix 1.39 pae 0.76 i_pae 0.83 con 3.48 i_con 4.96 plddt 0.37 ptm 0.70 i_ptm 0.22 rg -0.38
+17 models [1] recycles 1 hard 0 soft 0.31 temp 1 loss 8.52 helix 1.57 pae 0.79 i_pae 0.84 con 3.55 i_con 5.05 plddt 0.33 ptm 0.70 i_ptm 0.20 rg -0.37
+18 models [4] recycles 1 hard 0 soft 0.32 temp 1 loss 8.42 helix 1.27 pae 0.76 i_pae 0.83 con 3.54 i_con 4.94 plddt 0.38 ptm 0.70 i_ptm 0.21 rg -0.55
+19 models [4] recycles 1 hard 0 soft 0.34 temp 1 loss 7.77 helix 1.17 pae 0.64 i_pae 0.72 con 3.16 i_con 4.53 plddt 0.47 ptm 0.73 i_ptm 0.33 rg 0.03
+20 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 7.53 helix 1.28 pae 0.63 i_pae 0.72 con 3.04 i_con 4.54 plddt 0.50 ptm 0.74 i_ptm 0.31 rg -0.25
+21 models [3] recycles 1 hard 0 soft 0.38 temp 1 loss 7.47 helix 1.27 pae 0.64 i_pae 0.74 con 2.88 i_con 4.66 plddt 0.48 ptm 0.73 i_ptm 0.29 rg -0.33
+22 models [3] recycles 1 hard 0 soft 0.40 temp 1 loss 6.82 helix 1.32 pae 0.49 i_pae 0.55 con 2.69 i_con 4.06 plddt 0.62 ptm 0.79 i_ptm 0.50 rg 0.52
+23 models [1] recycles 1 hard 0 soft 0.41 temp 1 loss 6.40 helix 1.34 pae 0.41 i_pae 0.45 con 2.64 i_con 3.70 plddt 0.64 ptm 0.83 i_ptm 0.63 rg 0.70
+24 models [3] recycles 1 hard 0 soft 0.43 temp 1 loss 6.71 helix 1.34 pae 0.49 i_pae 0.56 con 2.56 i_con 4.13 plddt 0.64 ptm 0.78 i_ptm 0.48 rg 0.37
+25 models [3] recycles 1 hard 0 soft 0.45 temp 1 loss 6.83 helix 1.40 pae 0.53 i_pae 0.61 con 2.58 i_con 4.21 plddt 0.63 ptm 0.77 i_ptm 0.42 rg 0.39
+26 models [1] recycles 1 hard 0 soft 0.47 temp 1 loss 6.21 helix 1.42 pae 0.39 i_pae 0.43 con 2.50 i_con 3.61 plddt 0.66 ptm 0.83 i_ptm 0.63 rg 0.92
+27 models [0] recycles 1 hard 0 soft 0.49 temp 1 loss 5.96 helix 1.61 pae 0.39 i_pae 0.44 con 2.28 i_con 3.71 plddt 0.71 ptm 0.80 i_ptm 0.59 rg 0.67
+28 models [2] recycles 1 hard 0 soft 0.50 temp 1 loss 5.44 helix 1.60 pae 0.32 i_pae 0.36 con 2.20 i_con 3.19 plddt 0.76 ptm 0.85 i_ptm 0.71 rg 1.10
+29 models [2] recycles 1 hard 0 soft 0.52 temp 1 loss 5.85 helix 1.59 pae 0.41 i_pae 0.48 con 2.36 i_con 3.51 plddt 0.72 ptm 0.80 i_ptm 0.59 rg 0.68
+30 models [4] recycles 1 hard 0 soft 0.54 temp 1 loss 6.12 helix 1.54 pae 0.40 i_pae 0.45 con 2.45 i_con 3.60 plddt 0.69 ptm 0.82 i_ptm 0.59 rg 0.93
+31 models [2] recycles 1 hard 0 soft 0.56 temp 1 loss 6.16 helix 1.59 pae 0.42 i_pae 0.49 con 2.46 i_con 3.66 plddt 0.70 ptm 0.79 i_ptm 0.55 rg 0.84
+32 models [2] recycles 1 hard 0 soft 0.58 temp 1 loss 5.79 helix 1.59 pae 0.36 i_pae 0.40 con 2.33 i_con 3.40 plddt 0.72 ptm 0.83 i_ptm 0.65 rg 1.03
+33 models [0] recycles 1 hard 0 soft 0.59 temp 1 loss 5.73 helix 1.72 pae 0.33 i_pae 0.37 con 2.30 i_con 3.40 plddt 0.74 ptm 0.82 i_ptm 0.67 rg 1.09
+34 models [2] recycles 1 hard 0 soft 0.61 temp 1 loss 5.94 helix 1.66 pae 0.40 i_pae 0.46 con 2.28 i_con 3.62 plddt 0.72 ptm 0.80 i_ptm 0.59 rg 0.95
+35 models [4] recycles 1 hard 0 soft 0.63 temp 1 loss 5.51 helix 1.79 pae 0.32 i_pae 0.36 con 2.20 i_con 3.29 plddt 0.77 ptm 0.84 i_ptm 0.68 rg 1.21
+36 models [0] recycles 1 hard 0 soft 0.65 temp 1 loss 5.98 helix 1.78 pae 0.38 i_pae 0.45 con 2.16 i_con 3.76 plddt 0.74 ptm 0.80 i_ptm 0.59 rg 1.15
+37 models [4] recycles 1 hard 0 soft 0.67 temp 1 loss 5.57 helix 1.70 pae 0.32 i_pae 0.35 con 2.32 i_con 3.17 plddt 0.75 ptm 0.85 i_ptm 0.71 rg 1.27
+38 models [0] recycles 1 hard 0 soft 0.68 temp 1 loss 5.39 helix 1.76 pae 0.30 i_pae 0.33 con 2.25 i_con 3.11 plddt 0.75 ptm 0.85 i_ptm 0.72 rg 1.23
+39 models [3] recycles 1 hard 0 soft 0.70 temp 1 loss 5.30 helix 1.87 pae 0.30 i_pae 0.33 con 2.15 i_con 3.19 plddt 0.78 ptm 0.86 i_ptm 0.73 rg 1.15
+40 models [2] recycles 1 hard 0 soft 0.72 temp 1 loss 5.08 helix 1.84 pae 0.29 i_pae 0.32 con 2.15 i_con 2.96 plddt 0.79 ptm 0.86 i_ptm 0.77 rg 1.14
+41 models [3] recycles 1 hard 0 soft 0.74 temp 1 loss 4.93 helix 1.92 pae 0.26 i_pae 0.29 con 2.05 i_con 2.90 plddt 0.81 ptm 0.88 i_ptm 0.81 rg 1.33
+42 models [0] recycles 1 hard 0 soft 0.76 temp 1 loss 5.51 helix 1.90 pae 0.31 i_pae 0.36 con 2.15 i_con 3.33 plddt 0.76 ptm 0.83 i_ptm 0.68 rg 1.33
+43 models [3] recycles 1 hard 0 soft 0.77 temp 1 loss 5.32 helix 1.89 pae 0.28 i_pae 0.31 con 2.17 i_con 3.15 plddt 0.78 ptm 0.87 i_ptm 0.77 rg 1.26
+44 models [0] recycles 1 hard 0 soft 0.79 temp 1 loss 5.14 helix 1.84 pae 0.28 i_pae 0.31 con 2.06 i_con 3.05 plddt 0.78 ptm 0.85 i_ptm 0.74 rg 1.34
+45 models [2] recycles 1 hard 0 soft 0.81 temp 1 loss 5.01 helix 1.76 pae 0.28 i_pae 0.30 con 2.08 i_con 2.89 plddt 0.81 ptm 0.87 i_ptm 0.79 rg 1.37
+46 models [1] recycles 1 hard 0 soft 0.83 temp 1 loss 5.61 helix 1.78 pae 0.34 i_pae 0.36 con 2.29 i_con 3.26 plddt 0.72 ptm 0.85 i_ptm 0.71 rg 1.23
+47 models [3] recycles 1 hard 0 soft 0.85 temp 1 loss 4.72 helix 2.08 pae 0.24 i_pae 0.27 con 1.91 i_con 2.93 plddt 0.83 ptm 0.88 i_ptm 0.82 rg 1.18
+48 models [4] recycles 1 hard 0 soft 0.86 temp 1 loss 5.39 helix 1.72 pae 0.33 i_pae 0.36 con 2.26 i_con 3.13 plddt 0.73 ptm 0.85 i_ptm 0.74 rg 1.01
+49 models [2] recycles 1 hard 0 soft 0.88 temp 1 loss 5.05 helix 1.72 pae 0.28 i_pae 0.31 con 2.06 i_con 2.97 plddt 0.80 ptm 0.87 i_ptm 0.78 rg 1.22
+50 models [0] recycles 1 hard 0 soft 0.90 temp 1 loss 4.99 helix 1.88 pae 0.26 i_pae 0.29 con 2.04 i_con 2.99 plddt 0.80 ptm 0.86 i_ptm 0.77 rg 1.20
+Initial trajectory pLDDT good, continuing: 0.83
+Stage 1: Additional Logits Optimisation
+51 models [2] recycles 1 hard 0 soft 0.04 temp 1 loss 6.32 helix 1.63 pae 0.46 i_pae 0.50 con 2.47 i_con 3.77 plddt 0.63 ptm 0.80 i_ptm 0.53 rg 0.92
+52 models [0] recycles 1 hard 0 soft 0.08 temp 1 loss 8.36 helix 1.59 pae 0.80 i_pae 0.86 con 3.27 i_con 5.17 plddt 0.39 ptm 0.69 i_ptm 0.17 rg -0.35
+53 models [4] recycles 1 hard 0 soft 0.12 temp 1 loss 4.42 helix 2.01 pae 0.24 i_pae 0.26 con 1.84 i_con 2.66 plddt 0.84 ptm 0.89 i_ptm 0.81 rg 1.24
+54 models [3] recycles 1 hard 0 soft 0.16 temp 1 loss 4.70 helix 1.93 pae 0.24 i_pae 0.26 con 1.86 i_con 2.95 plddt 0.84 ptm 0.89 i_ptm 0.81 rg 1.10
+55 models [1] recycles 1 hard 0 soft 0.20 temp 1 loss 4.25 helix 2.26 pae 0.22 i_pae 0.24 con 1.80 i_con 2.64 plddt 0.85 ptm 0.89 i_ptm 0.83 rg 1.19
+56 models [1] recycles 1 hard 0 soft 0.24 temp 1 loss 4.17 helix 2.12 pae 0.21 i_pae 0.24 con 1.75 i_con 2.58 plddt 0.86 ptm 0.90 i_ptm 0.85 rg 1.14
+57 models [1] recycles 1 hard 0 soft 0.28 temp 1 loss 4.44 helix 2.05 pae 0.23 i_pae 0.25 con 1.82 i_con 2.76 plddt 0.84 ptm 0.90 i_ptm 0.84 rg 1.12
+58 models [2] recycles 1 hard 0 soft 0.32 temp 1 loss 9.08 helix 1.68 pae 0.85 i_pae 0.87 con 4.28 i_con 4.96 plddt 0.22 ptm 0.70 i_ptm 0.18 rg -0.66
+59 models [4] recycles 1 hard 0 soft 0.36 temp 1 loss 6.78 helix 1.98 pae 0.60 i_pae 0.75 con 2.07 i_con 4.75 plddt 0.70 ptm 0.72 i_ptm 0.26 rg 0.59
+60 models [3] recycles 1 hard 0 soft 0.40 temp 1 loss 4.23 helix 2.25 pae 0.21 i_pae 0.24 con 1.77 i_con 2.67 plddt 0.86 ptm 0.90 i_ptm 0.84 rg 1.13
+61 models [0] recycles 1 hard 0 soft 0.44 temp 1 loss 4.86 helix 2.08 pae 0.28 i_pae 0.31 con 2.08 i_con 2.85 plddt 0.78 ptm 0.86 i_ptm 0.77 rg 1.26
+62 models [3] recycles 1 hard 0 soft 0.48 temp 1 loss 11.24 helix 1.74 pae 0.89 i_pae 0.91 con 4.38 i_con 5.08 plddt 0.22 ptm 0.71 i_ptm 0.14 rg 5.78
+63 models [0] recycles 1 hard 0 soft 0.52 temp 1 loss 4.52 helix 2.23 pae 0.25 i_pae 0.27 con 1.90 i_con 2.81 plddt 0.82 ptm 0.87 i_ptm 0.79 rg 1.06
+64 models [3] recycles 1 hard 0 soft 0.56 temp 1 loss 5.61 helix 1.71 pae 0.34 i_pae 0.37 con 2.34 i_con 3.29 plddt 0.71 ptm 0.85 i_ptm 0.71 rg 0.92
+65 models [1] recycles 1 hard 0 soft 0.60 temp 1 loss 4.65 helix 1.92 pae 0.24 i_pae 0.26 con 1.92 i_con 2.85 plddt 0.83 ptm 0.88 i_ptm 0.80 rg 1.00
+66 models [0] recycles 1 hard 0 soft 0.64 temp 1 loss 4.42 helix 2.03 pae 0.23 i_pae 0.25 con 1.84 i_con 2.72 plddt 0.85 ptm 0.88 i_ptm 0.82 rg 1.11
+67 models [4] recycles 1 hard 0 soft 0.68 temp 1 loss 4.68 helix 1.93 pae 0.25 i_pae 0.28 con 1.94 i_con 2.86 plddt 0.83 ptm 0.88 i_ptm 0.79 rg 1.04
+68 models [3] recycles 1 hard 0 soft 0.72 temp 1 loss 4.34 helix 2.04 pae 0.23 i_pae 0.25 con 1.80 i_con 2.73 plddt 0.86 ptm 0.89 i_ptm 0.81 rg 0.94
+69 models [0] recycles 1 hard 0 soft 0.76 temp 1 loss 4.51 helix 2.11 pae 0.24 i_pae 0.26 con 1.85 i_con 2.78 plddt 0.84 ptm 0.87 i_ptm 0.79 rg 1.21
+70 models [0] recycles 1 hard 0 soft 0.80 temp 1 loss 4.30 helix 2.08 pae 0.22 i_pae 0.25 con 1.78 i_con 2.70 plddt 0.86 ptm 0.88 i_ptm 0.81 rg 1.03
+71 models [4] recycles 1 hard 0 soft 0.84 temp 1 loss 4.50 helix 1.98 pae 0.24 i_pae 0.27 con 1.82 i_con 2.83 plddt 0.85 ptm 0.88 i_ptm 0.79 rg 0.98
+72 models [3] recycles 1 hard 0 soft 0.88 temp 1 loss 4.29 helix 2.07 pae 0.23 i_pae 0.26 con 1.74 i_con 2.76 plddt 0.86 ptm 0.88 i_ptm 0.81 rg 0.89
+73 models [4] recycles 1 hard 0 soft 0.92 temp 1 loss 5.98 helix 1.59 pae 0.34 i_pae 0.35 con 2.05 i_con 2.96 plddt 0.76 ptm 0.85 i_ptm 0.77 rg 4.12
+74 models [1] recycles 1 hard 0 soft 0.96 temp 1 loss 5.45 helix 1.38 pae 0.35 i_pae 0.36 con 2.20 i_con 3.07 plddt 0.73 ptm 0.85 i_ptm 0.77 rg 1.27
+75 models [0] recycles 1 hard 0 soft 1 temp 1 loss 5.01 helix 1.88 pae 0.28 i_pae 0.32 con 1.96 i_con 3.15 plddt 0.80 ptm 0.84 i_ptm 0.73 rg 0.97
+Optimised logit trajectory pLDDT: 0.86
+Stage 2: Softmax Optimisation
+76 models [0] recycles 1 hard 0 soft 1 temp 0.96 loss 4.57 helix 1.92 pae 0.24 i_pae 0.27 con 1.84 i_con 2.86 plddt 0.84 ptm 0.86 i_ptm 0.79 rg 0.98
+77 models [1] recycles 1 hard 0 soft 1 temp 0.91 loss 4.37 helix 2.07 pae 0.22 i_pae 0.25 con 1.78 i_con 2.82 plddt 0.84 ptm 0.89 i_ptm 0.82 rg 0.88
+78 models [2] recycles 1 hard 0 soft 1 temp 0.87 loss 4.89 helix 2.01 pae 0.32 i_pae 0.38 con 1.85 i_con 3.25 plddt 0.81 ptm 0.82 i_ptm 0.69 rg 0.64
+79 models [2] recycles 1 hard 0 soft 1 temp 0.83 loss 6.91 helix 1.74 pae 0.63 i_pae 0.79 con 2.10 i_con 4.92 plddt 0.69 ptm 0.70 i_ptm 0.24 rg 0.06
+80 models [1] recycles 1 hard 0 soft 1 temp 0.79 loss 4.60 helix 2.08 pae 0.24 i_pae 0.28 con 1.79 i_con 3.04 plddt 0.83 ptm 0.88 i_ptm 0.78 rg 0.83
+81 models [1] recycles 1 hard 0 soft 1 temp 0.75 loss 4.66 helix 2.13 pae 0.25 i_pae 0.29 con 1.83 i_con 3.06 plddt 0.83 ptm 0.86 i_ptm 0.75 rg 0.83
+82 models [0] recycles 1 hard 0 soft 1 temp 0.72 loss 4.23 helix 2.17 pae 0.21 i_pae 0.24 con 1.75 i_con 2.70 plddt 0.87 ptm 0.88 i_ptm 0.82 rg 0.99
+83 models [0] recycles 1 hard 0 soft 1 temp 0.68 loss 4.12 helix 2.21 pae 0.20 i_pae 0.23 con 1.78 i_con 2.59 plddt 0.86 ptm 0.89 i_ptm 0.84 rg 0.97
+84 models [2] recycles 1 hard 0 soft 1 temp 0.64 loss 8.20 helix 1.40 pae 0.77 i_pae 0.83 con 3.19 i_con 4.99 plddt 0.41 ptm 0.69 i_ptm 0.20 rg -0.21
+85 models [0] recycles 1 hard 0 soft 1 temp 0.61 loss 4.75 helix 1.93 pae 0.24 i_pae 0.27 con 1.99 i_con 2.92 plddt 0.81 ptm 0.86 i_ptm 0.78 rg 0.88
+86 models [3] recycles 1 hard 0 soft 1 temp 0.58 loss 4.62 helix 2.10 pae 0.26 i_pae 0.30 con 1.87 i_con 2.97 plddt 0.83 ptm 0.87 i_ptm 0.76 rg 0.79
+87 models [3] recycles 1 hard 0 soft 1 temp 0.54 loss 4.33 helix 2.16 pae 0.23 i_pae 0.26 con 1.73 i_con 2.82 plddt 0.86 ptm 0.88 i_ptm 0.84 rg 0.95
+88 models [1] recycles 1 hard 0 soft 1 temp 0.51 loss 4.20 helix 2.14 pae 0.21 i_pae 0.24 con 1.79 i_con 2.62 plddt 0.85 ptm 0.90 i_ptm 0.85 rg 0.98
+89 models [4] recycles 1 hard 0 soft 1 temp 0.48 loss 4.21 helix 2.20 pae 0.22 i_pae 0.24 con 1.78 i_con 2.70 plddt 0.86 ptm 0.89 i_ptm 0.84 rg 0.88
+90 models [2] recycles 1 hard 0 soft 1 temp 0.45 loss 4.18 helix 2.03 pae 0.21 i_pae 0.24 con 1.72 i_con 2.65 plddt 0.87 ptm 0.90 i_ptm 0.84 rg 0.97
+91 models [0] recycles 1 hard 0 soft 1 temp 0.42 loss 6.72 helix 2.01 pae 0.61 i_pae 0.78 con 1.85 i_con 4.91 plddt 0.72 ptm 0.69 i_ptm 0.23 rg 0.59
+92 models [0] recycles 1 hard 0 soft 1 temp 0.39 loss 4.38 helix 2.19 pae 0.24 i_pae 0.27 con 1.66 i_con 2.97 plddt 0.85 ptm 0.86 i_ptm 0.76 rg 0.85
+93 models [1] recycles 1 hard 0 soft 1 temp 0.37 loss 4.02 helix 2.22 pae 0.20 i_pae 0.23 con 1.63 i_con 2.68 plddt 0.88 ptm 0.89 i_ptm 0.85 rg 0.86
+94 models [0] recycles 1 hard 0 soft 1 temp 0.34 loss 4.08 helix 2.28 pae 0.21 i_pae 0.24 con 1.65 i_con 2.72 plddt 0.87 ptm 0.87 i_ptm 0.82 rg 0.88
+95 models [3] recycles 1 hard 0 soft 1 temp 0.32 loss 4.11 helix 2.21 pae 0.21 i_pae 0.24 con 1.67 i_con 2.72 plddt 0.88 ptm 0.90 i_ptm 0.85 rg 0.87
+96 models [0] recycles 1 hard 0 soft 1 temp 0.29 loss 4.41 helix 2.20 pae 0.24 i_pae 0.28 con 1.67 i_con 2.99 plddt 0.85 ptm 0.86 i_ptm 0.76 rg 0.85
+97 models [3] recycles 1 hard 0 soft 1 temp 0.27 loss 4.23 helix 2.14 pae 0.22 i_pae 0.25 con 1.66 i_con 2.80 plddt 0.87 ptm 0.89 i_ptm 0.83 rg 0.92
+98 models [4] recycles 1 hard 0 soft 1 temp 0.25 loss 8.47 helix 1.74 pae 0.77 i_pae 0.82 con 3.51 i_con 4.96 plddt 0.36 ptm 0.70 i_ptm 0.22 rg 0.07
+99 models [0] recycles 1 hard 0 soft 1 temp 0.23 loss 7.40 helix 1.90 pae 0.68 i_pae 0.84 con 2.29 i_con 5.16 plddt 0.65 ptm 0.68 i_ptm 0.18 rg 0.28
+100 models [3] recycles 1 hard 0 soft 1 temp 0.21 loss 8.72 helix 1.79 pae 0.78 i_pae 0.83 con 3.58 i_con 4.94 plddt 0.36 ptm 0.71 i_ptm 0.21 rg 0.79
+101 models [2] recycles 1 hard 0 soft 1 temp 0.19 loss 8.21 helix 1.92 pae 0.77 i_pae 0.82 con 3.44 i_con 5.00 plddt 0.38 ptm 0.70 i_ptm 0.22 rg -0.49
+102 models [3] recycles 1 hard 0 soft 1 temp 0.17 loss 7.14 helix 1.84 pae 0.60 i_pae 0.64 con 3.01 i_con 4.24 plddt 0.51 ptm 0.77 i_ptm 0.38 rg 0.19
+103 models [0] recycles 1 hard 0 soft 1 temp 0.15 loss 7.61 helix 1.95 pae 0.68 i_pae 0.78 con 2.78 i_con 4.81 plddt 0.54 ptm 0.69 i_ptm 0.24 rg 0.57
+104 models [0] recycles 1 hard 0 soft 1 temp 0.14 loss 7.98 helix 1.94 pae 0.73 i_pae 0.83 con 2.90 i_con 5.02 plddt 0.51 ptm 0.69 i_ptm 0.19 rg 0.61
+105 models [4] recycles 1 hard 0 soft 1 temp 0.12 loss 8.11 helix 1.75 pae 0.72 i_pae 0.76 con 3.35 i_con 4.64 plddt 0.41 ptm 0.72 i_ptm 0.27 rg 0.62
+106 models [3] recycles 1 hard 0 soft 1 temp 0.11 loss 8.53 helix 1.58 pae 0.76 i_pae 0.80 con 3.41 i_con 4.86 plddt 0.38 ptm 0.72 i_ptm 0.22 rg 0.82
+107 models [0] recycles 1 hard 0 soft 1 temp 0.09 loss 8.56 helix 1.64 pae 0.80 i_pae 0.88 con 3.15 i_con 5.36 plddt 0.44 ptm 0.68 i_ptm 0.15 rg 0.12
+108 models [4] recycles 1 hard 0 soft 1 temp 0.08 loss 8.24 helix 1.68 pae 0.74 i_pae 0.79 con 3.23 i_con 4.83 plddt 0.40 ptm 0.71 i_ptm 0.24 rg 0.68
+109 models [0] recycles 1 hard 0 soft 1 temp 0.07 loss 5.44 helix 2.08 pae 0.35 i_pae 0.40 con 2.15 i_con 3.50 plddt 0.74 ptm 0.82 i_ptm 0.63 rg 0.66
+110 models [1] recycles 1 hard 0 soft 1 temp 0.06 loss 5.48 helix 1.97 pae 0.33 i_pae 0.37 con 2.20 i_con 3.41 plddt 0.73 ptm 0.84 i_ptm 0.68 rg 0.81
+111 models [2] recycles 1 hard 0 soft 1 temp 0.05 loss 6.60 helix 1.87 pae 0.55 i_pae 0.64 con 2.51 i_con 4.23 plddt 0.63 ptm 0.74 i_ptm 0.39 rg 0.23
+112 models [3] recycles 1 hard 0 soft 1 temp 0.04 loss 6.12 helix 1.93 pae 0.44 i_pae 0.50 con 2.44 i_con 3.83 plddt 0.67 ptm 0.80 i_ptm 0.54 rg 0.49
+113 models [3] recycles 1 hard 0 soft 1 temp 0.03 loss 5.76 helix 1.95 pae 0.36 i_pae 0.41 con 2.32 i_con 3.55 plddt 0.73 ptm 0.84 i_ptm 0.65 rg 0.80
+114 models [2] recycles 1 hard 0 soft 1 temp 0.03 loss 7.25 helix 1.63 pae 0.65 i_pae 0.72 con 2.85 i_con 4.59 plddt 0.52 ptm 0.73 i_ptm 0.30 rg -0.39
+115 models [4] recycles 1 hard 0 soft 1 temp 0.02 loss 5.80 helix 1.79 pae 0.36 i_pae 0.39 con 2.40 i_con 3.45 plddt 0.70 ptm 0.83 i_ptm 0.68 rg 0.89
+116 models [3] recycles 1 hard 0 soft 1 temp 0.02 loss 6.97 helix 1.59 pae 0.57 i_pae 0.64 con 2.64 i_con 4.38 plddt 0.59 ptm 0.77 i_ptm 0.39 rg 0.23
+117 models [3] recycles 1 hard 0 soft 1 temp 0.01 loss 5.78 helix 1.96 pae 0.38 i_pae 0.44 con 2.22 i_con 3.68 plddt 0.73 ptm 0.82 i_ptm 0.59 rg 0.76
+118 models [1] recycles 1 hard 0 soft 1 temp 0.01 loss 5.18 helix 1.91 pae 0.29 i_pae 0.32 con 2.07 i_con 3.20 plddt 0.76 ptm 0.87 i_ptm 0.74 rg 0.99
+119 models [0] recycles 1 hard 0 soft 1 temp 0.01 loss 4.95 helix 2.03 pae 0.27 i_pae 0.30 con 2.02 i_con 3.08 plddt 0.79 ptm 0.86 i_ptm 0.77 rg 1.00
+120 models [4] recycles 1 hard 0 soft 1 temp 0.01 loss 7.33 helix 1.62 pae 0.63 i_pae 0.69 con 2.90 i_con 4.44 plddt 0.51 ptm 0.74 i_ptm 0.34 rg 0.24
+Softmax trajectory pLDDT good, continuing: 0.88
+Stage 3: One-hot Optimisation
+121 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 4.68 helix 2.18 pae 0.24 i_pae 0.27 con 1.87 i_con 2.99 plddt 0.80 ptm 0.87 i_ptm 0.79 rg 1.07
+122 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 4.71 helix 2.12 pae 0.24 i_pae 0.27 con 1.92 i_con 2.91 plddt 0.79 ptm 0.87 i_ptm 0.79 rg 1.17
+123 models [3] recycles 1 hard 1 soft 1 temp 0.01 loss 4.71 helix 2.10 pae 0.25 i_pae 0.27 con 1.94 i_con 2.90 plddt 0.80 ptm 0.89 i_ptm 0.82 rg 1.14
+124 models [2] recycles 1 hard 1 soft 1 temp 0.01 loss 5.31 helix 1.93 pae 0.32 i_pae 0.36 con 2.15 i_con 3.26 plddt 0.74 ptm 0.84 i_ptm 0.72 rg 0.94
+125 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 6.01 helix 1.82 pae 0.38 i_pae 0.42 con 2.46 i_con 3.56 plddt 0.63 ptm 0.82 i_ptm 0.63 rg 0.98
+One-hot trajectory pLDDT good, continuing: 0.8
+Stage 4: PSSM Semigreedy Optimisation
+Running semigreedy optimization...
+126 models [2] recycles 1 hard 1 soft 0 temp 1 loss 4.65 helix 2.05 pae 0.25 i_pae 0.28 con 1.92 i_con 2.87 plddt 0.81 ptm 0.87 i_ptm 0.80 rg 1.09
+127 models [2] recycles 1 hard 1 soft 0 temp 1 loss 4.56 helix 2.06 pae 0.24 i_pae 0.27 con 1.89 i_con 2.80 plddt 0.82 ptm 0.88 i_ptm 0.81 rg 1.11
+128 models [1] recycles 1 hard 1 soft 0 temp 1 loss 4.43 helix 2.21 pae 0.23 i_pae 0.26 con 1.78 i_con 2.85 plddt 0.83 ptm 0.88 i_ptm 0.81 rg 1.07
+129 models [1] recycles 1 hard 1 soft 0 temp 1 loss 4.40 helix 2.23 pae 0.23 i_pae 0.25 con 1.78 i_con 2.82 plddt 0.83 ptm 0.88 i_ptm 0.81 rg 1.10
+130 models [4] recycles 1 hard 1 soft 0 temp 1 loss 6.49 helix 1.59 pae 0.46 i_pae 0.50 con 2.62 i_con 3.80 plddt 0.55 ptm 0.79 i_ptm 0.54 rg 0.82
+131 models [4] recycles 1 hard 1 soft 0 temp 1 loss 5.42 helix 1.96 pae 0.32 i_pae 0.36 con 2.16 i_con 3.34 plddt 0.71 ptm 0.84 i_ptm 0.70 rg 1.04
+132 models [3] recycles 1 hard 1 soft 0 temp 1 loss 5.21 helix 2.07 pae 0.28 i_pae 0.32 con 2.06 i_con 3.27 plddt 0.77 ptm 0.86 i_ptm 0.74 rg 1.08
+133 models [3] recycles 1 hard 1 soft 0 temp 1 loss 5.13 helix 2.01 pae 0.27 i_pae 0.30 con 2.05 i_con 3.15 plddt 0.77 ptm 0.88 i_ptm 0.78 rg 1.19
+134 models [2] recycles 1 hard 1 soft 0 temp 1 loss 5.10 helix 1.97 pae 0.29 i_pae 0.33 con 2.01 i_con 3.22 plddt 0.78 ptm 0.84 i_ptm 0.73 rg 0.95
+135 models [0] recycles 1 hard 1 soft 0 temp 1 loss 5.21 helix 2.07 pae 0.30 i_pae 0.35 con 1.96 i_con 3.36 plddt 0.76 ptm 0.83 i_ptm 0.69 rg 1.05
+136 models [1] recycles 1 hard 1 soft 0 temp 1 loss 4.84 helix 2.13 pae 0.26 i_pae 0.29 con 1.82 i_con 3.18 plddt 0.81 ptm 0.86 i_ptm 0.76 rg 1.03
+137 models [1] recycles 1 hard 1 soft 0 temp 1 loss 4.78 helix 2.14 pae 0.25 i_pae 0.29 con 1.81 i_con 3.14 plddt 0.81 ptm 0.87 i_ptm 0.77 rg 1.04
+138 models [4] recycles 1 hard 1 soft 0 temp 1 loss 5.47 helix 1.93 pae 0.32 i_pae 0.36 con 2.16 i_con 3.38 plddt 0.71 ptm 0.84 i_ptm 0.70 rg 0.99
+139 models [3] recycles 1 hard 1 soft 0 temp 1 loss 5.22 helix 1.99 pae 0.28 i_pae 0.31 con 2.08 i_con 3.19 plddt 0.77 ptm 0.87 i_ptm 0.77 rg 1.22
+140 models [1] recycles 1 hard 1 soft 0 temp 1 loss 4.84 helix 2.17 pae 0.25 i_pae 0.28 con 1.88 i_con 3.13 plddt 0.80 ptm 0.87 i_ptm 0.78 rg 1.07
+Trajectory successful, final pLDDT: 0.83
+Starting trajectory took: 0 hours, 53 minutes, 36 seconds
+
+Fixing interface residues: B1,B2,B3,B5,B6,B9,B10,B12,B13,B14,B16,B17,B20,B25,B26,B27,B29,B30,B33,B34,B37,B38,B40,B41,B44,B45,B47,B48,B49,B51,B52,B53,B54,B55,B64,B97,B100,B101,B104,B105,B107,B108,B111,B112,B113,B114,B115
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn1, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn2, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn3, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn4, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn5, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn6, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn7, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn8, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn9, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn10, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn11, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn12, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn13, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn14, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn15, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn16, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn17, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn18, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn19, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l143_s928677_mpnn20, skipping interface scoring
+No accepted MPNN designs found for this trajectory.
+Design and validation of trajectory 2q06_trimmed_moderate_l143_s928677 took: 0 hours, 5 minutes, 14 seconds
+
+Starting trajectory: 2q06_trimmed_moderate_l85_s226391
+Stage 1: Test Logits
+1 models [3] recycles 1 hard 0 soft 0.02 temp 1 loss 15.59 helix 2.22 pae 0.92 i_pae 0.94 con 4.84 i_con 4.90 plddt 0.22 ptm 0.76 i_ptm 0.11 rg 19.78
+2 models [4] recycles 1 hard 0 soft 0.04 temp 1 loss 11.07 helix 1.58 pae 0.82 i_pae 0.84 con 4.80 i_con 4.60 plddt 0.24 ptm 0.77 i_ptm 0.19 rg 5.40
+3 models [1] recycles 1 hard 0 soft 0.05 temp 1 loss 11.71 helix 1.82 pae 0.84 i_pae 0.85 con 4.85 i_con 4.77 plddt 0.25 ptm 0.77 i_ptm 0.18 rg 6.97
+4 models [1] recycles 1 hard 0 soft 0.07 temp 1 loss 10.42 helix 1.59 pae 0.83 i_pae 0.85 con 4.70 i_con 4.77 plddt 0.25 ptm 0.77 i_ptm 0.18 rg 2.97
+5 models [0] recycles 1 hard 0 soft 0.09 temp 1 loss 11.28 helix 1.44 pae 0.85 i_pae 0.87 con 4.57 i_con 4.73 plddt 0.27 ptm 0.75 i_ptm 0.15 rg 6.25
+6 models [3] recycles 1 hard 0 soft 0.11 temp 1 loss 10.84 helix 1.58 pae 0.82 i_pae 0.84 con 4.48 i_con 4.70 plddt 0.27 ptm 0.77 i_ptm 0.21 rg 5.37
+7 models [0] recycles 1 hard 0 soft 0.13 temp 1 loss 9.23 helix 0.98 pae 0.82 i_pae 0.86 con 4.18 i_con 4.71 plddt 0.30 ptm 0.74 i_ptm 0.17 rg 0.35
+8 models [2] recycles 1 hard 0 soft 0.14 temp 1 loss 9.61 helix 1.27 pae 0.83 i_pae 0.86 con 4.27 i_con 4.81 plddt 0.29 ptm 0.74 i_ptm 0.18 rg 1.28
+9 models [1] recycles 1 hard 0 soft 0.16 temp 1 loss 8.86 helix 1.04 pae 0.78 i_pae 0.82 con 4.02 i_con 4.49 plddt 0.33 ptm 0.77 i_ptm 0.22 rg 0.54
+10 models [3] recycles 1 hard 0 soft 0.18 temp 1 loss 9.21 helix 1.11 pae 0.82 i_pae 0.88 con 3.86 i_con 4.86 plddt 0.33 ptm 0.76 i_ptm 0.15 rg 0.99
+11 models [3] recycles 1 hard 0 soft 0.20 temp 1 loss 8.56 helix 1.17 pae 0.80 i_pae 0.85 con 3.84 i_con 4.63 plddt 0.34 ptm 0.76 i_ptm 0.19 rg -0.25
+12 models [2] recycles 1 hard 0 soft 0.22 temp 1 loss 8.38 helix 1.13 pae 0.79 i_pae 0.84 con 3.85 i_con 4.57 plddt 0.35 ptm 0.74 i_ptm 0.21 rg -0.70
+13 models [1] recycles 1 hard 0 soft 0.23 temp 1 loss 8.50 helix 1.06 pae 0.74 i_pae 0.78 con 3.80 i_con 4.36 plddt 0.38 ptm 0.78 i_ptm 0.28 rg 0.62
+14 models [1] recycles 1 hard 0 soft 0.25 temp 1 loss 8.14 helix 1.04 pae 0.74 i_pae 0.80 con 3.57 i_con 4.45 plddt 0.40 ptm 0.78 i_ptm 0.24 rg -0.15
+15 models [3] recycles 1 hard 0 soft 0.27 temp 1 loss 8.16 helix 1.16 pae 0.74 i_pae 0.79 con 3.60 i_con 4.46 plddt 0.39 ptm 0.78 i_ptm 0.25 rg -0.09
+16 models [4] recycles 1 hard 0 soft 0.29 temp 1 loss 7.94 helix 1.10 pae 0.73 i_pae 0.79 con 3.45 i_con 4.38 plddt 0.43 ptm 0.78 i_ptm 0.27 rg -0.09
+17 models [4] recycles 1 hard 0 soft 0.31 temp 1 loss 7.70 helix 1.13 pae 0.73 i_pae 0.79 con 3.36 i_con 4.34 plddt 0.44 ptm 0.76 i_ptm 0.27 rg -0.38
+18 models [4] recycles 1 hard 0 soft 0.32 temp 1 loss 7.63 helix 1.11 pae 0.72 i_pae 0.78 con 3.32 i_con 4.24 plddt 0.44 ptm 0.78 i_ptm 0.29 rg -0.18
+19 models [3] recycles 1 hard 0 soft 0.34 temp 1 loss 7.63 helix 1.24 pae 0.74 i_pae 0.82 con 3.05 i_con 4.54 plddt 0.49 ptm 0.78 i_ptm 0.24 rg -0.18
+20 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 6.98 helix 1.27 pae 0.64 i_pae 0.70 con 2.94 i_con 4.11 plddt 0.54 ptm 0.80 i_ptm 0.35 rg -0.29
+21 models [1] recycles 1 hard 0 soft 0.38 temp 1 loss 6.58 helix 1.38 pae 0.59 i_pae 0.66 con 2.73 i_con 3.92 plddt 0.60 ptm 0.80 i_ptm 0.41 rg -0.08
+22 models [2] recycles 1 hard 0 soft 0.40 temp 1 loss 7.24 helix 1.23 pae 0.76 i_pae 0.84 con 2.83 i_con 4.54 plddt 0.48 ptm 0.75 i_ptm 0.20 rg -0.82
+23 models [2] recycles 1 hard 0 soft 0.41 temp 1 loss 6.26 helix 1.34 pae 0.55 i_pae 0.60 con 2.62 i_con 3.71 plddt 0.61 ptm 0.81 i_ptm 0.48 rg -0.05
+24 models [3] recycles 1 hard 0 soft 0.43 temp 1 loss 5.74 helix 1.36 pae 0.42 i_pae 0.45 con 2.68 i_con 3.20 plddt 0.69 ptm 0.85 i_ptm 0.69 rg 0.03
+25 models [1] recycles 1 hard 0 soft 0.45 temp 1 loss 5.48 helix 1.50 pae 0.40 i_pae 0.44 con 2.45 i_con 3.13 plddt 0.71 ptm 0.85 i_ptm 0.69 rg 0.35
+26 models [4] recycles 1 hard 0 soft 0.47 temp 1 loss 4.71 helix 1.56 pae 0.34 i_pae 0.37 con 2.17 i_con 2.76 plddt 0.79 ptm 0.86 i_ptm 0.81 rg 0.15
+27 models [3] recycles 1 hard 0 soft 0.49 temp 1 loss 4.71 helix 1.47 pae 0.33 i_pae 0.36 con 2.19 i_con 2.76 plddt 0.81 ptm 0.87 i_ptm 0.81 rg 0.03
+28 models [4] recycles 1 hard 0 soft 0.50 temp 1 loss 4.87 helix 1.37 pae 0.35 i_pae 0.38 con 2.26 i_con 2.80 plddt 0.78 ptm 0.86 i_ptm 0.80 rg 0.04
+29 models [2] recycles 1 hard 0 soft 0.52 temp 1 loss 4.96 helix 1.40 pae 0.37 i_pae 0.41 con 2.35 i_con 2.76 plddt 0.76 ptm 0.84 i_ptm 0.79 rg 0.17
+30 models [4] recycles 1 hard 0 soft 0.54 temp 1 loss 4.97 helix 1.42 pae 0.38 i_pae 0.41 con 2.32 i_con 2.82 plddt 0.74 ptm 0.85 i_ptm 0.78 rg 0.09
+31 models [1] recycles 1 hard 0 soft 0.56 temp 1 loss 4.59 helix 1.48 pae 0.34 i_pae 0.37 con 2.14 i_con 2.69 plddt 0.79 ptm 0.86 i_ptm 0.82 rg -0.01
+32 models [4] recycles 1 hard 0 soft 0.58 temp 1 loss 6.29 helix 1.34 pae 0.58 i_pae 0.64 con 2.50 i_con 3.77 plddt 0.61 ptm 0.80 i_ptm 0.45 rg 0.19
+33 models [3] recycles 1 hard 0 soft 0.59 temp 1 loss 4.72 helix 1.50 pae 0.33 i_pae 0.36 con 2.33 i_con 2.57 plddt 0.78 ptm 0.87 i_ptm 0.83 rg 0.22
+34 models [4] recycles 1 hard 0 soft 0.61 temp 1 loss 5.07 helix 1.41 pae 0.35 i_pae 0.38 con 2.42 i_con 2.72 plddt 0.74 ptm 0.86 i_ptm 0.79 rg 0.45
+35 models [4] recycles 1 hard 0 soft 0.63 temp 1 loss 4.82 helix 1.54 pae 0.34 i_pae 0.37 con 2.29 i_con 2.65 plddt 0.77 ptm 0.86 i_ptm 0.81 rg 0.42
+36 models [2] recycles 1 hard 0 soft 0.65 temp 1 loss 5.31 helix 1.43 pae 0.39 i_pae 0.42 con 2.57 i_con 2.85 plddt 0.73 ptm 0.85 i_ptm 0.76 rg 0.28
+37 models [1] recycles 1 hard 0 soft 0.67 temp 1 loss 4.50 helix 1.58 pae 0.31 i_pae 0.34 con 2.13 i_con 2.51 plddt 0.81 ptm 0.87 i_ptm 0.83 rg 0.48
+38 models [0] recycles 1 hard 0 soft 0.68 temp 1 loss 7.56 helix 1.31 pae 0.67 i_pae 0.73 con 3.13 i_con 4.17 plddt 0.48 ptm 0.78 i_ptm 0.32 rg 0.77
+39 models [1] recycles 1 hard 0 soft 0.70 temp 1 loss 4.37 helix 1.64 pae 0.31 i_pae 0.34 con 2.15 i_con 2.40 plddt 0.81 ptm 0.87 i_ptm 0.85 rg 0.41
+40 models [2] recycles 1 hard 0 soft 0.72 temp 1 loss 7.06 helix 1.33 pae 0.67 i_pae 0.74 con 2.91 i_con 4.16 plddt 0.56 ptm 0.76 i_ptm 0.31 rg -0.10
+41 models [4] recycles 1 hard 0 soft 0.74 temp 1 loss 4.13 helix 1.84 pae 0.30 i_pae 0.33 con 2.01 i_con 2.38 plddt 0.84 ptm 0.86 i_ptm 0.85 rg 0.37
+42 models [3] recycles 1 hard 0 soft 0.76 temp 1 loss 4.30 helix 1.63 pae 0.30 i_pae 0.33 con 2.11 i_con 2.41 plddt 0.83 ptm 0.88 i_ptm 0.85 rg 0.32
+43 models [4] recycles 1 hard 0 soft 0.77 temp 1 loss 4.99 helix 1.52 pae 0.39 i_pae 0.42 con 2.37 i_con 2.75 plddt 0.73 ptm 0.85 i_ptm 0.78 rg 0.33
+44 models [3] recycles 1 hard 0 soft 0.79 temp 1 loss 4.61 helix 1.64 pae 0.32 i_pae 0.35 con 2.27 i_con 2.46 plddt 0.79 ptm 0.87 i_ptm 0.85 rg 0.58
+45 models [1] recycles 1 hard 0 soft 0.81 temp 1 loss 4.52 helix 1.69 pae 0.33 i_pae 0.36 con 2.18 i_con 2.57 plddt 0.80 ptm 0.87 i_ptm 0.82 rg 0.24
+46 models [1] recycles 1 hard 0 soft 0.83 temp 1 loss 4.11 helix 1.77 pae 0.29 i_pae 0.32 con 2.06 i_con 2.32 plddt 0.84 ptm 0.87 i_ptm 0.88 rg 0.27
+47 models [2] recycles 1 hard 0 soft 0.85 temp 1 loss 4.33 helix 1.69 pae 0.31 i_pae 0.35 con 2.15 i_con 2.44 plddt 0.84 ptm 0.86 i_ptm 0.86 rg 0.22
+48 models [4] recycles 1 hard 0 soft 0.86 temp 1 loss 4.06 helix 1.87 pae 0.29 i_pae 0.32 con 2.02 i_con 2.34 plddt 0.86 ptm 0.87 i_ptm 0.87 rg 0.30
+49 models [0] recycles 1 hard 0 soft 0.88 temp 1 loss 6.37 helix 1.19 pae 0.48 i_pae 0.50 con 3.11 i_con 3.19 plddt 0.60 ptm 0.83 i_ptm 0.66 rg 0.44
+50 models [4] recycles 1 hard 0 soft 0.90 temp 1 loss 4.60 helix 1.58 pae 0.35 i_pae 0.38 con 2.23 i_con 2.52 plddt 0.79 ptm 0.85 i_ptm 0.83 rg 0.39
+Initial trajectory pLDDT good, continuing: 0.86
+Stage 1: Additional Logits Optimisation
+51 models [0] recycles 1 hard 0 soft 0.04 temp 1 loss 5.21 helix 1.97 pae 0.47 i_pae 0.55 con 1.99 i_con 3.53 plddt 0.79 ptm 0.81 i_ptm 0.52 rg -0.03
+52 models [1] recycles 1 hard 0 soft 0.08 temp 1 loss 4.09 helix 2.14 pae 0.30 i_pae 0.34 con 2.00 i_con 2.48 plddt 0.83 ptm 0.87 i_ptm 0.84 rg 0.26
+53 models [2] recycles 1 hard 0 soft 0.12 temp 1 loss 4.20 helix 1.83 pae 0.29 i_pae 0.32 con 2.08 i_con 2.39 plddt 0.86 ptm 0.86 i_ptm 0.85 rg 0.35
+54 models [1] recycles 1 hard 0 soft 0.16 temp 1 loss 3.59 helix 2.15 pae 0.26 i_pae 0.29 con 1.80 i_con 2.18 plddt 0.89 ptm 0.88 i_ptm 0.88 rg 0.36
+55 models [1] recycles 1 hard 0 soft 0.20 temp 1 loss 5.76 helix 1.93 pae 0.62 i_pae 0.73 con 1.99 i_con 4.01 plddt 0.76 ptm 0.78 i_ptm 0.29 rg -0.16
+56 models [4] recycles 1 hard 0 soft 0.24 temp 1 loss 7.61 helix 1.29 pae 0.78 i_pae 0.85 con 3.17 i_con 4.58 plddt 0.42 ptm 0.76 i_ptm 0.18 rg -0.85
+57 models [3] recycles 1 hard 0 soft 0.28 temp 1 loss 3.42 helix 2.11 pae 0.24 i_pae 0.27 con 1.75 i_con 2.07 plddt 0.91 ptm 0.89 i_ptm 0.91 rg 0.30
+58 models [2] recycles 1 hard 0 soft 0.32 temp 1 loss 7.36 helix 4.10 pae 0.81 i_pae 0.82 con 4.42 i_con 3.94 plddt 0.21 ptm 0.20 i_ptm 0.18 rg -0.98
+59 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 9.12 helix 1.32 pae 0.83 i_pae 0.88 con 3.98 i_con 4.75 plddt 0.31 ptm 0.77 i_ptm 0.16 rg 0.86
+60 models [4] recycles 1 hard 0 soft 0.40 temp 1 loss 3.95 helix 2.02 pae 0.32 i_pae 0.36 con 1.90 i_con 2.64 plddt 0.62 ptm 0.86 i_ptm 0.81 rg -0.65
+61 models [3] recycles 1 hard 0 soft 0.44 temp 1 loss 3.68 helix 2.05 pae 0.25 i_pae 0.28 con 1.85 i_con 2.19 plddt 0.88 ptm 0.89 i_ptm 0.90 rg 0.37
+62 models [2] recycles 1 hard 0 soft 0.48 temp 1 loss 3.99 helix 2.03 pae 0.28 i_pae 0.32 con 1.93 i_con 2.39 plddt 0.88 ptm 0.87 i_ptm 0.85 rg 0.37
+63 models [2] recycles 1 hard 0 soft 0.52 temp 1 loss 4.21 helix 1.88 pae 0.30 i_pae 0.34 con 2.06 i_con 2.44 plddt 0.86 ptm 0.86 i_ptm 0.84 rg 0.32
+64 models [1] recycles 1 hard 0 soft 0.56 temp 1 loss 3.78 helix 2.11 pae 0.27 i_pae 0.30 con 1.81 i_con 2.33 plddt 0.89 ptm 0.88 i_ptm 0.86 rg 0.39
+65 models [1] recycles 1 hard 0 soft 0.60 temp 1 loss 3.69 helix 2.11 pae 0.26 i_pae 0.30 con 1.81 i_con 2.27 plddt 0.89 ptm 0.87 i_ptm 0.88 rg 0.30
+66 models [0] recycles 1 hard 0 soft 0.64 temp 1 loss 4.14 helix 2.03 pae 0.30 i_pae 0.34 con 1.96 i_con 2.52 plddt 0.85 ptm 0.86 i_ptm 0.82 rg 0.29
+67 models [1] recycles 1 hard 0 soft 0.68 temp 1 loss 3.68 helix 2.13 pae 0.26 i_pae 0.29 con 1.84 i_con 2.24 plddt 0.89 ptm 0.87 i_ptm 0.88 rg 0.28
+68 models [4] recycles 1 hard 0 soft 0.72 temp 1 loss 4.12 helix 1.93 pae 0.28 i_pae 0.31 con 2.07 i_con 2.34 plddt 0.85 ptm 0.88 i_ptm 0.87 rg 0.41
+69 models [3] recycles 1 hard 0 soft 0.76 temp 1 loss 3.78 helix 2.00 pae 0.26 i_pae 0.30 con 1.90 i_con 2.22 plddt 0.89 ptm 0.88 i_ptm 0.89 rg 0.33
+70 models [1] recycles 1 hard 0 soft 0.80 temp 1 loss 3.87 helix 2.08 pae 0.27 i_pae 0.31 con 1.91 i_con 2.32 plddt 0.87 ptm 0.88 i_ptm 0.87 rg 0.36
+71 models [1] recycles 1 hard 0 soft 0.84 temp 1 loss 3.76 helix 2.05 pae 0.27 i_pae 0.31 con 1.85 i_con 2.28 plddt 0.88 ptm 0.87 i_ptm 0.87 rg 0.26
+72 models [3] recycles 1 hard 0 soft 0.88 temp 1 loss 4.83 helix 1.64 pae 0.34 i_pae 0.38 con 2.36 i_con 2.65 plddt 0.78 ptm 0.87 i_ptm 0.82 rg 0.35
+73 models [0] recycles 1 hard 0 soft 0.92 temp 1 loss 4.09 helix 1.95 pae 0.29 i_pae 0.33 con 1.98 i_con 2.44 plddt 0.86 ptm 0.85 i_ptm 0.85 rg 0.29
+74 models [2] recycles 1 hard 0 soft 0.96 temp 1 loss 4.33 helix 1.73 pae 0.33 i_pae 0.37 con 2.08 i_con 2.48 plddt 0.84 ptm 0.84 i_ptm 0.84 rg 0.30
+75 models [4] recycles 1 hard 0 soft 1 temp 1 loss 7.15 helix 1.09 pae 0.64 i_pae 0.70 con 3.19 i_con 3.96 plddt 0.50 ptm 0.79 i_ptm 0.38 rg -0.25
+Optimised logit trajectory pLDDT: 0.91
+Stage 2: Softmax Optimisation
+76 models [4] recycles 1 hard 0 soft 1 temp 0.96 loss 4.19 helix 1.70 pae 0.32 i_pae 0.36 con 2.01 i_con 2.41 plddt 0.82 ptm 0.85 i_ptm 0.85 rg 0.30
+77 models [1] recycles 1 hard 0 soft 1 temp 0.91 loss 6.58 helix 1.59 pae 0.67 i_pae 0.78 con 2.42 i_con 4.35 plddt 0.63 ptm 0.78 i_ptm 0.27 rg -0.40
+78 models [0] recycles 1 hard 0 soft 1 temp 0.87 loss 3.94 helix 1.78 pae 0.28 i_pae 0.31 con 1.89 i_con 2.32 plddt 0.87 ptm 0.87 i_ptm 0.86 rg 0.31
+79 models [4] recycles 1 hard 0 soft 1 temp 0.83 loss 4.44 helix 1.67 pae 0.31 i_pae 0.34 con 2.15 i_con 2.50 plddt 0.82 ptm 0.87 i_ptm 0.83 rg 0.35
+80 models [3] recycles 1 hard 0 soft 1 temp 0.79 loss 4.14 helix 1.62 pae 0.30 i_pae 0.33 con 2.03 i_con 2.31 plddt 0.83 ptm 0.87 i_ptm 0.87 rg 0.35
+81 models [3] recycles 1 hard 0 soft 1 temp 0.75 loss 3.34 helix 2.16 pae 0.24 i_pae 0.26 con 1.69 i_con 2.08 plddt 0.91 ptm 0.89 i_ptm 0.90 rg 0.30
+82 models [4] recycles 1 hard 0 soft 1 temp 0.72 loss 3.85 helix 2.09 pae 0.32 i_pae 0.37 con 1.89 i_con 2.34 plddt 0.84 ptm 0.84 i_ptm 0.85 rg 0.21
+83 models [4] recycles 1 hard 0 soft 1 temp 0.68 loss 4.33 helix 1.80 pae 0.33 i_pae 0.36 con 2.15 i_con 2.46 plddt 0.79 ptm 0.86 i_ptm 0.83 rg 0.24
+84 models [2] recycles 1 hard 0 soft 1 temp 0.64 loss 5.57 helix 1.89 pae 0.57 i_pae 0.67 con 2.02 i_con 3.80 plddt 0.76 ptm 0.78 i_ptm 0.39 rg -0.13
+85 models [0] recycles 1 hard 0 soft 1 temp 0.61 loss 4.02 helix 1.79 pae 0.29 i_pae 0.32 con 2.00 i_con 2.32 plddt 0.84 ptm 0.86 i_ptm 0.85 rg 0.24
+86 models [2] recycles 1 hard 0 soft 1 temp 0.58 loss 3.97 helix 1.94 pae 0.29 i_pae 0.32 con 1.97 i_con 2.35 plddt 0.87 ptm 0.86 i_ptm 0.86 rg 0.24
+87 models [2] recycles 1 hard 0 soft 1 temp 0.54 loss 3.86 helix 2.05 pae 0.27 i_pae 0.31 con 1.94 i_con 2.30 plddt 0.88 ptm 0.87 i_ptm 0.87 rg 0.26
+88 models [1] recycles 1 hard 0 soft 1 temp 0.51 loss 3.86 helix 1.98 pae 0.26 i_pae 0.29 con 1.92 i_con 2.30 plddt 0.87 ptm 0.88 i_ptm 0.87 rg 0.27
+89 models [4] recycles 1 hard 0 soft 1 temp 0.48 loss 3.77 helix 2.06 pae 0.28 i_pae 0.32 con 1.87 i_con 2.26 plddt 0.87 ptm 0.86 i_ptm 0.86 rg 0.30
+90 models [3] recycles 1 hard 0 soft 1 temp 0.45 loss 3.59 helix 2.13 pae 0.25 i_pae 0.28 con 1.79 i_con 2.21 plddt 0.90 ptm 0.89 i_ptm 0.89 rg 0.27
+91 models [3] recycles 1 hard 0 soft 1 temp 0.42 loss 3.65 helix 2.15 pae 0.25 i_pae 0.28 con 1.81 i_con 2.28 plddt 0.90 ptm 0.88 i_ptm 0.88 rg 0.19
+92 models [3] recycles 1 hard 0 soft 1 temp 0.39 loss 3.73 helix 2.08 pae 0.26 i_pae 0.29 con 1.85 i_con 2.27 plddt 0.89 ptm 0.88 i_ptm 0.89 rg 0.26
+93 models [4] recycles 1 hard 0 soft 1 temp 0.37 loss 6.31 helix 1.69 pae 0.66 i_pae 0.76 con 2.28 i_con 4.19 plddt 0.69 ptm 0.78 i_ptm 0.27 rg -0.17
+94 models [1] recycles 1 hard 0 soft 1 temp 0.34 loss 3.67 helix 2.15 pae 0.26 i_pae 0.29 con 1.80 i_con 2.31 plddt 0.88 ptm 0.87 i_ptm 0.87 rg 0.17
+95 models [1] recycles 1 hard 0 soft 1 temp 0.32 loss 3.64 helix 2.06 pae 0.26 i_pae 0.29 con 1.83 i_con 2.23 plddt 0.88 ptm 0.88 i_ptm 0.89 rg 0.17
+96 models [4] recycles 1 hard 0 soft 1 temp 0.29 loss 3.96 helix 1.96 pae 0.30 i_pae 0.34 con 1.94 i_con 2.37 plddt 0.84 ptm 0.86 i_ptm 0.85 rg 0.19
+97 models [4] recycles 1 hard 0 soft 1 temp 0.27 loss 4.53 helix 1.95 pae 0.36 i_pae 0.40 con 2.12 i_con 2.71 plddt 0.80 ptm 0.84 i_ptm 0.78 rg 0.25
+98 models [1] recycles 1 hard 0 soft 1 temp 0.25 loss 4.80 helix 1.89 pae 0.37 i_pae 0.43 con 2.10 i_con 3.05 plddt 0.81 ptm 0.85 i_ptm 0.66 rg -0.03
+99 models [2] recycles 1 hard 0 soft 1 temp 0.23 loss 3.87 helix 2.10 pae 0.28 i_pae 0.31 con 1.91 i_con 2.36 plddt 0.88 ptm 0.87 i_ptm 0.87 rg 0.23
+100 models [3] recycles 1 hard 0 soft 1 temp 0.21 loss 3.76 helix 2.30 pae 0.28 i_pae 0.32 con 1.77 i_con 2.44 plddt 0.89 ptm 0.87 i_ptm 0.83 rg 0.23
+101 models [0] recycles 1 hard 0 soft 1 temp 0.19 loss 3.74 helix 2.10 pae 0.26 i_pae 0.29 con 1.87 i_con 2.28 plddt 0.88 ptm 0.87 i_ptm 0.87 rg 0.20
+102 models [2] recycles 1 hard 0 soft 1 temp 0.17 loss 4.38 helix 1.99 pae 0.34 i_pae 0.38 con 2.01 i_con 2.71 plddt 0.84 ptm 0.85 i_ptm 0.76 rg 0.18
+103 models [4] recycles 1 hard 0 soft 1 temp 0.15 loss 4.09 helix 2.05 pae 0.32 i_pae 0.36 con 1.95 i_con 2.52 plddt 0.84 ptm 0.85 i_ptm 0.83 rg 0.15
+104 models [0] recycles 1 hard 0 soft 1 temp 0.14 loss 4.00 helix 1.99 pae 0.29 i_pae 0.32 con 1.91 i_con 2.45 plddt 0.86 ptm 0.87 i_ptm 0.85 rg 0.24
+105 models [2] recycles 1 hard 0 soft 1 temp 0.12 loss 4.17 helix 2.00 pae 0.33 i_pae 0.37 con 1.95 i_con 2.58 plddt 0.86 ptm 0.85 i_ptm 0.79 rg 0.14
+106 models [2] recycles 1 hard 0 soft 1 temp 0.11 loss 4.29 helix 1.92 pae 0.31 i_pae 0.35 con 2.06 i_con 2.58 plddt 0.85 ptm 0.86 i_ptm 0.81 rg 0.15
+107 models [0] recycles 1 hard 0 soft 1 temp 0.09 loss 7.63 helix 1.51 pae 0.74 i_pae 0.81 con 3.20 i_con 4.48 plddt 0.43 ptm 0.76 i_ptm 0.22 rg -0.23
+108 models [0] recycles 1 hard 0 soft 1 temp 0.08 loss 4.16 helix 1.96 pae 0.30 i_pae 0.33 con 2.03 i_con 2.48 plddt 0.84 ptm 0.86 i_ptm 0.84 rg 0.21
+109 models [1] recycles 1 hard 0 soft 1 temp 0.07 loss 5.65 helix 1.82 pae 0.43 i_pae 0.47 con 2.38 i_con 3.27 plddt 0.68 ptm 0.84 i_ptm 0.62 rg 0.92
+110 models [4] recycles 1 hard 0 soft 1 temp 0.06 loss 4.07 helix 2.00 pae 0.29 i_pae 0.32 con 2.05 i_con 2.38 plddt 0.84 ptm 0.87 i_ptm 0.87 rg 0.23
+111 models [0] recycles 1 hard 0 soft 1 temp 0.05 loss 4.20 helix 1.97 pae 0.29 i_pae 0.32 con 2.09 i_con 2.48 plddt 0.84 ptm 0.88 i_ptm 0.85 rg 0.16
+112 models [3] recycles 1 hard 0 soft 1 temp 0.04 loss 6.48 helix 1.80 pae 0.69 i_pae 0.80 con 2.22 i_con 4.46 plddt 0.70 ptm 0.77 i_ptm 0.23 rg -0.27
+113 models [2] recycles 1 hard 0 soft 1 temp 0.03 loss 4.69 helix 1.93 pae 0.37 i_pae 0.43 con 2.15 i_con 2.85 plddt 0.82 ptm 0.84 i_ptm 0.74 rg 0.16
+114 models [3] recycles 1 hard 0 soft 1 temp 0.03 loss 3.96 helix 2.03 pae 0.28 i_pae 0.31 con 1.98 i_con 2.36 plddt 0.86 ptm 0.87 i_ptm 0.88 rg 0.23
+115 models [1] recycles 1 hard 0 soft 1 temp 0.02 loss 4.20 helix 1.98 pae 0.31 i_pae 0.35 con 2.02 i_con 2.53 plddt 0.83 ptm 0.86 i_ptm 0.82 rg 0.16
+116 models [3] recycles 1 hard 0 soft 1 temp 0.02 loss 4.15 helix 2.00 pae 0.29 i_pae 0.32 con 2.02 i_con 2.49 plddt 0.84 ptm 0.88 i_ptm 0.85 rg 0.24
+117 models [3] recycles 1 hard 0 soft 1 temp 0.01 loss 3.98 helix 2.09 pae 0.29 i_pae 0.32 con 1.91 i_con 2.45 plddt 0.87 ptm 0.87 i_ptm 0.85 rg 0.25
+118 models [0] recycles 1 hard 0 soft 1 temp 0.01 loss 4.22 helix 1.90 pae 0.30 i_pae 0.33 con 2.10 i_con 2.46 plddt 0.83 ptm 0.87 i_ptm 0.85 rg 0.21
+119 models [1] recycles 1 hard 0 soft 1 temp 0.01 loss 5.65 helix 1.90 pae 0.51 i_pae 0.59 con 2.21 i_con 3.69 plddt 0.74 ptm 0.81 i_ptm 0.44 rg -0.02
+120 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 4.50 helix 1.89 pae 0.34 i_pae 0.38 con 2.16 i_con 2.65 plddt 0.82 ptm 0.85 i_ptm 0.80 rg 0.16
+Softmax trajectory pLDDT good, continuing: 0.91
+Stage 3: One-hot Optimisation
+121 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 3.90 helix 2.06 pae 0.27 i_pae 0.31 con 1.94 i_con 2.36 plddt 0.85 ptm 0.87 i_ptm 0.87 rg 0.22
+122 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 4.45 helix 1.97 pae 0.32 i_pae 0.36 con 2.15 i_con 2.58 plddt 0.77 ptm 0.86 i_ptm 0.84 rg 0.36
+123 models [0] recycles 1 hard 1 soft 1 temp 0.01 loss 3.90 helix 2.06 pae 0.27 i_pae 0.31 con 1.94 i_con 2.36 plddt 0.85 ptm 0.87 i_ptm 0.87 rg 0.22
+124 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 4.04 helix 2.05 pae 0.28 i_pae 0.32 con 1.99 i_con 2.42 plddt 0.83 ptm 0.87 i_ptm 0.86 rg 0.27
+125 models [3] recycles 1 hard 1 soft 1 temp 0.01 loss 3.76 helix 2.18 pae 0.27 i_pae 0.30 con 1.84 i_con 2.34 plddt 0.88 ptm 0.88 i_ptm 0.87 rg 0.27
+One-hot trajectory pLDDT good, continuing: 0.88
+Stage 4: PSSM Semigreedy Optimisation
+Running semigreedy optimization...
+126 models [1] recycles 1 hard 1 soft 0 temp 1 loss 3.73 helix 2.09 pae 0.26 i_pae 0.29 con 1.86 i_con 2.29 plddt 0.87 ptm 0.88 i_ptm 0.88 rg 0.22
+127 models [3] recycles 1 hard 1 soft 0 temp 1 loss 3.70 helix 2.20 pae 0.26 i_pae 0.29 con 1.80 i_con 2.32 plddt 0.89 ptm 0.88 i_ptm 0.88 rg 0.31
+128 models [1] recycles 1 hard 1 soft 0 temp 1 loss 3.70 helix 2.07 pae 0.26 i_pae 0.29 con 1.83 i_con 2.28 plddt 0.87 ptm 0.88 i_ptm 0.88 rg 0.19
+129 models [0] recycles 1 hard 1 soft 0 temp 1 loss 3.79 helix 2.08 pae 0.27 i_pae 0.30 con 1.86 i_con 2.33 plddt 0.86 ptm 0.86 i_ptm 0.87 rg 0.20
+130 models [3] recycles 1 hard 1 soft 0 temp 1 loss 3.78 helix 2.19 pae 0.28 i_pae 0.31 con 1.83 i_con 2.36 plddt 0.88 ptm 0.87 i_ptm 0.87 rg 0.31
+131 models [1] recycles 1 hard 1 soft 0 temp 1 loss 4.02 helix 1.92 pae 0.28 i_pae 0.31 con 1.99 i_con 2.37 plddt 0.83 ptm 0.88 i_ptm 0.87 rg 0.23
+132 models [4] recycles 1 hard 1 soft 0 temp 1 loss 7.78 helix 1.92 pae 0.76 i_pae 0.84 con 2.95 i_con 4.90 plddt 0.41 ptm 0.75 i_ptm 0.19 rg 0.04
+133 models [0] recycles 1 hard 1 soft 0 temp 1 loss 5.25 helix 1.92 pae 0.41 i_pae 0.45 con 2.45 i_con 3.04 plddt 0.68 ptm 0.83 i_ptm 0.72 rg 0.32
+134 models [4] recycles 1 hard 1 soft 0 temp 1 loss 7.70 helix 1.77 pae 0.71 i_pae 0.76 con 3.10 i_con 4.15 plddt 0.42 ptm 0.77 i_ptm 0.34 rg 1.74
+135 models [2] recycles 1 hard 1 soft 0 temp 1 loss 4.92 helix 1.86 pae 0.36 i_pae 0.39 con 2.39 i_con 2.69 plddt 0.75 ptm 0.85 i_ptm 0.81 rg 0.61
+136 models [0] recycles 1 hard 1 soft 0 temp 1 loss 4.98 helix 1.95 pae 0.38 i_pae 0.41 con 2.32 i_con 2.89 plddt 0.71 ptm 0.84 i_ptm 0.74 rg 0.39
+137 models [2] recycles 1 hard 1 soft 0 temp 1 loss 4.74 helix 1.83 pae 0.35 i_pae 0.39 con 2.25 i_con 2.69 plddt 0.77 ptm 0.85 i_ptm 0.80 rg 0.45
+138 models [4] recycles 1 hard 1 soft 0 temp 1 loss 6.58 helix 1.74 pae 0.56 i_pae 0.61 con 2.97 i_con 3.59 plddt 0.54 ptm 0.79 i_ptm 0.51 rg 0.62
+139 models [3] recycles 1 hard 1 soft 0 temp 1 loss 4.82 helix 1.95 pae 0.34 i_pae 0.37 con 2.30 i_con 2.63 plddt 0.76 ptm 0.87 i_ptm 0.82 rg 0.86
+140 models [0] recycles 1 hard 1 soft 0 temp 1 loss 4.57 helix 2.13 pae 0.34 i_pae 0.37 con 2.15 i_con 2.62 plddt 0.76 ptm 0.85 i_ptm 0.81 rg 0.76
+Trajectory successful, final pLDDT: 0.87
+Starting trajectory took: 0 hours, 39 minutes, 5 seconds
+
+Fixing interface residues: B6,B7,B10,B11,B14,B15,B17,B18,B51,B54,B55,B58,B59,B62,B63,B65,B66
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn1, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn2, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn3, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn4, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn5, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn6, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn7, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn8, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn9, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn10, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn11, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn12, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn13, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn14, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn15, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn16, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn17, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn18, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn19, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l85_s226391_mpnn20, skipping interface scoring
+No accepted MPNN designs found for this trajectory.
+Design and validation of trajectory 2q06_trimmed_moderate_l85_s226391 took: 0 hours, 4 minutes, 31 seconds
+Starting trajectory: 2q06_trimmed_moderate_l149_s17686
+Stage 1: Test Logits
+1 models [2] recycles 1 hard 0 soft 0.02 temp 1 loss 13.96 helix 1.53 pae 0.92 i_pae 0.95 con 4.71 i_con 5.00 plddt 0.23 ptm 0.65 i_ptm 0.11 rg 13.75
+2 models [1] recycles 1 hard 0 soft 0.04 temp 1 loss 11.43 helix 1.39 pae 0.87 i_pae 0.90 con 4.66 i_con 5.06 plddt 0.26 ptm 0.69 i_ptm 0.15 rg 5.23
+3 models [1] recycles 1 hard 0 soft 0.05 temp 1 loss 10.95 helix 0.97 pae 0.87 i_pae 0.92 con 4.35 i_con 5.05 plddt 0.30 ptm 0.67 i_ptm 0.14 rg 4.28
+4 models [1] recycles 1 hard 0 soft 0.07 temp 1 loss 10.28 helix 0.71 pae 0.84 i_pae 0.90 con 4.09 i_con 4.98 plddt 0.33 ptm 0.69 i_ptm 0.15 rg 2.96
+5 models [3] recycles 1 hard 0 soft 0.09 temp 1 loss 10.23 helix 0.95 pae 0.87 i_pae 0.92 con 4.16 i_con 5.34 plddt 0.32 ptm 0.67 i_ptm 0.14 rg 1.58
+6 models [4] recycles 1 hard 0 soft 0.11 temp 1 loss 9.30 helix 0.90 pae 0.84 i_pae 0.89 con 4.14 i_con 5.10 plddt 0.30 ptm 0.67 i_ptm 0.16 rg -0.73
+7 models [3] recycles 1 hard 0 soft 0.13 temp 1 loss 8.94 helix 0.92 pae 0.79 i_pae 0.85 con 3.79 i_con 5.13 plddt 0.35 ptm 0.69 i_ptm 0.20 rg -0.69
+8 models [2] recycles 1 hard 0 soft 0.14 temp 1 loss 8.86 helix 0.88 pae 0.80 i_pae 0.88 con 3.63 i_con 5.22 plddt 0.39 ptm 0.66 i_ptm 0.17 rg -0.80
+9 models [0] recycles 1 hard 0 soft 0.16 temp 1 loss 8.47 helix 0.86 pae 0.75 i_pae 0.83 con 3.29 i_con 5.16 plddt 0.43 ptm 0.68 i_ptm 0.21 rg -0.65
+10 models [3] recycles 1 hard 0 soft 0.18 temp 1 loss 7.75 helix 0.88 pae 0.63 i_pae 0.70 con 3.12 i_con 4.64 plddt 0.50 ptm 0.74 i_ptm 0.35 rg -0.49
+11 models [1] recycles 1 hard 0 soft 0.20 temp 1 loss 7.19 helix 0.91 pae 0.52 i_pae 0.56 con 2.94 i_con 4.26 plddt 0.56 ptm 0.79 i_ptm 0.48 rg -0.23
+12 models [4] recycles 1 hard 0 soft 0.22 temp 1 loss 7.02 helix 0.82 pae 0.57 i_pae 0.62 con 2.71 i_con 4.26 plddt 0.56 ptm 0.75 i_ptm 0.42 rg -0.20
+13 models [4] recycles 1 hard 0 soft 0.23 temp 1 loss 7.36 helix 0.79 pae 0.58 i_pae 0.65 con 2.85 i_con 4.52 plddt 0.55 ptm 0.74 i_ptm 0.39 rg -0.47
+14 models [2] recycles 1 hard 0 soft 0.25 temp 1 loss 6.88 helix 0.91 pae 0.53 i_pae 0.58 con 2.79 i_con 4.16 plddt 0.58 ptm 0.76 i_ptm 0.47 rg -0.47
+15 models [4] recycles 1 hard 0 soft 0.27 temp 1 loss 6.83 helix 0.84 pae 0.46 i_pae 0.51 con 2.60 i_con 4.21 plddt 0.64 ptm 0.79 i_ptm 0.52 rg -0.11
+16 models [2] recycles 1 hard 0 soft 0.29 temp 1 loss 6.62 helix 0.89 pae 0.46 i_pae 0.52 con 2.51 i_con 4.17 plddt 0.67 ptm 0.79 i_ptm 0.51 rg -0.29
+17 models [1] recycles 1 hard 0 soft 0.31 temp 1 loss 6.19 helix 0.96 pae 0.35 i_pae 0.39 con 2.32 i_con 3.93 plddt 0.74 ptm 0.84 i_ptm 0.65 rg 0.04
+18 models [3] recycles 1 hard 0 soft 0.32 temp 1 loss 6.17 helix 0.89 pae 0.34 i_pae 0.38 con 2.41 i_con 3.76 plddt 0.73 ptm 0.85 i_ptm 0.67 rg 0.18
+19 models [3] recycles 1 hard 0 soft 0.34 temp 1 loss 5.80 helix 1.01 pae 0.29 i_pae 0.32 con 2.19 i_con 3.68 plddt 0.78 ptm 0.87 i_ptm 0.75 rg 0.15
+20 models [3] recycles 1 hard 0 soft 0.36 temp 1 loss 5.92 helix 0.96 pae 0.31 i_pae 0.36 con 2.16 i_con 3.84 plddt 0.79 ptm 0.85 i_ptm 0.68 rg 0.04
+21 models [1] recycles 1 hard 0 soft 0.38 temp 1 loss 5.83 helix 1.02 pae 0.30 i_pae 0.35 con 2.18 i_con 3.75 plddt 0.77 ptm 0.84 i_ptm 0.69 rg 0.05
+22 models [4] recycles 1 hard 0 soft 0.40 temp 1 loss 5.67 helix 1.04 pae 0.33 i_pae 0.39 con 2.08 i_con 3.70 plddt 0.80 ptm 0.82 i_ptm 0.65 rg -0.01
+23 models [2] recycles 1 hard 0 soft 0.41 temp 1 loss 5.58 helix 1.08 pae 0.37 i_pae 0.45 con 1.99 i_con 3.71 plddt 0.82 ptm 0.79 i_ptm 0.57 rg -0.08
+24 models [2] recycles 1 hard 0 soft 0.43 temp 1 loss 7.07 helix 0.85 pae 0.55 i_pae 0.64 con 2.60 i_con 4.48 plddt 0.66 ptm 0.74 i_ptm 0.38 rg -0.35
+25 models [3] recycles 1 hard 0 soft 0.45 temp 1 loss 6.77 helix 1.03 pae 0.50 i_pae 0.60 con 2.38 i_con 4.48 plddt 0.72 ptm 0.77 i_ptm 0.41 rg -0.34
+26 models [3] recycles 1 hard 0 soft 0.47 temp 1 loss 7.10 helix 1.08 pae 0.56 i_pae 0.64 con 2.68 i_con 4.53 plddt 0.62 ptm 0.75 i_ptm 0.38 rg -0.47
+27 models [2] recycles 1 hard 0 soft 0.49 temp 1 loss 5.30 helix 1.17 pae 0.25 i_pae 0.28 con 2.10 i_con 3.40 plddt 0.83 ptm 0.88 i_ptm 0.80 rg -0.04
+28 models [1] recycles 1 hard 0 soft 0.50 temp 1 loss 5.41 helix 1.19 pae 0.26 i_pae 0.29 con 2.05 i_con 3.56 plddt 0.82 ptm 0.87 i_ptm 0.76 rg -0.01
+29 models [1] recycles 1 hard 0 soft 0.52 temp 1 loss 5.59 helix 1.16 pae 0.28 i_pae 0.33 con 2.13 i_con 3.64 plddt 0.80 ptm 0.86 i_ptm 0.74 rg -0.04
+30 models [0] recycles 1 hard 0 soft 0.54 temp 1 loss 5.32 helix 1.26 pae 0.26 i_pae 0.29 con 1.99 i_con 3.57 plddt 0.83 ptm 0.85 i_ptm 0.78 rg -0.06
+31 models [2] recycles 1 hard 0 soft 0.56 temp 1 loss 5.19 helix 1.18 pae 0.24 i_pae 0.27 con 2.07 i_con 3.32 plddt 0.84 ptm 0.88 i_ptm 0.83 rg -0.01
+32 models [3] recycles 1 hard 0 soft 0.58 temp 1 loss 4.86 helix 1.32 pae 0.21 i_pae 0.25 con 1.76 i_con 3.38 plddt 0.89 ptm 0.89 i_ptm 0.82 rg -0.04
+33 models [3] recycles 1 hard 0 soft 0.59 temp 1 loss 4.69 helix 1.34 pae 0.22 i_pae 0.26 con 1.75 i_con 3.23 plddt 0.88 ptm 0.88 i_ptm 0.83 rg -0.06
+34 models [0] recycles 1 hard 0 soft 0.61 temp 1 loss 4.61 helix 1.40 pae 0.23 i_pae 0.26 con 1.75 i_con 3.20 plddt 0.87 ptm 0.86 i_ptm 0.81 rg -0.19
+35 models [1] recycles 1 hard 0 soft 0.63 temp 1 loss 4.73 helix 1.47 pae 0.24 i_pae 0.27 con 1.93 i_con 3.14 plddt 0.83 ptm 0.88 i_ptm 0.83 rg -0.16
+36 models [2] recycles 1 hard 0 soft 0.65 temp 1 loss 4.61 helix 1.33 pae 0.23 i_pae 0.27 con 1.84 i_con 3.06 plddt 0.87 ptm 0.86 i_ptm 0.84 rg -0.12
+37 models [2] recycles 1 hard 0 soft 0.67 temp 1 loss 4.79 helix 1.30 pae 0.24 i_pae 0.28 con 1.88 i_con 3.21 plddt 0.87 ptm 0.87 i_ptm 0.82 rg -0.14
+38 models [1] recycles 1 hard 0 soft 0.68 temp 1 loss 5.46 helix 1.31 pae 0.37 i_pae 0.46 con 1.79 i_con 3.93 plddt 0.82 ptm 0.80 i_ptm 0.57 rg -0.32
+39 models [4] recycles 1 hard 0 soft 0.70 temp 1 loss 4.66 helix 1.19 pae 0.24 i_pae 0.27 con 1.81 i_con 3.12 plddt 0.86 ptm 0.87 i_ptm 0.79 rg -0.19
+40 models [3] recycles 1 hard 0 soft 0.72 temp 1 loss 4.45 helix 1.37 pae 0.20 i_pae 0.24 con 1.73 i_con 3.04 plddt 0.88 ptm 0.90 i_ptm 0.84 rg -0.11
+41 models [1] recycles 1 hard 0 soft 0.74 temp 1 loss 6.39 helix 1.04 pae 0.39 i_pae 0.42 con 2.56 i_con 3.89 plddt 0.66 ptm 0.83 i_ptm 0.64 rg 0.01
+42 models [1] recycles 1 hard 0 soft 0.76 temp 1 loss 4.99 helix 1.23 pae 0.25 i_pae 0.28 con 2.02 i_con 3.22 plddt 0.80 ptm 0.88 i_ptm 0.78 rg -0.10
+43 models [2] recycles 1 hard 0 soft 0.77 temp 1 loss 4.48 helix 1.22 pae 0.22 i_pae 0.26 con 1.75 i_con 3.02 plddt 0.88 ptm 0.87 i_ptm 0.82 rg -0.19
+44 models [0] recycles 1 hard 0 soft 0.79 temp 1 loss 4.40 helix 1.44 pae 0.22 i_pae 0.26 con 1.64 i_con 3.10 plddt 0.89 ptm 0.86 i_ptm 0.81 rg -0.15
+45 models [3] recycles 1 hard 0 soft 0.81 temp 1 loss 4.37 helix 1.37 pae 0.21 i_pae 0.24 con 1.71 i_con 3.01 plddt 0.89 ptm 0.88 i_ptm 0.83 rg -0.20
+46 models [3] recycles 1 hard 0 soft 0.83 temp 1 loss 4.17 helix 1.38 pae 0.19 i_pae 0.22 con 1.63 i_con 2.90 plddt 0.90 ptm 0.90 i_ptm 0.86 rg -0.20
+47 models [2] recycles 1 hard 0 soft 0.85 temp 1 loss 4.31 helix 1.31 pae 0.21 i_pae 0.24 con 1.74 i_con 2.87 plddt 0.89 ptm 0.88 i_ptm 0.83 rg -0.14
+48 models [0] recycles 1 hard 0 soft 0.86 temp 1 loss 6.89 helix 0.96 pae 0.57 i_pae 0.68 con 2.42 i_con 4.53 plddt 0.63 ptm 0.72 i_ptm 0.35 rg -0.49
+49 models [0] recycles 1 hard 0 soft 0.88 temp 1 loss 4.58 helix 1.32 pae 0.23 i_pae 0.27 con 1.77 i_con 3.12 plddt 0.87 ptm 0.85 i_ptm 0.81 rg -0.18
+50 models [1] recycles 1 hard 0 soft 0.90 temp 1 loss 6.78 helix 1.10 pae 0.61 i_pae 0.78 con 1.96 i_con 4.89 plddt 0.74 ptm 0.70 i_ptm 0.23 rg -0.41
+Initial trajectory pLDDT good, continuing: 0.9
+Stage 1: Additional Logits Optimisation
+51 models [1] recycles 1 hard 0 soft 0.04 temp 1 loss 5.59 helix 1.23 pae 0.32 i_pae 0.37 con 2.15 i_con 3.64 plddt 0.76 ptm 0.84 i_ptm 0.67 rg -0.12
+52 models [2] recycles 1 hard 0 soft 0.08 temp 1 loss 9.20 helix 1.63 pae 0.88 i_pae 0.90 con 4.33 i_con 5.05 plddt 0.21 ptm 0.68 i_ptm 0.15 rg -0.86
+53 models [2] recycles 1 hard 0 soft 0.12 temp 1 loss 9.78 helix 1.52 pae 0.87 i_pae 0.89 con 4.26 i_con 4.96 plddt 0.22 ptm 0.68 i_ptm 0.17 rg 1.53
+54 models [1] recycles 1 hard 0 soft 0.16 temp 1 loss 4.32 helix 1.43 pae 0.20 i_pae 0.23 con 1.64 i_con 3.03 plddt 0.89 ptm 0.89 i_ptm 0.83 rg -0.16
+55 models [1] recycles 1 hard 0 soft 0.20 temp 1 loss 4.16 helix 1.63 pae 0.19 i_pae 0.22 con 1.61 i_con 2.97 plddt 0.90 ptm 0.88 i_ptm 0.84 rg -0.16
+56 models [1] recycles 1 hard 0 soft 0.24 temp 1 loss 4.13 helix 1.58 pae 0.19 i_pae 0.22 con 1.61 i_con 2.92 plddt 0.90 ptm 0.89 i_ptm 0.84 rg -0.14
+57 models [2] recycles 1 hard 0 soft 0.28 temp 1 loss 7.08 helix 3.94 pae 0.79 i_pae 0.81 con 4.04 i_con 4.01 plddt 0.26 ptm 0.25 i_ptm 0.26 rg -1.00
+58 models [3] recycles 1 hard 0 soft 0.32 temp 1 loss 4.09 helix 1.55 pae 0.18 i_pae 0.21 con 1.59 i_con 2.88 plddt 0.91 ptm 0.90 i_ptm 0.85 rg -0.09
+59 models [4] recycles 1 hard 0 soft 0.36 temp 1 loss 4.00 helix 1.62 pae 0.18 i_pae 0.21 con 1.57 i_con 2.85 plddt 0.92 ptm 0.90 i_ptm 0.86 rg -0.19
+60 models [1] recycles 1 hard 0 soft 0.40 temp 1 loss 4.02 helix 1.68 pae 0.19 i_pae 0.23 con 1.53 i_con 2.91 plddt 0.91 ptm 0.88 i_ptm 0.85 rg -0.10
+61 models [2] recycles 1 hard 0 soft 0.44 temp 1 loss 3.89 helix 1.70 pae 0.18 i_pae 0.21 con 1.52 i_con 2.82 plddt 0.93 ptm 0.89 i_ptm 0.86 rg -0.16
+62 models [0] recycles 1 hard 0 soft 0.48 temp 1 loss 3.99 helix 1.57 pae 0.18 i_pae 0.21 con 1.53 i_con 2.87 plddt 0.92 ptm 0.89 i_ptm 0.85 rg -0.18
+63 models [0] recycles 1 hard 0 soft 0.52 temp 1 loss 3.96 helix 1.64 pae 0.18 i_pae 0.22 con 1.48 i_con 2.93 plddt 0.92 ptm 0.88 i_ptm 0.85 rg -0.23
+64 models [0] recycles 1 hard 0 soft 0.56 temp 1 loss 3.96 helix 1.69 pae 0.18 i_pae 0.22 con 1.50 i_con 2.91 plddt 0.92 ptm 0.87 i_ptm 0.84 rg -0.16
+65 models [3] recycles 1 hard 0 soft 0.60 temp 1 loss 3.75 helix 1.71 pae 0.16 i_pae 0.19 con 1.43 i_con 2.78 plddt 0.93 ptm 0.91 i_ptm 0.87 rg -0.15
+66 models [2] recycles 1 hard 0 soft 0.64 temp 1 loss 3.93 helix 1.73 pae 0.18 i_pae 0.21 con 1.57 i_con 2.81 plddt 0.92 ptm 0.89 i_ptm 0.86 rg -0.12
+67 models [1] recycles 1 hard 0 soft 0.68 temp 1 loss 4.36 helix 1.52 pae 0.20 i_pae 0.23 con 1.65 i_con 3.07 plddt 0.89 ptm 0.89 i_ptm 0.83 rg -0.09
+68 models [0] recycles 1 hard 0 soft 0.72 temp 1 loss 3.89 helix 1.64 pae 0.18 i_pae 0.21 con 1.49 i_con 2.84 plddt 0.92 ptm 0.88 i_ptm 0.85 rg -0.15
+69 models [2] recycles 1 hard 0 soft 0.76 temp 1 loss 3.95 helix 1.60 pae 0.18 i_pae 0.21 con 1.54 i_con 2.82 plddt 0.92 ptm 0.90 i_ptm 0.86 rg -0.12
+70 models [1] recycles 1 hard 0 soft 0.80 temp 1 loss 6.33 helix 1.16 pae 0.51 i_pae 0.53 con 2.30 i_con 4.01 plddt 0.63 ptm 0.79 i_ptm 0.56 rg 0.19
+71 models [3] recycles 1 hard 0 soft 0.84 temp 1 loss 4.85 helix 1.23 pae 0.26 i_pae 0.29 con 1.98 i_con 3.09 plddt 0.81 ptm 0.88 i_ptm 0.77 rg -0.06
+72 models [2] recycles 1 hard 0 soft 0.88 temp 1 loss 4.02 helix 1.56 pae 0.19 i_pae 0.22 con 1.60 i_con 2.81 plddt 0.91 ptm 0.89 i_ptm 0.84 rg -0.09
+73 models [3] recycles 1 hard 0 soft 0.92 temp 1 loss 4.63 helix 1.26 pae 0.22 i_pae 0.26 con 1.79 i_con 3.11 plddt 0.86 ptm 0.89 i_ptm 0.82 rg -0.10
+74 models [3] recycles 1 hard 0 soft 0.96 temp 1 loss 7.92 helix 0.92 pae 0.69 i_pae 0.76 con 3.11 i_con 4.86 plddt 0.49 ptm 0.72 i_ptm 0.26 rg -0.71
+75 models [2] recycles 1 hard 0 soft 1 temp 1 loss 4.98 helix 1.12 pae 0.27 i_pae 0.32 con 1.92 i_con 3.28 plddt 0.84 ptm 0.86 i_ptm 0.76 rg -0.15
+Optimised logit trajectory pLDDT: 0.93
+Stage 2: Softmax Optimisation
+76 models [4] recycles 1 hard 0 soft 1 temp 0.96 loss 4.75 helix 1.16 pae 0.25 i_pae 0.28 con 1.94 i_con 3.06 plddt 0.83 ptm 0.88 i_ptm 0.79 rg -0.16
+77 models [0] recycles 1 hard 0 soft 1 temp 0.91 loss 4.51 helix 1.43 pae 0.21 i_pae 0.25 con 1.61 i_con 3.22 plddt 0.89 ptm 0.86 i_ptm 0.80 rg -0.10
+78 models [4] recycles 1 hard 0 soft 1 temp 0.87 loss 8.02 helix 0.85 pae 0.71 i_pae 0.79 con 2.97 i_con 5.05 plddt 0.49 ptm 0.70 i_ptm 0.25 rg -0.67
+79 models [0] recycles 1 hard 0 soft 1 temp 0.83 loss 7.44 helix 1.01 pae 0.67 i_pae 0.78 con 2.37 i_con 5.10 plddt 0.59 ptm 0.68 i_ptm 0.24 rg -0.50
+80 models [1] recycles 1 hard 0 soft 1 temp 0.79 loss 4.38 helix 1.42 pae 0.21 i_pae 0.24 con 1.70 i_con 3.03 plddt 0.88 ptm 0.88 i_ptm 0.83 rg -0.18
+81 models [3] recycles 1 hard 0 soft 1 temp 0.75 loss 4.33 helix 1.51 pae 0.20 i_pae 0.23 con 1.61 i_con 3.08 plddt 0.90 ptm 0.89 i_ptm 0.83 rg -0.12
+82 models [0] recycles 1 hard 0 soft 1 temp 0.72 loss 4.87 helix 1.23 pae 0.25 i_pae 0.29 con 1.94 i_con 3.18 plddt 0.82 ptm 0.86 i_ptm 0.81 rg -0.14
+83 models [2] recycles 1 hard 0 soft 1 temp 0.68 loss 4.23 helix 1.48 pae 0.22 i_pae 0.26 con 1.63 i_con 2.95 plddt 0.90 ptm 0.86 i_ptm 0.81 rg -0.13
+84 models [1] recycles 1 hard 0 soft 1 temp 0.64 loss 4.15 helix 1.50 pae 0.20 i_pae 0.23 con 1.60 i_con 2.91 plddt 0.89 ptm 0.89 i_ptm 0.84 rg -0.14
+85 models [4] recycles 1 hard 0 soft 1 temp 0.61 loss 4.24 helix 1.45 pae 0.21 i_pae 0.25 con 1.65 i_con 2.96 plddt 0.89 ptm 0.87 i_ptm 0.81 rg -0.23
+86 models [0] recycles 1 hard 0 soft 1 temp 0.58 loss 4.44 helix 1.54 pae 0.22 i_pae 0.26 con 1.59 i_con 3.23 plddt 0.89 ptm 0.85 i_ptm 0.80 rg -0.20
+87 models [4] recycles 1 hard 0 soft 1 temp 0.54 loss 4.12 helix 1.56 pae 0.20 i_pae 0.23 con 1.60 i_con 2.92 plddt 0.90 ptm 0.88 i_ptm 0.83 rg -0.19
+88 models [0] recycles 1 hard 0 soft 1 temp 0.51 loss 4.18 helix 1.54 pae 0.20 i_pae 0.23 con 1.55 i_con 3.03 plddt 0.91 ptm 0.87 i_ptm 0.84 rg -0.19
+89 models [4] recycles 1 hard 0 soft 1 temp 0.48 loss 4.14 helix 1.44 pae 0.20 i_pae 0.23 con 1.62 i_con 2.89 plddt 0.90 ptm 0.89 i_ptm 0.82 rg -0.20
+90 models [0] recycles 1 hard 0 soft 1 temp 0.45 loss 7.30 helix 1.07 pae 0.64 i_pae 0.75 con 2.40 i_con 4.96 plddt 0.61 ptm 0.70 i_ptm 0.25 rg -0.51
+91 models [1] recycles 1 hard 0 soft 1 temp 0.42 loss 4.40 helix 1.46 pae 0.20 i_pae 0.24 con 1.66 i_con 3.09 plddt 0.89 ptm 0.88 i_ptm 0.84 rg -0.14
+92 models [1] recycles 1 hard 0 soft 1 temp 0.39 loss 4.28 helix 1.50 pae 0.20 i_pae 0.23 con 1.57 i_con 3.07 plddt 0.90 ptm 0.89 i_ptm 0.83 rg -0.13
+93 models [0] recycles 1 hard 0 soft 1 temp 0.37 loss 4.50 helix 1.43 pae 0.23 i_pae 0.27 con 1.63 i_con 3.21 plddt 0.88 ptm 0.85 i_ptm 0.79 rg -0.17
+94 models [4] recycles 1 hard 0 soft 1 temp 0.34 loss 4.28 helix 1.56 pae 0.21 i_pae 0.24 con 1.59 i_con 3.10 plddt 0.90 ptm 0.87 i_ptm 0.81 rg -0.23
+95 models [1] recycles 1 hard 0 soft 1 temp 0.32 loss 4.17 helix 1.63 pae 0.20 i_pae 0.24 con 1.55 i_con 3.04 plddt 0.90 ptm 0.88 i_ptm 0.82 rg -0.17
+96 models [0] recycles 1 hard 0 soft 1 temp 0.29 loss 4.49 helix 1.45 pae 0.23 i_pae 0.26 con 1.75 i_con 3.10 plddt 0.86 ptm 0.86 i_ptm 0.79 rg -0.21
+97 models [0] recycles 1 hard 0 soft 1 temp 0.27 loss 4.28 helix 1.57 pae 0.20 i_pae 0.24 con 1.61 i_con 3.08 plddt 0.89 ptm 0.87 i_ptm 0.82 rg -0.20
+98 models [3] recycles 1 hard 0 soft 1 temp 0.25 loss 3.96 helix 1.74 pae 0.17 i_pae 0.20 con 1.47 i_con 2.94 plddt 0.92 ptm 0.91 i_ptm 0.88 rg -0.11
+99 models [2] recycles 1 hard 0 soft 1 temp 0.23 loss 4.06 helix 1.62 pae 0.20 i_pae 0.23 con 1.55 i_con 2.92 plddt 0.91 ptm 0.87 i_ptm 0.83 rg -0.14
+100 models [4] recycles 1 hard 0 soft 1 temp 0.21 loss 4.14 helix 1.58 pae 0.19 i_pae 0.23 con 1.58 i_con 2.95 plddt 0.91 ptm 0.89 i_ptm 0.83 rg -0.14
+101 models [2] recycles 1 hard 0 soft 1 temp 0.19 loss 4.23 helix 1.49 pae 0.22 i_pae 0.26 con 1.62 i_con 2.96 plddt 0.89 ptm 0.86 i_ptm 0.81 rg -0.16
+102 models [4] recycles 1 hard 0 soft 1 temp 0.17 loss 4.15 helix 1.51 pae 0.20 i_pae 0.23 con 1.62 i_con 2.92 plddt 0.89 ptm 0.89 i_ptm 0.83 rg -0.20
+103 models [2] recycles 1 hard 0 soft 1 temp 0.15 loss 4.16 helix 1.56 pae 0.21 i_pae 0.24 con 1.60 i_con 2.95 plddt 0.90 ptm 0.88 i_ptm 0.83 rg -0.16
+104 models [0] recycles 1 hard 0 soft 1 temp 0.14 loss 8.54 helix 1.06 pae 0.74 i_pae 0.83 con 3.19 i_con 5.29 plddt 0.48 ptm 0.69 i_ptm 0.19 rg -0.32
+105 models [1] recycles 1 hard 0 soft 1 temp 0.12 loss 7.12 helix 1.09 pae 0.52 i_pae 0.55 con 2.89 i_con 4.12 plddt 0.58 ptm 0.78 i_ptm 0.50 rg 0.35
+106 models [3] recycles 1 hard 0 soft 1 temp 0.11 loss 3.95 helix 1.63 pae 0.18 i_pae 0.21 con 1.53 i_con 2.84 plddt 0.91 ptm 0.90 i_ptm 0.84 rg -0.17
+107 models [1] recycles 1 hard 0 soft 1 temp 0.09 loss 5.41 helix 1.24 pae 0.29 i_pae 0.32 con 2.18 i_con 3.48 plddt 0.77 ptm 0.86 i_ptm 0.73 rg -0.18
+108 models [2] recycles 1 hard 0 soft 1 temp 0.08 loss 4.31 helix 1.48 pae 0.21 i_pae 0.25 con 1.66 i_con 3.02 plddt 0.90 ptm 0.87 i_ptm 0.81 rg -0.17
+109 models [4] recycles 1 hard 0 soft 1 temp 0.07 loss 4.27 helix 1.43 pae 0.21 i_pae 0.24 con 1.70 i_con 2.93 plddt 0.88 ptm 0.89 i_ptm 0.82 rg -0.20
+110 models [0] recycles 1 hard 0 soft 1 temp 0.06 loss 5.25 helix 1.41 pae 0.32 i_pae 0.39 con 1.76 i_con 3.80 plddt 0.84 ptm 0.81 i_ptm 0.63 rg -0.30
+111 models [2] recycles 1 hard 0 soft 1 temp 0.05 loss 4.28 helix 1.49 pae 0.21 i_pae 0.25 con 1.67 i_con 2.97 plddt 0.89 ptm 0.87 i_ptm 0.81 rg -0.15
+112 models [0] recycles 1 hard 0 soft 1 temp 0.04 loss 4.80 helix 1.37 pae 0.26 i_pae 0.31 con 1.66 i_con 3.45 plddt 0.86 ptm 0.85 i_ptm 0.73 rg -0.21
+113 models [2] recycles 1 hard 0 soft 1 temp 0.03 loss 4.28 helix 1.54 pae 0.21 i_pae 0.24 con 1.70 i_con 2.96 plddt 0.89 ptm 0.88 i_ptm 0.83 rg -0.15
+114 models [2] recycles 1 hard 0 soft 1 temp 0.03 loss 4.72 helix 1.53 pae 0.23 i_pae 0.27 con 1.84 i_con 3.23 plddt 0.86 ptm 0.88 i_ptm 0.81 rg -0.12
+115 models [2] recycles 1 hard 0 soft 1 temp 0.02 loss 4.39 helix 1.49 pae 0.22 i_pae 0.26 con 1.71 i_con 3.05 plddt 0.88 ptm 0.88 i_ptm 0.82 rg -0.18
+116 models [3] recycles 1 hard 0 soft 1 temp 0.02 loss 4.30 helix 1.52 pae 0.20 i_pae 0.23 con 1.60 i_con 3.06 plddt 0.90 ptm 0.90 i_ptm 0.83 rg -0.08
+117 models [2] recycles 1 hard 0 soft 1 temp 0.01 loss 4.42 helix 1.48 pae 0.22 i_pae 0.26 con 1.70 i_con 3.07 plddt 0.89 ptm 0.87 i_ptm 0.81 rg -0.15
+118 models [0] recycles 1 hard 0 soft 1 temp 0.01 loss 4.91 helix 1.41 pae 0.25 i_pae 0.29 con 1.80 i_con 3.43 plddt 0.85 ptm 0.86 i_ptm 0.77 rg -0.17
+119 models [0] recycles 1 hard 0 soft 1 temp 0.01 loss 4.67 helix 1.35 pae 0.24 i_pae 0.28 con 1.80 i_con 3.14 plddt 0.85 ptm 0.86 i_ptm 0.79 rg -0.02
+120 models [1] recycles 1 hard 0 soft 1 temp 0.01 loss 8.14 helix 1.08 pae 0.73 i_pae 0.82 con 2.97 i_con 5.13 plddt 0.53 ptm 0.70 i_ptm 0.21 rg -0.33
+Softmax trajectory pLDDT good, continuing: 0.91
+Stage 3: One-hot Optimisation
+121 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 4.05 helix 1.57 pae 0.19 i_pae 0.22 con 1.54 i_con 2.89 plddt 0.89 ptm 0.89 i_ptm 0.85 rg -0.08
+122 models [2] recycles 1 hard 1 soft 1 temp 0.01 loss 4.21 helix 1.50 pae 0.21 i_pae 0.25 con 1.62 i_con 2.94 plddt 0.89 ptm 0.86 i_ptm 0.82 rg -0.09
+123 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 4.10 helix 1.56 pae 0.19 i_pae 0.22 con 1.53 i_con 2.95 plddt 0.89 ptm 0.88 i_ptm 0.84 rg -0.08
+124 models [1] recycles 1 hard 1 soft 1 temp 0.01 loss 4.21 helix 1.59 pae 0.20 i_pae 0.23 con 1.56 i_con 3.03 plddt 0.89 ptm 0.88 i_ptm 0.84 rg -0.10
+125 models [4] recycles 1 hard 1 soft 1 temp 0.01 loss 4.44 helix 1.34 pae 0.22 i_pae 0.25 con 1.73 i_con 3.01 plddt 0.86 ptm 0.87 i_ptm 0.82 rg -0.12
+One-hot trajectory pLDDT good, continuing: 0.89
+Stage 4: PSSM Semigreedy Optimisation
+Running semigreedy optimization...
+126 models [4] recycles 1 hard 1 soft 0 temp 1 loss 4.41 helix 1.35 pae 0.22 i_pae 0.25 con 1.71 i_con 3.01 plddt 0.86 ptm 0.87 i_ptm 0.83 rg -0.14
+127 models [4] recycles 1 hard 1 soft 0 temp 1 loss 4.36 helix 1.38 pae 0.21 i_pae 0.24 con 1.69 i_con 2.99 plddt 0.87 ptm 0.88 i_ptm 0.83 rg -0.14
+128 models [4] recycles 1 hard 1 soft 0 temp 1 loss 4.31 helix 1.45 pae 0.21 i_pae 0.24 con 1.65 i_con 3.01 plddt 0.88 ptm 0.88 i_ptm 0.83 rg -0.15
+129 models [3] recycles 1 hard 1 soft 0 temp 1 loss 4.10 helix 1.55 pae 0.19 i_pae 0.23 con 1.55 i_con 2.92 plddt 0.90 ptm 0.89 i_ptm 0.84 rg -0.08
+130 models [4] recycles 1 hard 1 soft 0 temp 1 loss 4.29 helix 1.48 pae 0.21 i_pae 0.24 con 1.65 i_con 2.99 plddt 0.88 ptm 0.88 i_ptm 0.83 rg -0.12
+131 models [0] recycles 1 hard 1 soft 0 temp 1 loss 4.26 helix 1.53 pae 0.22 i_pae 0.26 con 1.60 i_con 3.00 plddt 0.88 ptm 0.85 i_ptm 0.80 rg -0.03
+132 models [4] recycles 1 hard 1 soft 0 temp 1 loss 4.27 helix 1.52 pae 0.20 i_pae 0.24 con 1.66 i_con 2.96 plddt 0.88 ptm 0.88 i_ptm 0.83 rg -0.08
+133 models [4] recycles 1 hard 1 soft 0 temp 1 loss 4.21 helix 1.53 pae 0.20 i_pae 0.23 con 1.64 i_con 2.94 plddt 0.89 ptm 0.88 i_ptm 0.84 rg -0.08
+134 models [0] recycles 1 hard 1 soft 0 temp 1 loss 4.46 helix 1.56 pae 0.21 i_pae 0.25 con 1.60 i_con 3.20 plddt 0.88 ptm 0.87 i_ptm 0.83 rg 0.01
+135 models [3] recycles 1 hard 1 soft 0 temp 1 loss 4.38 helix 1.57 pae 0.19 i_pae 0.23 con 1.61 i_con 3.15 plddt 0.90 ptm 0.90 i_ptm 0.86 rg -0.06
+136 models [1] recycles 1 hard 1 soft 0 temp 1 loss 6.09 helix 1.23 pae 0.38 i_pae 0.41 con 2.46 i_con 3.71 plddt 0.66 ptm 0.84 i_ptm 0.71 rg 0.14
+137 models [4] recycles 1 hard 1 soft 0 temp 1 loss 4.28 helix 1.50 pae 0.20 i_pae 0.23 con 1.62 i_con 3.00 plddt 0.89 ptm 0.88 i_ptm 0.84 rg -0.03
+138 models [0] recycles 1 hard 1 soft 0 temp 1 loss 4.39 helix 1.55 pae 0.21 i_pae 0.24 con 1.58 i_con 3.14 plddt 0.88 ptm 0.87 i_ptm 0.84 rg 0.05
+139 models [3] recycles 1 hard 1 soft 0 temp 1 loss 4.22 helix 1.53 pae 0.19 i_pae 0.22 con 1.56 i_con 3.00 plddt 0.90 ptm 0.90 i_ptm 0.86 rg 0.01
+140 models [0] recycles 1 hard 1 soft 0 temp 1 loss 4.36 helix 1.61 pae 0.21 i_pae 0.25 con 1.56 i_con 3.15 plddt 0.89 ptm 0.86 i_ptm 0.84 rg -0.01
+Trajectory successful, final pLDDT: 0.89
+Starting trajectory took: 0 hours, 55 minutes, 0 seconds
+
+Fixing interface residues: B13,B14,B17,B18,B20,B21,B22,B23,B24,B25,B26,B27,B28,B29,B30,B32,B33,B34,B36,B37,B40,B41,B64,B68,B71,B72,B73,B74,B75,B76,B77,B78,B79,B80,B81,B82,B83,B84,B85,B86,B87,B131,B132,B134,B138,B140,B141,B142,B144,B145
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn1, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn2, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn3, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn4, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn5, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn6, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn7, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn8, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn9, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn10, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn11, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn12, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn13, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn14, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn15, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn16, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn17, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn18, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn19, skipping interface scoring
+Base AF2 filters not passed for 2q06_trimmed_moderate_l149_s17686_mpnn20, skipping interface scoring
+No accepted MPNN designs found for this trajectory.
+Design and validation of trajectory 2q06_trimmed_moderate_l149_s17686 took: 0 hours, 5 minutes, 26 seconds
